@@ -2,8 +2,9 @@
 article_id: BAS-02-A04
 title: "Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan"
 slug: "perbandingan-metode-pengendalian-rayap"
-description: "Compare target, site fit, disruption, evidence, monitoring, exposure, limitations, and follow-up"
-status: outline
+description: "Bandingkan baiting, barrier tanah, dan treatment lokal rayap berdasarkan sasaran, kecocokan lokasi, gangguan, bukti, monitoring, paparan, keterbatasan, dan tindak lanjut."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -24,186 +25,83 @@ sources:
   - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan
 
-## Assignment lock
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004
+Source type: local
+Placement: after opening answer, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi rayap tanah](/wp-content/uploads/2023/11/rayap-tanah.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies rayap tanah as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image; if unavailable, use [NEEDS IMAGE REVIEW: LOCAL-004].
+END MANAGED IMAGE PLAN -->
 
-- **Writer task:** Expand this file into one complete article answering: “Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan”
-- **Reader and situation:** Buyer reviewing proposals
-- **Reader outcome:** Compare target, site fit, disruption, evidence, monitoring, exposure, limitations, and follow-up
-- **Primary intent:** Compare termite methods
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Sobat Basmi.co.id`
-- **Natural variants:** `Kawan Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes termiticide dose, trenching, drilling, or bait recipes; BAS-14-A01 owns label safety
-- **Final public route:** `/artikel/perbandingan-metode-pengendalian-rayap.html`
-- **Appointed CMS date:** `2025-05-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Sobat Basmi.co.id! Ketika proposal menyebut baiting, barrier tanah, dan treatment lokal, jangan langsung memilih yang terdengar paling kuat atau paling murah. Ketiganya menyasar bagian sistem yang berbeda. Pilihan yang masuk akal adalah yang cocok dengan bukti rayap, kondisi lokasi, gangguan yang dapat diterima, dan rencana pemantauan.
 
-## Opening instructions
+Jawaban singkatnya: baiting layak dibandingkan saat Anda membutuhkan pemantauan terjadwal dengan gangguan fisik minimal; barrier tanah dipertimbangkan ketika jalur kontak tanah–bangunan perlu ditangani sebagai satu zona; treatment lokal lebih masuk akal ketika bukti terkonsentrasi pada titik tertentu dan ruang lingkupnya dapat dibatasi. Ini bukan pemenang universal. Identitas organisme, luas aktivitas, kelembapan, riwayat pekerjaan, akses, dan paparan penghuni dapat mengubah keputusan. Sayap rontok, liang lumpur, kayu berongga, atau area lembap adalah masukan survei, bukan bukti tunggal tentang spesies atau sisa kekuatan struktur ([EPA](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them); [USDA Forest Products Laboratory](https://www.fpl.fs.usda.gov/research/research_emphasis_areas/wood_protection.php)).
 
-- Open with the exact short salutation: **“Halo, Sobat Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Basmi.co.id`, `Kawan Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi rayap tanah](/wp-content/uploads/2023/11/rayap-tanah.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi rayap tanah](/wp-content/uploads/2023/11/rayap-tanah.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `rayap tanah` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
-
-### KR-08
-
-- **Original sources:** [US EPA termite control information](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them), [USDA Forest Products Laboratory publications](https://www.fpl.fs.usda.gov/research/research_emphasis_areas/wood_protection.php).
-- **Purpose for this article:** Separate termite signs and control pathways from building diagnosis and repair.
-- **Safe grounded facts:** Swarmers, discarded wings, mud tubes, hollow/damaged wood, moisture, soil contact, and treatment history are evidence inputs, not proof of species or remaining capacity.
-- **Limits:** No DIY termiticide, drilling, barrier, bait placement, or structural verdict. Require Indonesian product labels, a qualified termite specialist, and an engineer for structural concerns.
-
-### KR-14
-
-- **Original sources:** [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683), [Indonesia PUPR building information portal](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground leak, condensation, drainage, penetration, gap, void, and exclusion content without turning pest observation into building design.
-- **Safe grounded facts:** A moisture reading or pest sign does not identify the leak path, condensation mechanism, hidden damage, electrical safety, or structural adequacy.
-- **Limits:** Require an actual building survey and relevant building, plumbing, envelope, electrical, or structural professional before repair details or compliance claims.
-
-### KR-17
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK legal record](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace vague extermination promises with comparable scope and retrievable evidence.
-- **Safe grounded facts:** Baseline, target, site/zone, device map, visit frequency, product disclosure, preparation, exclusions, threshold, response, trend, corrective action, incident path, report, warranty, and price can be stated separately.
-- **Limits:** No fabricated price, client, case study, review, eradication, response time, warranty, or legal entitlement. Require dated operator-approved evidence and legal review.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-07, EG-10
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jasa-pembasmi-rayap-tanah-laut.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-rayap-tanah-laut` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-rayap-tanah-datar.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-rayap-tanah-datar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-rayap-tanah-bumbu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-rayap-tanah-bumbu` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-02-A02` → `/artikel/rayap-tanah-vs-rayap-kayu-kering.html` — Rayap Tanah dan Rayap Kayu Kering: Perbedaan Bukti dan Survei
-- `BAS-02-A03` → `/artikel/survei-rayap-bangunan-jadi.html` — Survei Rayap pada Bangunan Jadi: Area dan Bukti yang Perlu Dipetakan
-- `BAS-02-A05` → `/artikel/anti-rayap-pra-konstruksi.html` — Anti Rayap Pra-Konstruksi: Dokumen, Koordinasi, dan Titik Verifikasi
-- `BAS-02-A06` → `/artikel/memahami-garansi-anti-rayap.html` — Garansi Anti Rayap: Membaca Syarat Inspeksi dan Pengecualian
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pembeli proposal sering membandingkan tiga nama seolah-olah semuanya paket yang saling menggantikan. Padahal, satu penawaran mungkin berfokus pada pemantauan aktivitas, yang lain pada jalur masuk di tanah, dan yang lain hanya pada kayu yang terlihat. Jika sasaran tidak ditulis, kalimat “mengatasi rayap” tidak bisa dibandingkan secara adil.
+
+Mulailah dari pertanyaan: bukti apa yang hendak diubah, di zona mana, dan kapan perubahan itu dinilai? Catat titik temuan, kondisi lembap, kontak kayu dengan tanah, kerusakan yang terlihat, dan riwayat treatment. Data ini membantu memisahkan pengendalian hama dari diagnosis bangunan; kelembapan atau tanda rayap tidak dengan sendirinya menemukan jalur kebocoran, kerusakan tersembunyi, atau kecukupan struktur ([WHO](https://www.who.int/publications/i/item/9789289041683); [SIMBG PUPR](https://simbg.pu.go.id/)).
+
+Jika ada dugaan kerusakan penyangga, tahan keputusan teknis sampai tenaga bangunan yang relevan memeriksa. [NEEDS EG-01/EG-07: identitas rayap, luas aktivitas, sumber kelembapan, dan kecukupan struktur harus dikonfirmasi lewat survei lapangan.] Untuk menyusun pertanyaan awal, Anda dapat melihat [jasa pembasmi rayap tanah](/jasa-pembasmi-rayap-tanah-laut.html) sebagai rujukan ruang lingkup, bukan bukti bahwa metode tertentu otomatis cocok.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baiting adalah pendekatan dengan media pemantauan dan umpan dalam sistem yang diperiksa berkala. Nilai utamanya bagi pembeli bukan janji “sekali pasang selesai”, melainkan apakah lokasi, jadwal kunjungan, pencatatan, dan aturan tindak lanjutnya jelas. Tanpa peta perangkat dan catatan tanggal, Anda sulit mengetahui apakah keadaan berubah atau hanya tidak terlihat pada satu kunjungan.
+
+Barrier tanah membahas batas antara tanah dan bangunan. Proposalnya perlu menjelaskan zona yang dicakup, antarmuka yang dapat diakses, bagian yang dikecualikan, dan cara menangani perubahan bangunan atau pekerjaan tanah. Istilah barrier tidak membuktikan seluruh jalur sudah tertutup; detail pelaksanaan harus berasal dari survei dan rencana profesional, bukan ditebak dari nama produk.
+
+Treatment lokal membatasi tindakan pada titik atau area dengan bukti yang lebih terarah. Batas ini dapat mengurangi pembongkaran, tetapi juga dapat melewatkan jalur lain bila surveinya sempit. Tanda pada kayu, kelembapan, dan riwayat treatment harus dibaca bersama karena bukti tersebut tidak otomatis menetapkan spesies maupun kapasitas sisa kayu ([EPA](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them)).
+
+Jangan menganggap nama bahan aktif sebagai identitas metode. Bahan aktif yang sama dapat hadir dalam formulasi dan penggunaan berbeda; lembar data keselamatan atau halaman pemasaran tidak menggantikan label yang disetujui di Indonesia ([Permentan No. 43 Tahun 2019](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-); [Pedoman PKRT Kemenkes](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf)). [NEEDS EG-02/EG-04: produk, label, paparan, dan pengelolaan bahan harus diverifikasi tenaga kompeten; artikel ini tidak memuat dosis, campuran, pengeboran, penempatan, atau instruksi keselamatan.]
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bandingkan sasaran terlebih dahulu. Tanyakan apakah proposal menargetkan aktivitas yang sedang terpantau, jalur masuk, atau titik kerusakan. Minta definisi “terkendali” dan bukti yang akan dipakai untuk menyatakannya, bukan hanya foto sebelum pekerjaan.
+
+Lalu cocokkan dengan kondisi lokasi. Periksa akses ke tanah, rongga, ruang servis, kelembapan, saluran, dan perubahan bangunan yang direncanakan. Pengukuran kelembapan hanya menunjukkan kondisi pada titik dan waktu tertentu; ia tidak mengungkap mekanisme kondensasi atau kebocoran tanpa survei bangunan yang memadai ([WHO](https://www.who.int/publications/i/item/9789289041683)).
+
+Gangguan dan paparan juga harus tertulis. Berapa area yang perlu dikosongkan, pekerjaan apa yang mengganggu operasional, siapa penanggung jawab komunikasi penghuni, dan jalur insiden apa yang tersedia? Jangan menerima klaim “aman untuk semua” tanpa label, penilaian paparan, dan batas penggunaan yang spesifik.
+
+Kriteria berikutnya adalah pemantauan. Proposal yang dapat dibandingkan menyebut kondisi awal, peta zona atau perangkat, frekuensi kunjungan, ambang tindakan, cara melaporkan tren, dan tindakan korektif. Harga, jumlah kunjungan, jaminan, dan waktu tanggap adalah data komersial yang harus bertanggal dan disetujui operator; tanpa itu, [NEEDS EG-11/EG-12: klaim performa, garansi, harga, atau hasil klien belum dapat dipastikan.]
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baiting layak dipertimbangkan pada lokasi yang bisa dipantau konsisten dan pemilik bersedia menunggu siklus pengamatan. Tanyakan siapa yang berkunjung, apa yang dicatat, dan apa pemicu perubahan rencana. Jika akses sering tertutup atau jadwal tidak dapat dipenuhi, keunggulan pemantauan itu tidak otomatis terwujud.
+
+Barrier tanah masuk akal ketika bukti menunjukkan antarmuka tanah–bangunan sebagai perhatian utama dan zona tersebut dapat disurvei dengan jelas. Minta peta batas dan daftar pengecualian. Pada bangunan yang sering direnovasi atau terganggu utilitasnya, rencana pemeliharaan dan pemeriksaan ulang sama pentingnya dengan pekerjaan awal.
+
+Treatment lokal dapat dipilih ketika bukti benar-benar terlokalisasi, area lain sudah diperiksa, dan pemilik menerima batas hasilnya. Contohnya, satu titik kayu menunjukkan aktivitas sementara survei tidak menemukan jalur lain. Jika tanda muncul di beberapa sisi atau kelembapan belum ditangani, ruang lingkup lokal perlu ditinjau ulang, bukan diperluas diam-diam.
+
+Kawan Basmi.co.id, kombinasi metode pun bukan jawaban otomatis. Kombinasi harus menjelaskan sasaran masing-masing, urutan, titik serah-terima, dan cara menghindari tumpang tindih atau paparan yang tidak perlu. Keputusan akhir memerlukan [NEEDS EG-03: survei lokasi, penilaian risiko, rencana profesional, dan desain pemantauan.]
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih berdasarkan kata “paling ampuh”. Ampuh terhadap apa, di zona mana, dan menurut pengukuran apa? Tanpa baseline dan ambang tindakan, istilah itu hanya slogan.
+
+Kedua, mengira satu kunjungan tanpa temuan berarti masalah selesai. Aktivitas dapat berubah lokasi, tanda lama dapat tetap terlihat, dan bangunan dapat menyimpan kondisi lembap. Minta tren bertanggal, bukan kesan dari satu inspeksi.
+
+Ketiga, menyamakan tanda hama dengan putusan struktur. Kayu berongga perlu ditindaklanjuti, tetapi hanya pemeriksaan bangunan yang dapat menilai kecukupan penyangga. Jangan membongkar, mengebor, atau memperbaiki bagian kritis berdasarkan artikel ini.
+
+Keempat, menerima produk atau bahan aktif tanpa mencocokkan label Indonesia. Formulasi dan penggunaan resmi bisa berbeda walau namanya sama ([Permentan No. 43 Tahun 2019](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-)).
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Baiting, Barrier Tanah, dan Treatment Lokal Rayap: Cara Membandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta proposal yang memisahkan baseline dan target; peta zona atau perangkat; metode dan batas area; persiapan serta pengecualian; frekuensi kunjungan; ambang dan respons; format laporan; jalur insiden; serta siapa yang menyetujui perubahan. Dengan susunan ini, baiting, barrier tanah, dan treatment lokal dapat dibandingkan pada kolom yang sama.
 
-## Objection or shortcut to address
+Minta identitas produk dan label yang berlaku, bukan hanya brosur. Jangan meminta atau mengikuti resep dosis, campuran, penempatan, atau masa masuk kembali dari artikel umum. Untuk klaim layanan, minta bukti bertanggal, pemilik data, ruang lingkup, masa berlaku, dan batasnya. Prinsip informasi konsumen menuntut keterangan yang dapat ditelusuri, tetapi penerapannya pada kontrak tertentu tetap memerlukan peninjauan hukum ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999); [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Teman Basmi.co.id, sebelum menandatangani, cocokkan setiap janji dengan nama penanggung jawab dan tanggal pemeriksaan berikutnya. Bila sumber kelembapan, jalur utilitas, atau dugaan kerusakan struktur belum jelas, hentikan pemilihan metode dan minta survei bangunan yang relevan. Anda juga dapat membandingkan ruang lingkup pada [layanan pembasmi rayap tanah datar](/jasa-pembasmi-rayap-tanah-datar.html), lalu tetap meminta dokumen lokasi Anda sendiri.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Cara membandingkan baiting, barrier tanah, dan treatment lokal adalah menyamakan sasaran, zona, gangguan, paparan, pemantauan, bukti, dan tindak lanjut—bukan mengadu nama metode. Pilih hanya setelah survei menetapkan bukti yang cukup dan proposal menjelaskan batas serta cara mengukur perubahan. Aturan operasionalnya sederhana: tanpa baseline, peta, label yang sesuai, dan penanggung jawab review, jangan menganggap penawaran sebagai hasil pengendalian yang terbukti.

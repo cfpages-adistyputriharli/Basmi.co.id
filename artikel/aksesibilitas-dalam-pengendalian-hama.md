@@ -3,7 +3,8 @@ article_id: BAS-15-A06
 title: "Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama"
 slug: "aksesibilitas-dalam-pengendalian-hama"
 description: "Plan communication format, mobility, sensory needs, assistance, equipment, routes, consent, timing, and emergency access"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,199 +16,85 @@ final_route: "/artikel/aksesibilitas-dalam-pengendalian-hama.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
   - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
-  - "https://www.who.int/publications-detail-redirect/9789241516884"
   - "https://www.who.int/publications/i/item/9789240111905"
-  - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
-  - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
   - "https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1"
-  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides"
   - "https://kemkes.go.id/id/layanan/psc-119"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama
 
-## Assignment lock
+Halo, Kawan Basmi.co.id! Pengendalian hama di fasilitas yang dihuni penyandang disabilitas tidak dimulai dari memilih bahan atau menyuruh semua orang keluar. Keputusan pertama adalah memastikan setiap penghuni dapat menerima informasi, menyampaikan persetujuan atau keberatan, bergerak ke tempat aman, dan kembali ketika kondisi memang sudah dinyatakan sesuai.
 
-- **Writer task:** Expand this file into one complete article answering: “Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama”
-- **Reader and situation:** Facility serving disabled occupants
-- **Reader outcome:** Plan communication format, mobility, sensory needs, assistance, equipment, routes, consent, timing, and emergency access
-- **Primary intent:** Make service accessible
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Kawan Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes medical assumptions or one-size-fits-all accommodations; the occupant and competent facility team own needs
-- **Final public route:** `/artikel/aksesibilitas-dalam-pengendalian-hama.html`
-- **Appointed CMS date:** `2026-04-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, siapkan rencana akses bersama penghuni dan tim fasilitas sebelum kunjungan. Catat format komunikasi, kebutuhan mobilitas dan sensorik, pendamping, rute, peralatan bantu, waktu paling aman, serta jalur darurat. Rencana itu dapat berubah setelah survei lokasi, identifikasi hama, label produk, ventilasi, atau aturan fasilitas ditinjau. Bahaya dan paparan harus dinilai bersama; label “alami”, “rendah bau”, atau “profesional” saja tidak membuktikan aman bagi orang tertentu ([WHO](https://www.who.int/publications/i/item/9789240111905)).
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: setelah pembukaan, sebelum H2 pertama
+**Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies basmi hama as relevant content media; no pixels were inspected.
+Hard boundary: jangan infer detail visual, kepemilikan, lokasi, orang, merek, kondisi, kinerja, atau hasil.
+Substitution rule: jangan mengganti gambar; bila tidak tersedia, gunakan [NEEDS IMAGE REVIEW: LOCAL-002].
+END MANAGED IMAGE PLAN -->
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
 
-- Open with the exact short salutation: **“Halo, Kawan Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Basmi.co.id`, `Sobat Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-06
-
-- **Original sources:** [WHO/FAO global pesticide-management survey](https://www.who.int/publications-detail-redirect/9789241516884), [WHO 2025 risk-reduction guidance](https://www.who.int/publications/i/item/9789240111905).
-- **Purpose for this article:** Connect procurement and use to exposure, storage, transport, resistance, waste, and phase-out decisions.
-- **Safe grounded facts:** Hazard and exposure both matter. “Approved,” “natural,” “low odor,” or “professional grade” alone does not establish safety for a person, animal, surface, or environment.
-- **Limits:** International guidance does not override an Indonesian label or emergency instruction.
-
-### KR-09
-
-- **Original sources:** [CDC rodent-control guidance](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf).
-- **Purpose for this article:** Ground proofing, sanitation, contamination control, monitoring, and food-facility interfaces.
-- **Safe grounded facts:** Droppings, gnawing, tracks, odor, sightings, burrows, and device data have different evidential value. Cleanup and food protection require their own exposure controls.
-- **Limits:** Do not diagnose disease, publish bait or trap placement recipes, or infer legal wildlife status. Use the applicable label and health/wildlife authority.
-
-### KR-13
-
-- **Original sources:** [WHO cleaning and disinfection guidance](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent disinfection claims from replacing soil removal, label scope, exposure control, or verification.
-- **Safe grounded facts:** Target organism/claim, surface, pre-cleaning, concentration, contact time, compatibility, ventilation, food contact, PPE, and verification are separate inputs.
-- **Limits:** Never invent dilution, mixture, contact time, PPE, sterilization, or incident response; use the current Indonesian authorization and product label.
-
-### KR-15
-
-- **Original sources:** [WHO pesticide-poisoning prevention resources](https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides), [Indonesia emergency health service 119 information](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Provide a safe boundary for children, pregnancy, older people, disability, asthma/allergy, pets, neighbors, and suspected exposure.
-- **Safe grounded facts:** Odor is not a reliable measure of hazard or exposure; “natural” does not prove safe; absence of immediate symptoms does not validate a procedure.
-- **Limits:** No diagnosis, first aid, antidote, or individualized safety declaration. Follow the product label and contact emergency/poison/medical or veterinary professionals.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-02, EG-04, EG-05, EG-06, EG-08, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-15-A04` → `/artikel/dokumentasi-keluhan-setelah-treatment.html` — Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis
-- `BAS-15-A05` → `/artikel/treatment-rumah-berpenghuni-vs-relokasi.html` — Treatment di Rumah Tetap Berpenghuni atau Perlu Relokasi Sementara
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aksesibilitas berarti layanan dapat dipahami dan dijalani dengan aman oleh orang yang benar-benar berada di fasilitas itu. Disabilitas bukan satu paket kebutuhan: pengguna kursi roda mungkin memerlukan ruang putar dan rute bebas hambatan, sementara orang dengan sensitivitas sensorik mungkin perlu pemberitahuan suara, bau, atau aktivitas yang lebih rinci. Tanyakan kebutuhan yang ingin dibagikan; jangan menebak diagnosis atau kemampuan seseorang.
+
+Kesalahan mahal terjadi ketika pengelola menyamakan “sudah memberi pengumuman” dengan “semua orang sudah paham”. Pengumuman satu kali melalui tulisan kecil dapat tidak terbaca, tidak terdengar, atau tidak memberi waktu untuk mengatur pendamping dan alat bantu. Sediakan format yang disepakati, ulangi informasi penting, lalu minta konfirmasi tanpa memaksa seseorang membuka data medis.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas persiapan layanan: siapa menerima informasi, kapan area ditutup, bagaimana rute dipertahankan, siapa membantu, dan bukti apa yang harus ditinjau sebelum masuk kembali. Ini bukan diagnosis medis, resep akomodasi, atau jaminan bahwa metode tertentu aman untuk semua orang. Penghuni dan tim fasilitas memegang pengetahuan paling dekat tentang kebutuhan sehari-hari; penyedia pengendalian hama perlu menerjemahkannya menjadi persyaratan kerja yang dapat diperiksa.
+
+Aspek hukum juga perlu diperiksa pada waktunya. Lingkup kesehatan lingkungan, vektor, bangunan, limbah, dan tindakan kesehatan publik dapat melibatkan kewenangan berbeda, dan ringkasan lama tidak otomatis menggambarkan kewajiban saat ini. Cocokkan kelas fasilitas, penerapan daerah, serta ketentuan yang masih berlaku dengan sumber resmi sebelum menulis klaim kepatuhan ([catatan regulasi BPK](https://peraturan.bpk.go.id/Details/245563/permenkes); [viewer Permenkes 2026](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan rapat singkat yang melibatkan penanggung jawab fasilitas, penghuni atau wakil yang dipilihnya, pendamping, dan pelaksana. Tanyakan empat hal: cara menerima pesan, cara berpindah, pemicu yang perlu dihindari, dan bantuan yang tidak boleh diubah tanpa persetujuan. Simpan jawaban sebagai kebutuhan operasional, bukan label pribadi.
+
+Berikutnya, petakan rute dari kamar atau ruang aktivitas menuju titik aman, toilet, pintu keluar, dan area tunggu. Tandai pintu yang berat, lantai licin, tangga, lift, koridor sempit, kabel, serta lokasi alat bantu. Rute alternatif harus tetap terbuka selama pekerjaan. Jangan menaruh peralatan, wadah, atau penghalang sementara di jalur evakuasi; bila satu-satunya akses terpengaruh, pekerjaan ditahan sampai tim fasilitas menetapkan jalur pengganti yang benar-benar dapat dipakai.
+
+Tetapkan satu penghubung komunikasi. Ia mengirim jadwal, zona kerja, larangan masuk, perubahan waktu, dan kriteria selesai dalam format yang disetujui. Informasi lisan sebaiknya punya catatan tertulis atau visual; informasi tertulis sebaiknya dapat dibacakan. Beri kesempatan penghuni bertanya dan mengoreksi pemahaman, bukan sekadar membubuhkan tanda tangan.
+
+Sebelum tindakan, cocokkan target hama dan metode dengan label produk, ventilasi, permukaan, makanan, alat bantu, hewan, serta paparan yang mungkin terjadi. Untuk pembersihan atau disinfeksi, sasaran organisme, permukaan, pra-pembersihan, waktu kontak, kompatibilitas, ventilasi, dan verifikasi adalah masukan terpisah; jangan mengisi salah satunya dari ingatan ([WHO cleaning and disinfection](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Waktu kunjungan harus mengikuti rutinitas penghuni, jadwal obat atau terapi yang diinformasikan secara sukarela, waktu makan, dan ketersediaan pendamping. Jika perubahan mendadak membuat seseorang kehilangan dukungan, jadwal itu tidak aksesibel walaupun area kosong. Buat batas pemberitahuan dan orang pengganti yang dapat dihubungi.
+
+Perhatikan indera dan alat bantu. Bau tidak dapat menjadi ukuran tunggal bahaya atau paparan; tidak adanya gejala segera juga tidak memvalidasi prosedur ([WHO pesticide-poisoning resources](https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides)). Tanyakan apakah alarm suara, lampu berkedip, masker, sarung tangan, atau suara mesin mengganggu komunikasi atau fungsi alat bantu. Jangan menutup ventilasi, memindahkan pegangan, atau menonaktifkan alarm tanpa persetujuan tim fasilitas.
+
+Metode dan bahan menentukan kebutuhan pemisahan. Klaim “aman untuk penyandang disabilitas” harus ditolak bila tidak ada penilaian orang, produk, paparan, dan kondisi ruang yang spesifik. **[NEEDS EG-06: tinjauan profesional untuk kebutuhan individu, paparan, relokasi, dan kembali masuk belum tersedia.]** Gunakan label Indonesia yang berlaku dan instruksi keadaan daruratnya; panduan internasional tidak menggantikan keduanya.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah hunian memiliki penghuni pengguna kursi roda dan penghuni dengan sensitivitas terhadap bau. Tim menemukan aktivitas hama di koridor menuju ruang makan. Keputusan yang aksesibel bukan otomatis memindahkan semua penghuni. Tim perlu menyepakati koridor alternatif, jam makan pengganti, format pemberitahuan yang dapat diterima, lokasi pendamping, dan cara menjaga alat bantu tetap bersih serta tidak terhalang.
+
+Jika rute alternatif tidak tersedia, area tidak dapat dipisahkan, atau ventilasi belum dapat dikendalikan, jadwal ditunda dan pengelola mencari keputusan fasilitas yang kompeten. Jika seseorang melaporkan pusing, sesak, iritasi, atau dugaan paparan, hentikan aktivitas di area itu dan ikuti label serta jalur medis resmi. Untuk bantuan kegawatdaruratan kesehatan di Indonesia, informasi PSC 119 tersedia dari Kementerian Kesehatan ([PSC 119](https://kemkes.go.id/id/layanan/psc-119)); artikel ini tidak mendiagnosis atau memberi pertolongan pertama.
+
+Gunakan lembar serah-terima sederhana: zona dan waktu kerja, rute yang ditutup, rute aman, format pesan yang dikirim, penanggung jawab pendamping, kondisi ventilasi, dokumen label, serta siapa yang berwenang menyatakan area boleh digunakan. Kolom “belum terjawab” lebih berguna daripada asumsi yang terlihat rapi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Kami sudah menempelkan poster” gagal bila poster tidak terlihat dari posisi duduk, tidak tersedia dalam format yang diminta, atau dipasang terlalu dekat dengan waktu kerja. Periksa dengan meminta penghuni menjelaskan kembali waktu, zona, dan rute; bila jawabannya berbeda, ubah pesannya.
 
-## Objection or shortcut to address
+“Bau sudah hilang berarti aman” juga menyesatkan. Bau dan bahaya tidak memiliki hubungan sederhana, sehingga pemeriksaan harus mengacu pada label, ventilasi, waktu yang ditetapkan, dan keputusan penanggung jawab. “Produk alami” bukan bukti aman bagi kulit, saluran napas, hewan, atau lingkungan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan lain adalah memindahkan kursi roda, tongkat, alat komunikasi, atau barang pribadi tanpa izin demi mempercepat pekerjaan. Catat siapa yang memindahkan, tempat penyimpanan sementara, dan cara mengembalikannya. Jaga privasi: bagikan hanya kebutuhan kerja yang disetujui, bukan diagnosis atau cerita pribadi.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah menjadwalkan penyemprotan saat penghuni “pasti sedang pergi” lalu menganggap masalah akses selesai. Cara ini dapat gagal karena pendamping tidak tersedia, rute pulang berubah, atau seseorang harus kembali lebih cepat. Alternatif yang lebih andal adalah membuat rencana tertulis bersama penghuni dan fasilitas, dengan titik keputusan: tahan pekerjaan bila format komunikasi, rute aman, pengawasan, atau kriteria kembali masuk belum siap. Teman Basmi.co.id, menunda satu kunjungan yang belum siap lebih mudah dipertanggungjawabkan daripada memaksa orang melewati kondisi yang tidak mereka pahami.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Persiapan pengendalian hama yang aksesibel menggabungkan komunikasi yang dapat dipahami, rute dan bantuan yang nyata, penjadwalan yang disepakati, serta keputusan bahan dan paparan yang ditinjau secara spesifik. Sobat Basmi.co.id, sebelum menyetujui pekerjaan, minta lembar serah-terima dan tanyakan: siapa yang menyatakan area aman, berdasarkan label dan kondisi apa, serta ke mana penghuni pergi bila rute utama ditutup?
+
+Untuk langkah koordinasi berikutnya, gunakan [halaman utama Basmi.co.id](/) untuk menemukan konteks layanan, baca [informasi disinfektan](/disinfektan) bila pekerjaan menyentuh pembersihan permukaan, lalu hubungi [kontak Basmi.co.id](/kontak-kami) dengan membawa peta rute, daftar kebutuhan yang disetujui, dan pertanyaan fasilitas. Jika bukti individu atau keadaan darurat belum jelas, jangan menebak; tandai **[NEEDS EG-06/EG-08: tinjauan profesional dan jalur darurat harus diselesaikan sebelum pekerjaan]**.

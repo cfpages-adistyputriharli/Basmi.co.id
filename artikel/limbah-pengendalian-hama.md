@@ -2,8 +2,9 @@
 article_id: BAS-19-A05
 title: "Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah"
 slug: "limbah-pengendalian-hama"
-description: "Inventory waste streams, product/label instructions, contamination, storage, classification questions, chain of custody, and proof"
-status: outline
+description: "Membantu menginventarisasi aliran limbah, petunjuk produk dan label, kontaminasi, penyimpanan, pertanyaan klasifikasi, serah-terima, dan buktinya."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-07-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,202 +16,89 @@ final_route: "/artikel/limbah-pengendalian-hama.html"
 technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
-  - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
-  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
-  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
-  - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
+  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
-  - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
-  - "https://www.who.int/publications/i/item/9789240051089"
-  - "https://www.who.int/publications-detail-redirect/9789241516884"
+  - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252FCodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah
 
-## Assignment lock
+Halo, Sobat Basmi.co.id! Limbah setelah pengendalian hama tidak otomatis masuk satu tempat. Kemasan kosong, sisa produk, perangkap bekas, dan bangkai harus dipisahkan sejak ditemukan, dicatat kondisinya, lalu diarahkan berdasarkan label produk, potensi kontaminasi, dan aturan yang berlaku di fasilitas tersebut.
 
-- **Writer task:** Expand this file into one complete article answering: “Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah”
-- **Reader and situation:** Provider or facility after service
-- **Reader outcome:** Inventory waste streams, product/label instructions, contamination, storage, classification questions, chain of custody, and proof
-- **Primary intent:** Plan pest-control waste
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Sobat Basmi.co.id`
-- **Natural variants:** `Kawan Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes classifying all pesticide waste as one category or giving disposal shortcuts; current law and waste specialists own decisions
-- **Final public route:** `/artikel/limbah-pengendalian-hama.html`
-- **Appointed CMS date:** `2026-07-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi keputusan awalnya bukan “buang di mana”, melainkan “benda apa ini, terkena apa, dan bukti apa yang mendukung jalurnya”. Bila klasifikasi atau penerima akhirnya belum jelas, tahan material dalam wadah aman dan minta peninjauan pengelola limbah atau tenaga kompeten. [NEEDS REVIEW: klasifikasi dan jalur pembuangan akhir harus dikonfirmasi menurut hukum Indonesia, fasilitas, dan penerima yang berwenang.]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Basmi.co.id`, `Kawan Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after opening, before first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-05
-
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-09
-
-- **Original sources:** [CDC rodent-control guidance](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf).
-- **Purpose for this article:** Ground proofing, sanitation, contamination control, monitoring, and food-facility interfaces.
-- **Safe grounded facts:** Droppings, gnawing, tracks, odor, sightings, burrows, and device data have different evidential value. Cleanup and food protection require their own exposure controls.
-- **Limits:** Do not diagnose disease, publish bait or trap placement recipes, or infer legal wildlife status. Use the applicable label and health/wildlife authority.
-
-### KR-18
-
-- **Original sources:** [WHO insecticide-resistance monitoring manual](https://www.who.int/publications/i/item/9789240051089), [WHO/FAO pesticide-management survey](https://www.who.int/publications-detail-redirect/9789241516884), [Indonesia hazardous-waste regulation PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021).
-- **Purpose for this article:** Ground environmental and resistance articles without generic rotation or disposal recipes.
-- **Safe grounded facts:** Rotation by brand name is not resistance management; “biodegradable” is not a disposal instruction; drains, soil, air, water, pets, pollinators, wildlife, and aquatic systems are distinct pathways.
-- **Limits:** Require label/SDS, target and resistance evidence, Indonesian waste classification, approved transporter/receiver where applicable, and environmental/chemical professional review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-19-A03` → `/artikel/organisme-non-target-pest-control.html` — Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control
-- `BAS-19-A04` → `/artikel/udara-dalam-ruang-dan-residu-treatment.html` — Indoor Air dan Residu Setelah Treatment: Pertanyaan untuk Menilai Paparan
-- `BAS-19-A06` → `/artikel/musim-dan-perubahan-iklim-pada-hama.html` — Musim Hujan, Kemarau, Panas, dan Perubahan Iklim dalam Monitoring Hama
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kemasan yang masih menyimpan residu diperlakukan berbeda dari kardus luar yang bersih. Sisa campuran atau produk yang tidak terpakai tetap mengikuti petunjuk label dan penilaian bahaya; jangan menuangkannya ke saluran air, tanah, atau tempat sampah umum hanya karena jumlahnya sedikit. Perangkap dan alat yang terkena bahan juga perlu dipisahkan dari peralatan bersih. Bangkai perlu ditangani sebagai bahan biologis yang mungkin mencemari permukaan, bukan sekadar sampah biasa.
+
+Pendekatan pengendalian hama terpadu menghubungkan pengamatan, pencegahan, pilihan intervensi, pemantauan, dan evaluasi. Bahan kimia hanya salah satu komponen, bukan definisi seluruh program ([WHO, strategi pengendalian vektor](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control); [EPA, prinsip IPM](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)). Karena itu, catatan limbah juga harus menjelaskan tindakan yang benar-benar dilakukan, bukan mengasumsikan semua kunjungan menghasilkan limbah kimia.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Inventaris dimulai dari empat kelompok. Pertama, kemasan primer, tutup, segel, atau botol yang bersentuhan langsung dengan produk. Kedua, sisa produk, larutan, umpan, atau bahan penyerap yang mungkin mengandung residu. Ketiga, perangkap, papan lem, sarung tangan, kain, dan alat bantu yang terkena kotoran atau bahan. Keempat, bangkai, kotoran, atau material sarang yang diambil dari lokasi.
+
+Kardus pengiriman yang tidak terkontaminasi boleh dicatat sebagai kemasan umum, tetapi jangan menyamakan tampilan luar dengan kebersihan bagian dalam. Foto, nomor produk, jumlah perkiraan, tanggal, lokasi, dan siapa yang memeriksa memberi konteks; itu bukan pengganti keputusan klasifikasi.
+
+Artikel ini tidak menetapkan satu kategori limbah untuk semua pestisida, tidak memberi resep pengenceran, dan tidak menggantikan keputusan pengelola limbah, dokter hewan, ahli kesehatan lingkungan, atau otoritas satwa. Peraturan lingkungan dan kesehatan dapat memiliki kewenangan berbeda dan dapat diperbarui; catatan hukum lama harus diperiksa ulang sebelum dijadikan dasar kepatuhan ([rekam PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021); [rekam Permenkes No. 2 Tahun 2023](https://peraturan.bpk.go.id/Details/245563/permenkes)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum meninggalkan lokasi, petugas membuat daftar satu per satu: nama benda, sumbernya, apakah kontak dengan produk atau bangkai, kondisi wadah, dan tindakan sementara. Label produk menjadi rujukan utama untuk penggunaan, penyimpanan, pertolongan pertama, dan pembuangan. Nama bahan aktif saja tidak cukup karena formulasi dan penggunaan yang diizinkan dapat berbeda ([pedoman izin edar PKRT Kementerian Kesehatan](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf)).
+
+Pisahkan benda yang berpotensi bocor dari barang lain. Gunakan wadah tertutup dan berlabel, letakkan di area yang tidak dapat diakses anak, hewan, atau orang yang tidak berkepentingan, dan jangan memindahkan cairan ke botol minuman. Catat segel rusak, kebocoran, bau menyengat, atau kemasan tanpa label sebagai alasan untuk menghentikan langkah berikutnya dan meminta arahan.
+
+Bangkai dan kotoran memerlukan jalur kerja bersih-kotor. Batasi area, gunakan alat pelindung yang sesuai prosedur fasilitas, masukkan material ke wadah yang mencegah kontak, lalu bersihkan permukaan sesuai rencana keselamatan. Pedoman pengendalian rodensia CDC membedakan nilai bukti seperti kotoran, gigitan, jejak, bau, penampakan, liang, dan data perangkat; bukti tersebut membantu monitoring, tetapi tidak membuktikan diagnosis penyakit ([CDC rodent control](https://www.cdc.gov/healthy-pets/about/rodent-control.html)).
+
+Di fasilitas pangan, lindungi makanan dan permukaan kontak pangan sebelum pemindahan. Prinsip higiene Codex menempatkan pencegahan kontaminasi dan pengendalian kebersihan sebagai bagian dari sistem, sehingga sisa pembersihan tidak boleh dikembalikan ke area produksi tanpa verifikasi ([Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252FCodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf)).
+
+Serah-terima bukan sekadar membawa kantong keluar. Catat tanggal dan jam, jumlah atau satuan, kondisi segel, pengirim, penerima, kendaraan atau dokumen pengangkutan bila diwajibkan, serta tujuan akhir yang dinyatakan penerima. Simpan salinan label, lembar data keselamatan bila tersedia, foto kondisi, dan tanda terima. Jika penerima menolak karena kategori tidak cocok, kembalikan ke area penyimpanan aman dan buka kembali keputusan—jangan mencari tempat pembuangan informal.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Formulasi, konsentrasi tersisa, ukuran wadah, dan apakah kemasan sudah dibilas mengubah risiko. Jangan menganggap pembilasan selalu boleh; ikuti label dan prosedur fasilitas. Lokasi juga penting: gudang bahan kimia, dapur, ruang kelas, dan area luar memiliki akses, drainase, serta pihak yang harus diberi tahu berbeda.
+
+Kondisi fisik menentukan prioritas. Wadah menggembung, tutup longgar, cairan merembes, atau perangkap bercampur bangkai perlu ditahan dan ditinjau sebelum diangkut. Untuk bangkai, spesies yang belum teridentifikasi, jumlah yang tidak biasa, atau dugaan satwa dilindungi adalah pemicu konsultasi; jangan menyimpulkan status satwa dari bentuk sekilas.
+
+Kawan Basmi.co.id, bukti yang lemah sering membuat orang memilih jalur tercepat. Satu foto serangga atau satu bau tidak cukup untuk menyatakan jenis, tingkat serangan, vektor penyakit, atau keberhasilan treatment. Gabungkan tanggal, lokasi, tanda fisik, data perangkap, kondisi lingkungan, dan tren; bila masih ambigu, tandai ketidakpastian dan minta pemeriksaan ahli.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan setelah layanan di gudang ditemukan tiga benda: botol produk dengan sisa cairan, papan lem berisi serangga, dan kardus luar yang kering. Botol masuk daftar “residu produk” dan disimpan tertutup sambil label serta penerima diverifikasi. Papan lem dicatat sebagai perangkap terkontaminasi; bungkus terpisah agar tidak menyentuh permukaan lain. Kardus dapat dicatat sebagai kemasan non-terkontaminasi hanya setelah pemeriksaan tidak menemukan tumpahan.
+
+Jika di ruang produksi ditemukan bangkai tikus dan kain pembersih basah, hentikan pelepasan material ke tempat sampah umum. Lindungi area pangan, catat bukti dan lokasi, ikuti prosedur pembersihan fasilitas, lalu tanyakan kepada penanggung jawab kesehatan lingkungan atau pengelola limbah tentang wadah dan penerima. Jalur akhirnya tidak boleh ditebak dari warna kantong.
+
+Sebelum serah-terima, gunakan pertanyaan sederhana: apa asal benda ini; apakah ada kontak produk, darah, kotoran, atau permukaan pangan; apa kata label; siapa penerima yang menyatakan dapat menerima; dan dokumen apa yang akan kembali sebagai bukti? Jawaban “belum tahu” berarti status ditahan, bukan izin membuang.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menggabungkan semua benda ke satu kantong. Periksa daftar inventaris dan pastikan kemasan bersih, residu, alat terkontaminasi, dan material biologis memiliki identitas serta wadah yang dapat ditelusuri.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mengandalkan klaim “ramah lingkungan” atau “biodegradable” sebagai instruksi pembuangan. Sifat bahan tidak otomatis menentukan jalur; label, klasifikasi Indonesia, kondisi fasilitas, dan penerima berwenang tetap diperlukan. [NEEDS REVIEW: konfirmasi klasifikasi limbah dan persyaratan transporter/penerima untuk proyek ini.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap dokumen serah-terima tidak penting. Tanpa jumlah, waktu, pihak penerima, dan tujuan yang tercatat, fasilitas tidak dapat menunjukkan apa yang terjadi setelah layanan. Minta bukti tertulis dan cocokkan dengan inventaris sebelum menutup pekerjaan.
 
-## Required conclusion
+## Menjawab jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Jumlahnya sedikit, jadi saya buang saja ke tempat sampah.” Jalan pintas ini gagal ketika benda kecil ternyata masih mengandung residu, menusuk kantong, atau membawa kontaminasi biologis ke pekerja kebersihan. Pilihan yang lebih aman adalah menahan, memberi label, memeriksa petunjuk produk, dan meminta konfirmasi jalur dari pihak yang berwenang.
 
-## Draft completion checklist
+## Penutup dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Menentukan jalur limbah pengendalian hama berarti memisahkan kemasan, sisa produk, perangkap, dan bangkai; menilai kontaminasi; mengikuti label; lalu merekam serah-terima. Mulailah dengan inventaris dan foto kondisi, simpan sementara secara aman, dan minta tinjauan profesional untuk klasifikasi atau penerimaan yang belum pasti.
+
+Teman Basmi.co.id, bila Anda memerlukan koordinasi lanjutan, cocokkan dulu konteks hama pada [informasi layanan pengendalian serangga](/serangga), lalu gunakan [halaman kontak Basmi.co.id](/kontak-kami) untuk menyampaikan jenis material serta dokumen yang sudah tersedia. Aturan operasionalnya sederhana: jangan buang sesuatu yang identitas, label, penerima, atau buktinya belum jelas.

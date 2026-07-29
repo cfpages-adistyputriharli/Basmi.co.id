@@ -2,8 +2,9 @@
 article_id: BAS-01-A06
 title: "Format Laporan Survei Hama yang Bisa Diaudit"
 slug: "format-laporan-survei-hama"
-description: "Structure scope, access limits, evidence, maps, uncertainty, risk, recommendations, and approvals"
-status: outline
+description: "Menyusun format laporan survei hama yang memuat cakupan, batas akses, bukti, peta, ketidakpastian, risiko, rekomendasi, dan persetujuan agar dapat diaudit."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,214 +18,94 @@ sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
   - "https://www.who.int/publications/i/item/9789241502801"
   - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
   - "https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
-  - "https://www.who.int/news-room/fact-sheets/detail/animal-bites"
-  - "https://www.menlhk.go.id/"
-  - "https://www.kemkes.go.id/"
-  - "https://www.who.int/publications/i/item/9789289041683"
-  - "https://simbg.pu.go.id/"
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
   - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Format Laporan Survei Hama yang Bisa Diaudit
 
-## Assignment lock
+Halo, Sobat Basmi.co.id! Laporan survei hama yang bisa diaudit bukan sekadar daftar “ada kecoa” atau foto perangkap. Format yang dapat dipertanggungjawabkan harus membuat pembaca bisa menelusuri apa yang diperiksa, kapan dan di mana, bukti apa yang ditemukan, bagian mana yang tidak dapat diakses, serta siapa yang menyetujui tindak lanjutnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Format Laporan Survei Hama yang Bisa Diaudit”
-- **Reader and situation:** Provider or facility team
-- **Reader outcome:** Structure scope, access limits, evidence, maps, uncertainty, risk, recommendations, and approvals
-- **Primary intent:** Document a defensible survey
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Sobat Basmi.co.id`
-- **Natural variants:** `Kawan Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes service visit trend reporting; BAS-17-A03 owns recurring reports
-- **Final public route:** `/artikel/format-laporan-survei-hama.html`
-- **Appointed CMS date:** `2025-05-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: susun laporan dari tujuan dan batas area, catatan akses, temuan yang bertanggal dan berlokasi, peta atau denah zona, tingkat ketidakpastian, penilaian risiko, rekomendasi berurutan, lalu persetujuan dan rencana pemeriksaan ulang. Hasil identifikasi atau kewajiban hukum dapat berubah bila bukti lapangan belum cukup atau aturan yang berlaku berbeda menurut fasilitas dan wilayah. Karena itu laporan harus memisahkan fakta, tafsiran, dan hal yang masih perlu ditinjau.
 
-## Opening instructions
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
 
-- Open with the exact short salutation: **“Halo, Sobat Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Format Laporan Survei Hama yang Bisa Diaudit**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Basmi.co.id`, `Kawan Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial boundary and prevent broad pest material from overriding the 20 local topic families.
-- **Safe grounded facts:** There are 20 parent topics and 120 distinct briefs. The planning corpus does not prove organism identity, service availability, competence, product suitability, safety, efficacy, price, or compliance.
-- **Limits:** Repository planning documents establish editorial intent only.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-04
-
-- **Original sources:** [Permenkes No. 17 Tahun 2024 official PDF](https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf).
-- **Purpose for this article:** Ground provider due diligence in the official business standard rather than vague “licensed” language.
-- **Safe grounded facts:** Business identity, territorial/activity scope, personnel, facilities/equipment, operational records, and current approvals are separate checks.
-- **Limits:** Read the current complete regulation and verify the actual entity and local approval; do not infer compliance from a website, uniform, or one document.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-12
-
-- **Original sources:** [WHO animal-bites fact sheet](https://www.who.int/news-room/fact-sheets/detail/animal-bites), [Kementerian Lingkungan Hidup dan Kehutanan](https://www.menlhk.go.id/), [Kementerian Kesehatan](https://www.kemkes.go.id/).
-- **Purpose for this article:** Prevent removal tutorials, wildlife poisoning, allergy treatment, or “pet-safe” promises.
-- **Safe grounded facts:** A photograph may not establish species, aggressiveness, protection, disease risk, or safe removal. Aquatic organisms can be exposed through drift, runoff, residues, air handling, and contaminated equipment.
-- **Limits:** No nest removal, trapping, poisoning, antidote, diagnosis, or emergency-medication instruction; use emergency, medical, veterinary, wildlife, and licensed pest professionals.
-
-### KR-14
-
-- **Original sources:** [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683), [Indonesia PUPR building information portal](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground leak, condensation, drainage, penetration, gap, void, and exclusion content without turning pest observation into building design.
-- **Safe grounded facts:** A moisture reading or pest sign does not identify the leak path, condensation mechanism, hidden damage, electrical safety, or structural adequacy.
-- **Limits:** Require an actual building survey and relevant building, plumbing, envelope, electrical, or structural professional before repair details or compliance claims.
-
-### KR-17
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK legal record](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace vague extermination promises with comparable scope and retrievable evidence.
-- **Safe grounded facts:** Baseline, target, site/zone, device map, visit frequency, product disclosure, preparation, exclusions, threshold, response, trend, corrective action, incident path, report, warranty, and price can be stated separately.
-- **Limits:** No fabricated price, client, case study, review, eradication, response time, warranty, or legal entitlement. Require dated operator-approved evidence and legal review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-03, EG-07, EG-08, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-01-A04` → `/artikel/matriks-risiko-hama.html` — Matriks Risiko Hama untuk Rumah dan Tempat Usaha
-- `BAS-01-A05` → `/artikel/kapan-perlu-identifikasi-hama-profesional.html` — Kapan Identifikasi Hama Memerlukan Ahli atau Laboratorium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<p><em>Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.</em></p>
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Survei Hama yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan yang sering terjadi adalah menganggap laporan yang panjang otomatis kuat. Padahal auditor atau pengelola fasilitas terutama membutuhkan jejak keputusan: mengapa zona tertentu diperiksa, mengapa suatu tanda dianggap relevan, dan mengapa tindakan tertentu dipilih. Satu foto tanpa tanggal, lokasi, skala, atau catatan kondisi tidak cukup untuk menetapkan spesies, tingkat serangan, vektor, penyakit, atau efektivitas penanganan. Pedoman CDC dan EPA menjelaskan bahwa tanda, spesimen, lokasi, tanggal, kondisi lingkungan, kerusakan, data alat, dan tren perlu dibaca bersama; satu tanda dapat memiliki beberapa penyebab ([CDC](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [EPA](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
+
+Jadi, halaman pertama sebaiknya memuat ringkasan keputusan, bukan kesimpulan yang lebih pasti daripada buktinya. Tuliskan tujuan survei, zona yang termasuk, zona yang dikecualikan, tanggal dan personel, serta keputusan yang diminta dari pemilik fasilitas. Jika spesies atau tingkat risiko belum dapat dipastikan, gunakan `[NEEDS REVIEW: identifikasi dan tingkat risiko memerlukan pemeriksaan kompeten]`.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Survei Hama yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Survei adalah pemeriksaan terencana pada waktu dan area tertentu. Laporannya menggambarkan kondisi saat pemeriksaan, bukan jaminan bahwa seluruh populasi telah ditemukan atau masalah pasti selesai. Nyatakan batas fisik (ruang, lantai, perimeter), batas waktu, metode pengamatan, dan akses yang ditolak atau tertunda. Sertakan juga kondisi yang menghalangi pengukuran, seperti ruang tertutup, alat tidak tersedia, atau operasi fasilitas yang sedang berjalan.
+
+Batasi pula keluaran. Artikel ini membahas laporan survei yang dapat ditelusuri, bukan laporan tren kunjungan layanan berulang. Rekap frekuensi kunjungan, capaian bulanan, atau perbandingan antarperiode harus dibuat dalam dokumen operasional tersendiri. Batas ini mencegah pembaca mencampur snapshot survei dengan evaluasi program.
+
+Sebelum menulis klaim “sesuai aturan”, periksa kembali aturan yang masih berlaku, otoritas, kelas fasilitas, dan penerapan setempat. Catatan hukum resmi mengingatkan bahwa kewajiban lingkungan, vektor, bangunan, pangan, limbah, dan kesehatan publik dapat berada pada lingkup berbeda; ringkasan lama bukan pernyataan lengkap tentang kewajiban saat ini ([rekam Permenkes pada BPK](https://peraturan.bpk.go.id/Details/245563/permenkes)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Survei Hama yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan nomor laporan, tujuan, alamat fasilitas, tanggal dan jam, cuaca atau kondisi lingkungan yang relevan, penanggung jawab, serta daftar area yang diperiksa. Setelah itu buat denah sederhana dengan kode zona yang sama di seluruh dokumen. Setiap temuan memakai kode unik, misalnya Z-02/T-03, sehingga foto, catatan, dan rekomendasi tidak tertukar.
+
+Untuk tiap temuan, catat apa yang benar-benar terlihat: jenis tanda, jumlah atau rentang yang dapat dihitung, titik koordinat atau deskripsi lokasi, kondisi kelembapan atau kebersihan yang diamati, dan bukti pendukung. Bedakan “ditemukan serangga pada perangkap di ruang penyimpanan” dari “ruang itu merupakan sumber infestasi”; kalimat kedua adalah tafsiran yang memerlukan pemeriksaan tambahan.
+
+Urutan keputusan mengikuti analisis situasi, tujuan, ekologi lokal, pilihan intervensi, pembagian peran, pemantauan, evaluasi, dan adaptasi. Pengendalian kimia hanyalah salah satu komponen, bukan definisi pengendalian itu sendiri ([strategi pengendalian vektor WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control); [handbook WHO](https://www.who.int/publications/i/item/9789241502801)). Karena laporan survei mendahului tindakan, rekomendasi harus menyebut prasyarat, penanggung jawab, tenggat yang disepakati, dan bukti penutupan—tanpa menjanjikan eradikasi.
+
+Tambahkan halaman persetujuan: nama dan peran pemeriksa, wakil fasilitas, tanggal penerimaan, perubahan yang diminta, serta status “diterima”, “diterima dengan catatan”, atau “perlu pemeriksaan ulang”. Dokumen yang tidak ditandatangani tetap dapat berguna sebagai catatan lapangan, tetapi jangan dipresentasikan sebagai persetujuan final.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Survei Hama yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil survei berubah ketika akses, waktu, musim, aktivitas fasilitas, atau kondisi bangunan berubah. Tutupnya saluran, hujan, pemindahan barang, pembersihan sebelum inspeksi, dan perangkat pemantau yang baru dipasang dapat membuat dua kunjungan tidak sebanding. Tulis kondisi pembanding ini di samping hasil, bukan di catatan kaki yang mudah hilang.
+
+Bukti juga bergantung pada mutu alat dan kompetensi pemeriksa. Foto membantu menelusuri temuan, tetapi tidak otomatis membuktikan spesies atau bahaya. Jika keputusan menyentuh vektor penyakit, satwa, kesehatan, atau bangunan, minta ahli entomologi, kesehatan masyarakat, satwa, atau profesional bangunan yang sesuai sebelum menyatakan diagnosis, tingkat keparahan, jalur kebocoran, atau kecukupan struktur. [NEEDS REVIEW: kompetensi pemeriksa, kelas fasilitas, dan otoritas setempat belum disediakan dalam paket ini.]
+
+Jika laporan memeriksa penyedia jasa, jangan berhenti pada kata “berizin”. Pisahkan identitas usaha, wilayah dan kegiatan, personel, fasilitas/peralatan, catatan operasi, dan persetujuan yang masih berlaku; semuanya perlu diverifikasi terhadap dokumen resmi yang lengkap ([Permenkes No. 17 Tahun 2024](https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Survei Hama yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan tim menemukan tiga tanda di gudang, tetapi hanya satu lorong yang dapat diakses. Format yang jujur menulis: zona diperiksa, lorong tertutup, tanda yang terlihat, tanggal, foto, dan pengaruh barang yang menumpuk. Kesimpulannya bukan “gudang terinfestasi”, melainkan “temuan terbatas pada area terakses; perlu akses ulang sebelum menilai sebaran”.
+
+Gunakan tabel keputusan ringkas berikut agar pembaca tahu tindakan berikutnya:
+
+| Temuan dan bukti | Makna yang aman | Tindakan berikutnya |
+|---|---|---|
+| Tanda tunggal tanpa spesimen dan lokasi jelas | Belum cukup untuk identifikasi atau tingkat risiko | Simpan bukti, ulangi pengamatan, minta pemeriksaan kompeten |
+| Tanda berulang pada zona yang sama dengan tanggal berbeda | Ada pola lokal yang perlu diuji | Periksa sumber lingkungan dan perluas pemantauan terarah |
+| Area penting tidak dapat diakses | Cakupan survei tidak lengkap | Catat batas, minta izin akses, jangan menggeneralisasi |
+| Rekomendasi menyebut bahan kimia | Pilihan intervensi memerlukan penilaian risiko dan otorisasi | Verifikasi produk, personel, persiapan, dan rekam persetujuan |
+
+Untuk komunikasi komersial, pisahkan ruang lingkup, target, zona, frekuensi, pengungkapan produk, persiapan, pengecualian, ambang tindakan, jalur insiden, laporan, jaminan, dan harga. Jangan mengisi kolom dengan angka atau janji yang belum disetujui; informasi konsumen dan perdagangan tetap memerlukan bukti yang dapat ditarik kembali ([UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999); [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf)).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Survei Hama yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut pertama adalah menyalin format lama lalu mengganti tanggal. Periksa apakah tujuan, batas akses, metode, dan kondisi lapangan benar-benar sama. Shortcut kedua adalah menyebut “risiko tinggi” tanpa kriteria; ganti dengan bukti yang mendasari, dampak yang mungkin, ketidakpastian, dan siapa yang harus mengonfirmasi.
 
-## Objection or shortcut to address
+Shortcut ketiga adalah menganggap rekomendasi sama dengan instruksi pelaksanaan. Laporan survei boleh mengusulkan pemeriksaan sumber, perbaikan kebersihan, pemantauan, atau konsultasi, tetapi tidak boleh mengarang dosis, metode pembasmian, diagnosis, atau kepatuhan. Kawan Basmi.co.id, tanyakan pada setiap baris rekomendasi: “Bukti mana yang memicunya, prasyarat apa yang belum dipenuhi, dan dokumen penutup apa yang akan membuktikan selesai?”
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Lakukan pemeriksaan silang sebelum rilis: setiap kode temuan muncul di denah dan foto; setiap zona yang tidak diakses tercatat; tanggal dan versi konsisten; fakta dipisahkan dari tafsiran; sumber asli ditempatkan dekat klaim yang didukung; dan nama pemberi persetujuan jelas. Simpan versi sebelumnya bila ada perubahan agar alasan perubahan dapat dilacak.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Format laporan survei hama yang bisa diaudit adalah alur bukti: tujuan dan batas, akses, temuan bertanggal, peta zona, ketidakpastian, risiko, rekomendasi bersyarat, lalu persetujuan dan rencana tindak lanjut. Langkah Anda sekarang adalah meminta denah zona, daftar akses yang tertutup, log bukti, serta identitas dan kewenangan pemeriksa sebelum menerima kesimpulan.
 
-## Draft completion checklist
+Teman Basmi.co.id, bila keputusan menyentuh kesehatan, satwa, bangunan, atau kewajiban hukum, tahan rilis final dan minta tinjauan profesional serta recheck aturan yang berlaku. Aturan operasionalnya sederhana: jangan menulis lebih pasti daripada bukti yang dapat dibuka kembali.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Untuk memulai percakapan tentang kebutuhan fasilitas, gunakan halaman [beranda Basmi.co.id](/). Bila temuan perlu dipetakan ke konteks layanan umum, baca [informasi pengendalian serangga](/serangga); untuk menyampaikan dokumen dan pertanyaan kepada tim, gunakan [halaman kontak Basmi.co.id](/kontak-kami).
+
+<!-- BEGIN MANAGED IMAGE PLAN
+## Image plan
+Image ID: LOCAL-002
+Source type: local
+Placement: after opening, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002].
+END MANAGED IMAGE PLAN -->

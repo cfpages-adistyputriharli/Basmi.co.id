@@ -2,8 +2,9 @@
 article_id: BAS-16-A01
 title: "Memetakan Risiko Hama Menurut Fungsi Bangunan"
 slug: "risiko-hama-menurut-fungsi-bangunan"
-description: "Compare homes, apartments, hotels, schools, healthcare, offices, warehouses, food plants, transport, and industry by exposure and evidence questions"
-status: outline
+description: "Bandingkan risiko hama di rumah, apartemen, hotel, sekolah, layanan kesehatan, kantor, gudang, pabrik pangan, transportasi, dan industri."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,176 +22,99 @@ sources:
   - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
   - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
   - "https://www.who.int/publications/i/item/9789240051089"
-  - "https://www.who.int/publications-detail-redirect/9789241516884"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memetakan Risiko Hama Menurut Fungsi Bangunan
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Risiko hama tidak bisa dipetakan hanya dari luas gedung atau nama serangganya. Fungsi bangunan menentukan apa yang masuk, siapa yang terpapar, bagaimana aliran barang dan orang bergerak, serta bukti apa yang harus tersedia sebelum keputusan diambil.
 
-- **Writer task:** Expand this file into one complete article answering: “Memetakan Risiko Hama Menurut Fungsi Bangunan”
-- **Reader and situation:** Multi-site owner
-- **Reader outcome:** Compare homes, apartments, hotels, schools, healthcare, offices, warehouses, food plants, transport, and industry by exposure and evidence questions
-- **Primary intent:** Route facility requirements
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes universal rules or treatment plans; BAS-18 and pest owners control specifics
-- **Final public route:** `/artikel/risiko-hama-menurut-fungsi-bangunan.html`
-- **Appointed CMS date:** `2026-04-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat peta per fungsi dan per zona, bukan satu daftar perlakuan untuk semua lokasi. Rumah menuntut perhatian pada celah, makanan, dan kebiasaan penghuni; sekolah pada banyak pengguna dan jadwal belajar; fasilitas pangan pada perlindungan produk dan jejak audit. Kesimpulan itu masih dapat berubah setelah Anda melihat tanda, lokasi, waktu, kondisi lingkungan, data perangkat pemantauan, dan riwayat kejadian. Satu foto atau satu laporan lisan belum cukup untuk menentukan jenis, tingkat keparahan, vektor penyakit, atau tindakan.
 
-## Opening instructions
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
 
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memetakan Risiko Hama Menurut Fungsi Bangunan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-09
-
-- **Original sources:** [CDC rodent-control guidance](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf).
-- **Purpose for this article:** Ground proofing, sanitation, contamination control, monitoring, and food-facility interfaces.
-- **Safe grounded facts:** Droppings, gnawing, tracks, odor, sightings, burrows, and device data have different evidential value. Cleanup and food protection require their own exposure controls.
-- **Limits:** Do not diagnose disease, publish bait or trap placement recipes, or infer legal wildlife status. Use the applicable label and health/wildlife authority.
-
-### KR-18
-
-- **Original sources:** [WHO insecticide-resistance monitoring manual](https://www.who.int/publications/i/item/9789240051089), [WHO/FAO pesticide-management survey](https://www.who.int/publications-detail-redirect/9789241516884), [Indonesia hazardous-waste regulation PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021).
-- **Purpose for this article:** Ground environmental and resistance articles without generic rotation or disposal recipes.
-- **Safe grounded facts:** Rotation by brand name is not resistance management; “biodegradable” is not a disposal instruction; drains, soil, air, water, pets, pollinators, wildlife, and aquatic systems are distinct pathways.
-- **Limits:** Require label/SDS, target and resistance evidence, Indonesian waste classification, approved transporter/receiver where applicable, and environmental/chemical professional review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-16-A02` → `/artikel/program-pest-control-area-pangan.html` — Program Pest Control di Area Pangan: Zona, Monitoring, dan Corrective Action
-- `BAS-16-A03` → `/artikel/koordinasi-pengendalian-hama-fasilitas.html` — Sekolah, Hotel, Apartemen, dan Fasilitas Kesehatan: Koordinasi Penghuni
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Risiko Hama Menurut Fungsi Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Risiko Hama Menurut Fungsi Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud “risiko hama menurut fungsi bangunan” adalah cara menghubungkan kegiatan utama sebuah fasilitas dengan peluang masuk, bertahan, menyebar, dan menimbulkan gangguan. Peta ini membantu pemilik multi-lokasi menetapkan pertanyaan dan bukti yang konsisten. Peta ini bukan diagnosis spesies, resep umpan atau perangkap, jadwal penyemprotan, maupun pengganti persetujuan profesional di lokasi.
+
+Fungsi bangunan memberi konteks. Kantor dengan dapur kecil dan kantor dengan kantin produksi memiliki aliran bahan, kebersihan, serta konsekuensi yang berbeda. Apartemen menambah banyak unit, ruang sampah bersama, dan perpindahan penghuni. Gudang menambah pintu bongkar-muat dan barang yang datang dari luar. Karena itu, “gedung ini bersih” tidak otomatis berarti risikonya sama dengan gedung lain.
+
+Pemetaan yang baik memisahkan fakta dari dugaan. Catat tanda yang benar-benar terlihat—misalnya kotoran, bekas gigitan, jejak, bau, penampakan, liang, atau data perangkat—beserta tempat dan tanggalnya. CDC dan EPA menjelaskan bahwa tanda, spesimen, lokasi, kondisi lingkungan, kerusakan, dan tren pemantauan perlu dibaca bersama; satu tanda dapat memiliki lebih dari satu penyebab ([CDC IPM](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [EPA IPM](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Risiko Hama Menurut Fungsi Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan situasi, bukan bahan kimia. Tanyakan kegiatan apa yang berlangsung, bahan apa yang masuk, bagian mana yang basah atau hangat, dan siapa yang berwenang membuka akses. Setelah itu tandai titik masuk dan titik perpindahan: pintu, saluran, plafon, ruang sampah, kendaraan, palet, koper, atau jalur servis. Peta aliran ini menerangkan mengapa dua ruangan bersebelahan dapat memiliki paparan berbeda.
+
+Langkah berikutnya adalah menetapkan tujuan yang bisa diperiksa. Tujuannya dapat berupa melindungi makanan, menjaga ruang tidur tetap layak, mencegah gangguan pada kegiatan belajar, atau mengurangi akses ke area sensitif. Pedoman WHO menempatkan analisis situasi, tujuan, pemilihan intervensi, pembagian peran, pemantauan, evaluasi, dan adaptasi sebagai rangkaian yang saling terhubung. Pengendalian kimia hanya salah satu komponen, bukan definisi pengendalian itu sendiri ([strategi pengendalian vektor WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801)).
+
+Kemudian pilih bukti yang sebanding dengan tujuan. Foto lokasi membantu menunjukkan konteks, tetapi tidak sendirian menetapkan spesies. Catatan perangkat membantu melihat tren, tetapi angka tanpa lokasi dan periode pengamatan sulit ditafsirkan. Untuk temuan yang berdampak pada kesehatan, keamanan produk, atau penghentian operasi, tahan kesimpulan sampai ada tinjauan ahli yang sesuai. [NEEDS FACILITY-SPECIFIC REVIEW: jenis hama, tingkat keparahan, status vektor, dan tindakan harus ditentukan dari bukti lapangan serta kewenangan setempat.]
+
+Terakhir, tetapkan siapa yang menutup celah, mengatur kebersihan, mencatat temuan, memberi tahu penghuni, dan menyetujui perubahan. Tanpa pemilik tugas, temuan berulang hanya berpindah dari satu laporan ke laporan berikutnya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Risiko Hama Menurut Fungsi Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rumah biasanya memiliki satu keluarga, tetapi kebiasaan memasak, penyimpanan makanan, hewan peliharaan, dan pekerjaan perbaikan menentukan paparan. Pertanyaan kuncinya: dari mana makanan dan barang masuk, di mana sampah menunggu, dan apakah celah di sekitar pipa atau pintu dapat ditutup? Bukti yang dicari adalah catatan lokasi tanda, kondisi area, dan perubahan setelah perbaikan—bukan asumsi bahwa semua rumah memerlukan langkah yang sama.
+
+Apartemen dan hotel menambah pergantian penghuni serta pergerakan koper, linen, makanan, dan petugas. Satu laporan di kamar dapat berkaitan dengan koridor, ruang cuci, atau unit lain, tetapi hubungan itu harus dibuktikan lewat pola lokasi dan waktu. Sobat Basmi.co.id, minta peta unit atau lantai yang menjaga kerahasiaan penghuni, lalu cocokkan laporan dengan jalur layanan dan jadwal pembersihan.
+
+Sekolah memusatkan anak, guru, kantin, ruang penyimpanan, dan jadwal padat. CDC menekankan pemantauan dan pencegahan dalam program pengendalian hama terpadu di sekolah, dengan perhatian pada paparan pengguna yang beragam ([CDC IPM di sekolah](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf)). Tanyakan kapan ruang kosong, bagaimana makanan disimpan, dan siapa yang menerima laporan tanpa menuduh satu kelas sebagai sumber.
+
+Fasilitas kesehatan memerlukan pemisahan area berdasarkan sensitivitas pasien, aliran limbah, linen, makanan, dan akses teknis. Peta risiko di sini harus menyoroti jalur yang dapat membawa kontaminan ke ruang perawatan, bukan sekadar menghitung penampakan. Klaim tentang penyakit atau vektor memerlukan tinjauan kesehatan masyarakat; jangan mengubah tanda umum menjadi diagnosis.
+
+Kantor sering dianggap berisiko rendah karena aktivitasnya siang hari. Padahal pantry, ruang server yang hangat, area bongkar kiriman, dan tempat sampah dapat menciptakan kantong paparan. Bandingkan lantai, jadwal pengosongan sampah, dan sumber makanan sebelum menyimpulkan bahwa keluhan hanya masalah kebersihan satu meja.
+
+Gudang dan fasilitas transportasi memiliki pintu besar, palet, kendaraan, serta barang yang berpindah cepat. Bukti pentingnya meliputi pemeriksaan penerimaan, kondisi kemasan, titik bongkar-muat, dan tren perangkat. Jangan menyamakan barang yang terlihat utuh dengan barang yang bebas risiko; mintalah catatan pemeriksaan dan aturan karantina internal jika ada.
+
+Pabrik pangan menempatkan perlindungan bahan dan produk sebagai pertanyaan utama. Prinsip higiene pangan Codex menghubungkan kebersihan, pencegahan kontaminasi, pengendalian hama, dan pemantauan dalam sistem higiene, tetapi tidak otomatis menjadi izin atau prosedur lokal ([Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf)). Bedakan area produk terbuka, bahan mentah, ruang luar, dan jalur limbah; setiap temuan harus punya dampak dan penanggung jawab yang jelas.
+
+Industri non-pangan dapat memiliki bahan baku, debu, panas, air proses, dan mesin yang menciptakan tempat berlindung. Risiko bukan hanya kerusakan material, melainkan juga gangguan keselamatan dan penghentian proses. Tanyakan titik akses, toleransi gangguan, dan bukti bahwa perbaikan bangunan benar-benar selesai sebelum memilih intervensi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Risiko Hama Menurut Fungsi Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pemilik mengelola rumah tinggal, hotel, gudang, dan pabrik pangan. Laporan “ada tikus” masuk dari empat tempat pada minggu yang sama. Peta yang masuk akal tidak langsung memerintahkan tindakan seragam. Di rumah, minta catatan makanan dan celah; di hotel, cocokkan kamar, koridor, linen, dan jadwal laporan; di gudang, periksa palet, pintu, serta kendaraan; di pabrik pangan, tahan keputusan yang dapat memengaruhi produk sampai bukti kontaminasi dan alur pelepasan produk ditinjau.
+
+Gunakan tabel pertanyaan berikut saat rapat lintas lokasi:
+
+| Fungsi | Paparan yang diprioritaskan | Bukti awal yang diminta | Keputusan yang ditahan |
+| --- | --- | --- | --- |
+| Rumah | makanan, celah, hewan peliharaan | lokasi dan tanggal tanda, kondisi area | diagnosis spesies dari satu foto |
+| Apartemen/hotel | pergantian penghuni, linen, sampah bersama | pola unit/lantai dan jalur layanan | menyalahkan satu penghuni |
+| Sekolah | pengguna rentan, kantin, jadwal kelas | log pemantauan dan waktu ruang kosong | tindakan saat ruang masih dipakai |
+| Kesehatan | ruang pasien, limbah, linen | peta zona dan tinjauan kesehatan | klaim penyakit atau vektor |
+| Kantor | pantry, kiriman, ruang utilitas | tren laporan per area dan waktu | menganggap keluhan insidental |
+| Gudang/transportasi | palet, pintu, kendaraan, kemasan | catatan penerimaan dan inspeksi | menyatakan barang aman tanpa pemeriksaan |
+| Pangan/industri | produk, bahan baku, proses, air | catatan higiene, perangkat, dan alur produk | pelepasan produk atau resep perlakuan |
+
+Jika bukti belum cukup, keluarkan keputusan sementara yang terbatas: area mana yang perlu diamati, dokumen apa yang harus dilengkapi, dan siapa yang meninjau. Itu lebih aman daripada memberi kepastian palsu.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Risiko Hama Menurut Fungsi Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai satu jadwal atau satu indikator untuk seluruh portofolio. Periksa apakah setiap lokasi memiliki fungsi, zona, paparan, dan pemilik tugas yang tertulis. Kesalahan kedua adalah menganggap penampakan sebagai ukuran keparahan. Cocokkan tanda dengan waktu, kondisi, tren perangkat, dan dampak nyata; minta pemeriksaan ahli bila keputusan menyentuh kesehatan atau produksi.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah mengira pergantian merek sudah mengelola resistensi. Pedoman WHO mengingatkan bahwa pengelolaan resistensi membutuhkan bukti sasaran dan pemantauan, bukan sekadar nama produk yang berbeda ([manual pemantauan resistensi insektisida WHO](https://www.who.int/publications/i/item/9789240051089)). Kesalahan keempat adalah menyebut bahan “mudah terurai” lalu membuangnya ke saluran. Jalur tanah, air, udara, hewan, dan sistem perairan berbeda; ikuti label, lembar data keselamatan, klasifikasi limbah Indonesia, serta tinjauan profesional yang berlaku.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk tanda pengerat, bedakan nilai buktinya. CDC mencantumkan kotoran, bekas gigitan, jejak, bau, penampakan, liang, dan data perangkat sebagai petunjuk yang perlu dibaca dalam konteks; pembersihan dan perlindungan makanan memiliki kontrol paparannya sendiri ([CDC pengendalian pengerat](https://www.cdc.gov/healthy-pets/about/rodent-control.html)). Jangan mengubah daftar petunjuk itu menjadi resep penempatan perangkap atau diagnosis penyakit.
 
-## Required conclusion
+## Mengapa penyemprotan berkala bukan peta risiko
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering terdengar adalah, “Semua gedung cukup disemprot tiap bulan.” Cara ini gagal karena fungsi, paparan, dan bukti antar-zona berbeda. Penyemprotan berulang tidak menjawab celah bangunan, aliran barang, sanitasi, atau siapa yang memantau hasil; bahkan dapat menimbulkan keputusan yang tidak sesuai bila ruang sedang digunakan.
 
-## Draft completion checklist
+Alternatifnya adalah menetapkan siklus minimum: petakan fungsi dan jalur masuk, kumpulkan tanda yang dapat diverifikasi, tetapkan tujuan, pilih intervensi paling rendah risikonya yang sesuai bukti, lalu pantau dan evaluasi. Rujukan WHO menjelaskan urutan analisis, peran, pemantauan, evaluasi, dan adaptasi; detail tindakan tetap memerlukan label dan peninjauan setempat.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Memetakan risiko hama berarti membandingkan fungsi bangunan, bukan memberi label hama yang sama kepada semua gedung. Kawan Basmi.co.id, mulai rapat berikutnya dengan satu lembar per lokasi: fungsi, zona, jalur masuk, tanda beserta tanggal, dampak, penanggung jawab, dan bukti yang masih kurang. Gunakan [beranda Basmi.co.id](/) atau [ruang lingkup layanan pengendalian serangga](/serangga) untuk kembali ke konteks layanan. Jika bukti menunjukkan kebutuhan koordinasi, [hubungi tim Basmi.co.id](/kontak-kami) sebelum membuat klaim spesies, penyakit, tingkat keparahan, pelepasan produk, atau rencana perlakuan.
+
+Aturan operasionalnya sederhana: tidak ada keputusan lintas lokasi sebelum bukti dan batas kewenangan tiap fungsi tertulis. Peta ini membantu mengarahkan pertanyaan; persetujuan profesional dan aturan setempat tetap menentukan tindakan akhir.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

@@ -2,8 +2,9 @@
 article_id: BAS-01-A02
 title: "Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak"
 slug: "bukti-identifikasi-hama"
-description: "Explain safe photos, scale, location, timing, specimen handling limits, and uncertainty"
-status: outline
+description: "Menjelaskan cara mengumpulkan foto, skala, lokasi, waktu, dan spesimen secara aman untuk membantu identifikasi hama tanpa menebak."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-04-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,53 +16,87 @@ final_route: "/artikel/bukti-identifikasi-hama.html"
 technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
-  - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
-  - "https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
   - "https://www.who.int/news-room/fact-sheets/detail/animal-bites"
-  - "https://www.menlhk.go.id/"
-  - "https://www.kemkes.go.id/"
   - "https://www.who.int/publications/i/item/9789289041683"
-  - "https://simbg.pu.go.id/"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak
 
-## Assignment lock
+Halo, Sobat Basmi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak”
-- **Reader and situation:** Reader with an unknown specimen or sign
-- **Reader outcome:** Explain safe photos, scale, location, timing, specimen handling limits, and uncertainty
-- **Primary intent:** Improve identification evidence
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Sobat Basmi.co.id`
-- **Natural variants:** `Kawan Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes health diagnosis and hazardous collection; BAS-01-A05 owns professional escalation
-- **Final public route:** `/artikel/bukti-identifikasi-hama.html`
-- **Appointed CMS date:** `2025-04-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Foto serangga yang buram, diambil dari jarak jauh, lalu diberi keterangan “tolong basmi” belum cukup untuk menentukan apa yang sedang terjadi. Cara yang lebih aman adalah mengumpulkan rangkaian bukti: foto yang jelas, pembanding ukuran, lokasi tepat, waktu pengamatan, dan kondisi sekitar. Rangkaian itu membantu pemeriksa menguji dugaan, bukan memaksa satu nama dari satu gambar.
 
-## Opening instructions
+Mulailah dari tanda yang bisa direkam tanpa menyentuh atau mengejar hewan. Jika bukti tidak cukup, tulis bahwa identifikasi belum pasti dan minta pemeriksaan yang kompeten. Pengamatan hama sebaiknya menjadi bagian dari analisis situasi, pemantauan, pemilihan intervensi, dan evaluasi; pengendalian kimia hanyalah salah satu kemungkinan, bukan definisi pengendalian itu sendiri ([strategi pengendalian vektor WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control)).
 
-- Open with the exact short salutation: **“Halo, Sobat Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Basmi.co.id`, `Kawan Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
 
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Hasil akhir dan prasyarat
+
+Hasil yang ingin dicapai bukan sekadar nama spesies, melainkan paket informasi yang dapat diperiksa ulang. Paket itu setidaknya berisi foto atau video pendek, skala pembanding, titik lokasi, tanggal dan jam, kondisi lingkungan, serta catatan apa yang terlihat sebelum dan sesudah pengamatan. Sertakan pula denah sederhana bila tanda muncul di beberapa ruangan atau zona.
+
+Alatnya sederhana: telepon dengan lensa bersih, penggaris atau benda pembanding yang ukurannya diketahui, lampu tambahan bila aman, kertas catatan, dan cara penamaan berkas yang konsisten. Jangan menyalakan alat, memindahkan furnitur berat, membuka plafon, atau memasuki ruang sempit hanya demi mendapatkan gambar. Bila area basah, berdebu, berbau menyengat, dekat listrik, atau dihuni hewan yang dapat menggigit, berhenti pada jarak aman.
+
+Sobat Basmi.co.id, pisahkan tiga hal sejak awal: fakta yang Anda lihat, dugaan penyebab, dan keputusan yang masih menunggu review. Kalimat “ada titik hitam di bawah wastafel” adalah fakta; “pasti kotoran kecoak” adalah dugaan. Pemisahan ini mencegah orang berikutnya menganggap dugaan sebagai hasil pemeriksaan.
+
+## Langkah 1 — tetapkan ruang pengamatan
+
+Tentukan objek dan batasnya sebelum mengambil foto. Apakah yang diamati hewan hidup, bangkai, kulit yang terlepas, kotoran, lubang, gigitan, atau kerusakan bahan? Catat ruangan, sisi dinding, ketinggian dari lantai, kedekatan dengan makanan atau air, dan apakah tanda berada di dalam, luar, atau celah bangunan.
+
+Buat tiga tingkat foto. Foto pertama menunjukkan konteks—misalnya seluruh sudut dapur atau bagian halaman—agar pemeriksa memahami posisi. Foto kedua mendekatkan area tanpa menghilangkan penanda sekitarnya. Foto ketiga berfokus pada tanda atau bagian tubuh yang terlihat, dengan bidang tetap stabil. Jangan mengedit warna, menambahkan filter, atau memangkas sampai ukuran dan orientasi hilang; simpan berkas asli dan buat salinan untuk dibagikan.
+
+Ruang pengamatan juga berarti hal yang sengaja tidak dilakukan. Jangan menangkap, memukul, menyemprot, membongkar sarang, atau mengorek celah untuk “membuktikan” dugaan. Foto tidak dapat menetapkan spesies, sifat agresif, status perlindungan, risiko penyakit, atau cara pemindahan yang aman ([WHO tentang gigitan hewan](https://www.who.int/news-room/fact-sheets/detail/animal-bites)).
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+Ukuran membantu, tetapi hanya jika pembandingnya jelas. Letakkan penggaris di bidang yang sama tanpa menutupi objek, atau gunakan benda berukuran pasti yang tidak mudah disalahartikan. Sebutkan apakah ukuran itu panjang tubuh, rentang sayap, diameter lubang, atau perkiraan dari jarak; jangan mengubah perkiraan menjadi angka presisi.
+
+Lokasi dan waktu sama pentingnya dengan bentuk. Catat kapan tanda pertama terlihat, kapan terakhir dibersihkan, apakah muncul setelah hujan, pemindahan barang, kebocoran, atau perubahan suhu, serta apakah terlihat siang atau malam. Tulis kondisi yang dapat diamati—permukaan lembap, sisa makanan, celah terbuka, atau aktivitas di sekitar—tanpa menyimpulkan bahwa salah satunya pasti penyebab.
+
+Kumpulkan pola, bukan satu kejadian. Buat tabel kecil dengan kolom tanggal, zona, jenis tanda, jumlah yang terlihat, kondisi sekitar, dan tindakan yang sudah dilakukan. Tanda, lokasi, tanggal, kondisi lingkungan, kerusakan, data perangkat, dan kecenderungan dari waktu ke waktu memang dapat mendukung identifikasi serta penilaian tingkat masalah, tetapi satu tanda bisa memiliki beberapa penyebab ([lembar fakta CDC tentang pengendalian hama terpadu](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf)).
+
+Sebelum mengirim bukti, cocokkan keterangan dengan berkasnya. Nama file seperti `dapur_2025-04-25_21-10_konteks.jpg` lebih berguna daripada `IMG0012.jpg`. Tandai foto yang diambil setelah pembersihan atau penyemprotan karena kondisi itu mengubah apa yang dapat dibaca. Bila ada perangkap atau perangkat pemantau yang memang sudah terpasang, catat posisi dan tanggal pembacaannya; jangan memasang perangkat baru atau memegang isinya tanpa panduan yang sesuai.
+
+## Langkah 3 — jalankan urutan kerja yang aman
+
+Urutannya sederhana. Pertama, amati dari jarak aman dan catat konteks. Kedua, ambil foto konteks, jarak menengah, lalu detail. Ketiga, ukur dengan pembanding yang tidak mengharuskan kontak. Keempat, simpan waktu, lokasi, dan perubahan kondisi. Kelima, minta pemeriksa menilai seluruh rangkaian, bukan hanya gambar terbaik.
+
+Saat mengisi formulir atau mengirim pesan, susun ringkasan satu paragraf: “Pada [tanggal dan jam], terlihat [tanda] di [lokasi], pada kondisi [yang teramati]. Foto A menunjukkan konteks, Foto B jarak menengah, Foto C detail. Setelah [tindakan yang sudah dilakukan], tanda [berubah/tidak diketahui].” Tambahkan pertanyaan yang bisa dijawab: bukti tambahan apa yang diperlukan, apakah area perlu dikosongkan, dan siapa yang berwenang memeriksa.
+
+Pendekatan ini menghindari jalan pintas “semprot dulu, identifikasi belakangan”. Prinsip pengendalian hama terpadu menempatkan pemantauan, pencegahan, ambang keputusan, dan pemilihan opsi berisiko paling rendah sebagai rangkaian; tindakan tanpa pengamatan dapat menghilangkan bukti dan membuat tren sulit dibaca ([prinsip IPM EPA](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
+
+## Titik tahan dan kondisi berhenti
+
+Hentikan pengumpulan ketika Anda harus menyentuh hewan, mendekati sarang, mengangkat benda berat, masuk ke ruang tertutup, atau bekerja dekat kabel dan bahan kimia. Jangan memancing hewan keluar, mengoleskan zat, meracuni, menjebak, atau mencoba memindahkan satwa liar. Untuk gigitan atau paparan yang menimbulkan gejala, cari bantuan medis atau layanan darurat; artikel ini tidak mendiagnosis dan tidak memberi petunjuk obat.
+
+Tahan keputusan treatment bila foto saling bertentangan, ukuran tidak memiliki pembanding, lokasi tidak jelas, atau tanda sudah berubah karena pembersihan. **[NEEDS PROFESSIONAL REVIEW: foto dan catatan belum dapat memastikan spesies, tingkat keparahan, status vektor, risiko kesehatan, atau metode penanganan.]** Mintalah pemeriksaan dari tenaga yang relevan—entomologi atau pengendalian hama, pengelola bangunan, kesehatan masyarakat, veteriner, atau otoritas satwa—sesuai konteksnya.
+
+Jika dugaan berkaitan dengan lembap, rembesan, kondensasi, celah tersembunyi, atau kerusakan bangunan, jangan mengubah foto menjadi diagnosis kebocoran atau klaim struktur. Pembacaan kadar air atau tanda hama tidak dengan sendirinya menunjukkan jalur bocor, mekanisme kondensasi, kerusakan tersembunyi, keselamatan listrik, atau kecukupan struktur ([panduan WHO tentang kelembapan dan jamur](https://www.who.int/publications/i/item/9789289041683)). Survei bangunan oleh tenaga yang sesuai diperlukan sebelum detail perbaikan diputuskan.
+
+## Verifikasi hasil dan serah-terima
+
+Serah-terima yang baik membuat orang lain dapat mengulang pemeriksaan. Kirim foto asli dan salinan beranotasi secara terpisah, denah atau daftar zona, tabel waktu, catatan kondisi, serta daftar tindakan yang sudah dilakukan. Minta penerima mengonfirmasi berkas mana yang dibaca dan pertanyaan apa yang masih terbuka.
+
+Gunakan checklist penerimaan: konteks terlihat; detail tidak buram; skala dijelaskan; lokasi dan waktu tercatat; perubahan kondisi disebutkan; tindakan berisiko tidak dilakukan; dan ketidakpastian ditulis. Bila pemeriksa menyebut spesies atau tingkat masalah, tanyakan bukti pembanding dan batas keyakinannya. Jangan menganggap seragam, satu dokumen, atau situs penyedia sebagai bukti otomatis bahwa entitas itu memenuhi semua persyaratan; identitas usaha, wilayah kegiatan, personel, fasilitas, catatan operasi, dan persetujuan berjalan adalah pemeriksaan yang terpisah.
+
+Simpan tanggal pemeriksaan dan pemicu koreksi: temuan baru, tanda menyebar ke zona lain, muncul paparan manusia atau hewan, atau kondisi lingkungan berubah. Untuk memahami konteks hama yang diamati, Anda dapat melihat [ruang lingkup topik serangga Basmi.co.id](/serangga), lalu menyampaikan paket bukti beserta batas pekerjaan yang Anda minta melalui [kanal kontak Basmi.co.id](/kontak-kami). Bila membutuhkan penanganan resmi atau keadaan darurat, gunakan kanal otoritas yang sesuai, bukan menunggu identifikasi dari foto.
+
+## Jalan pintas yang sering menggagalkan identifikasi
+
+“Saya kirim satu foto saja; teknisi pasti tahu.” Foto tunggal mungkin menunjukkan bentuk umum, tetapi sudut, cahaya, dan skala dapat menipu. Tanda yang sama juga bisa berasal dari organisme berbeda atau bukan organisme sama sekali. Alternatif yang lebih andal adalah mengirim urutan konteks–jarak menengah–detail, lalu menambahkan lokasi, waktu, dan perubahan kondisi.
+
+“Saya ambil sampelnya supaya lebih cepat.” Sampel hidup atau bangkai dapat menggigit, memicu alergi, menyebarkan kontaminan, atau melanggar aturan satwa. Untuk identifikasi, bukti nonkontak sering lebih aman; bila spesimen benar-benar diperlukan, biarkan profesional menentukan cara pengambilan dan pengirimannya.
+
+## Kesimpulan: bukti yang rapi mengalahkan tebakan cepat
+
+Cara mengumpulkan bukti untuk identifikasi hama tanpa menebak adalah merekam konteks, skala, lokasi, waktu, kondisi, dan pola secara berurutan, kemudian menyerahkan ketidakpastian kepada pemeriksa yang kompeten. Jangan mengorbankan keselamatan atau menghapus bukti demi satu nama spesies.
+
+Kawan Basmi.co.id, langkah berikutnya adalah membuat satu folder berisi foto asli, tabel pengamatan, dan catatan tindakan; tulis pertanyaan yang ingin dijawab sebelum meminta review. Aturan operasionalnya sederhana: bila pengumpulan bukti memerlukan kontak, pembongkaran, bahan kimia, atau klaim kesehatan dan kepatuhan, berhenti dan minta pemeriksaan profesional. Status teknis artikel ini tetap memerlukan review sebelum dipakai sebagai dasar keputusan proyek.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -72,160 +107,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial boundary and prevent broad pest material from overriding the 20 local topic families.
-- **Safe grounded facts:** There are 20 parent topics and 120 distinct briefs. The planning corpus does not prove organism identity, service availability, competence, product suitability, safety, efficacy, price, or compliance.
-- **Limits:** Repository planning documents establish editorial intent only.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-04
-
-- **Original sources:** [Permenkes No. 17 Tahun 2024 official PDF](https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf).
-- **Purpose for this article:** Ground provider due diligence in the official business standard rather than vague “licensed” language.
-- **Safe grounded facts:** Business identity, territorial/activity scope, personnel, facilities/equipment, operational records, and current approvals are separate checks.
-- **Limits:** Read the current complete regulation and verify the actual entity and local approval; do not infer compliance from a website, uniform, or one document.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-12
-
-- **Original sources:** [WHO animal-bites fact sheet](https://www.who.int/news-room/fact-sheets/detail/animal-bites), [Kementerian Lingkungan Hidup dan Kehutanan](https://www.menlhk.go.id/), [Kementerian Kesehatan](https://www.kemkes.go.id/).
-- **Purpose for this article:** Prevent removal tutorials, wildlife poisoning, allergy treatment, or “pet-safe” promises.
-- **Safe grounded facts:** A photograph may not establish species, aggressiveness, protection, disease risk, or safe removal. Aquatic organisms can be exposed through drift, runoff, residues, air handling, and contaminated equipment.
-- **Limits:** No nest removal, trapping, poisoning, antidote, diagnosis, or emergency-medication instruction; use emergency, medical, veterinary, wildlife, and licensed pest professionals.
-
-### KR-14
-
-- **Original sources:** [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683), [Indonesia PUPR building information portal](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground leak, condensation, drainage, penetration, gap, void, and exclusion content without turning pest observation into building design.
-- **Safe grounded facts:** A moisture reading or pest sign does not identify the leak path, condensation mechanism, hidden damage, electrical safety, or structural adequacy.
-- **Limits:** Require an actual building survey and relevant building, plumbing, envelope, electrical, or structural professional before repair details or compliance claims.
-
-### KR-17
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK legal record](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace vague extermination promises with comparable scope and retrievable evidence.
-- **Safe grounded facts:** Baseline, target, site/zone, device map, visit frequency, product disclosure, preparation, exclusions, threshold, response, trend, corrective action, incident path, report, warranty, and price can be stated separately.
-- **Limits:** No fabricated price, client, case study, review, eradication, response time, warranty, or legal entitlement. Require dated operator-approved evidence and legal review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-03, EG-07, EG-08, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-01-A01` → `/artikel/checklist-survei-hama-bangunan.html` — Checklist Survei Hama Sebelum Memilih Treatment
-- `BAS-01-A03` → `/artikel/membaca-tanda-keberadaan-hama.html` — Kotoran, Jejak, Lubang, Bau, dan Kerusakan: Membaca Tanda Hama
-- `BAS-01-A04` → `/artikel/matriks-risiko-hama.html` — Matriks Risiko Hama untuk Rumah dan Tempat Usaha
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengumpulkan Bukti untuk Identifikasi Hama Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

@@ -3,7 +3,8 @@ article_id: BAS-06-A03
 title: "Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi"
 slug: "persiapan-treatment-kutu-kasur"
 description: "Coordinate belongings, laundry handling, bagging, access, pets, disposal decisions, and provider instructions"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,222 +16,86 @@ final_route: "/artikel/persiapan-treatment-kutu-kasur.html"
 technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
-  - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
-  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
-  - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
-  - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
-  - "https://www.epa.gov/ipm/identifying-and-controlling-cockroaches"
-  - "https://www.epa.gov/bedbugs"
   - "https://www.cdc.gov/bed-bugs/about/index.html"
-  - "https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1"
+  - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides"
   - "https://kemkes.go.id/id/layanan/psc-119"
+  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
+  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi
 
-## Assignment lock
+Halo, Sobat Basmi.co.id! Cara paling aman menyiapkan treatment kutu kasur adalah memindahkan barang secara terkendali, bukan mengosongkan kamar dengan membawa semua isinya ke kamar lain. Masukkan tekstil dan barang yang memang harus keluar ke kantong tertutup, pisahkan barang bersih dari barang yang belum diperiksa, dan minta instruksi tertulis dari operator tentang apa yang boleh tetap berada di ruangan.
 
-- **Writer task:** Expand this file into one complete article answering: “Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi”
-- **Reader and situation:** Occupant before professional service
-- **Reader outcome:** Coordinate belongings, laundry handling, bagging, access, pets, disposal decisions, and provider instructions
-- **Primary intent:** Prepare a room safely
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Sobat Basmi.co.id`
-- **Natural variants:** `Kawan Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes universal preparation rules; the selected provider and label own exact steps
-- **Final public route:** `/artikel/persiapan-treatment-kutu-kasur.html`
-- **Appointed CMS date:** `2025-08-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Tujuannya bukan membuat kamar tampak kosong, melainkan menjaga agar kutu, telur, atau tanda infestasi tidak ikut berpindah. Urutan tepat, metode, bahan, waktu kembali masuk, dan penanganan limbah bergantung pada hasil survei, produk, serta label yang berlaku. [NEEDS EG-01/EG-03: identifikasi, luas infestasi, dan rencana metode harus dikonfirmasi lewat survei kompeten.]
 
-## Opening instructions
+![Ilustrasi Kutu Kasur](/wp-content/uploads/2023/11/Kutu-Kasur.jpg)
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-- Open with the exact short salutation: **“Halo, Sobat Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Basmi.co.id`, `Kawan Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
-- **Image ID:** `LOCAL-012`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- Image ID: `LOCAL-012`
+- Source type: `local`
+- Placement: setelah jawaban pembuka
 - **Exact Markdown to insert:** `![Ilustrasi Kutu Kasur](/wp-content/uploads/2023/11/Kutu-Kasur.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Kutu Kasur` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-012]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `Kutu Kasur` as relevant content media; no pixels were inspected.
+- Hard boundary: jangan menyimpulkan detail visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil.
+- Substitution rule: jangan mengganti gambar; bila aset tidak tersedia, gunakan `[NEEDS IMAGE REVIEW: LOCAL-012]`.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud persiapan tanpa memindahkan infestasi?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Persiapan mencakup semua keputusan sebelum operator bekerja: barang mana yang dipindahkan, bagaimana cucian dikemas, jalur keluar-masuk, siapa yang berada di rumah, dan bukti apa yang perlu diserahkan. Ini berbeda dari menjanjikan bahwa satu tindakan pasti membasmi seluruh kutu. Pendekatan pengendalian terpadu menghubungkan analisis situasi, pilihan intervensi, pemantauan, evaluasi, dan penyesuaian; penyemprotan hanyalah salah satu kemungkinan komponen ([WHO, strategi pengendalian vektor](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control)).
 
-### KR-02
+Pindah kamar bukan solusi otomatis. Jika selimut, koper, pakaian, atau bantal dibawa tanpa pengantongan dan pemeriksaan, barang itu dapat menjadi kendaraan perpindahan. Sebaliknya, meninggalkan tumpukan barang tanpa memberi akses dapat menyembunyikan titik yang perlu diperiksa. Batas artikel ini adalah persiapan penghuni; aturan universal tidak ada karena provider dan label produk menentukan langkah rinci.
 
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
+Tanda pada kulit juga tidak cukup untuk memastikan kutu kasur. Gigitan atau bercak dapat memiliki penyebab lain, sehingga foto, spesimen, lokasi tanda, tanggal, dan hasil inspeksi perlu diperlakukan sebagai informasi awal, bukan diagnosis ([CDC, informasi kutu kasur](https://www.cdc.gov/bed-bugs/about/index.html)).
 
-### KR-05
+## Urutan kerja sebelum operator datang
 
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
+Mulailah dengan satu zona karantina sementara: area tempat kantong tertutup diletakkan dan tidak dilalui penghuni lain. Catat dari kamar mana setiap kantong berasal. Jangan mencampur pakaian dari kamar yang dicurigai dengan cucian bersih, dan jangan menaruh barang di sofa atau kamar tidur lain hanya karena ruangan itu terlihat aman.
 
-### KR-07
+Untuk tekstil, ikuti instruksi provider tentang pemisahan, pencucian, pengeringan, atau penyimpanan. Artikel ini tidak memberi suhu, durasi, atau resep karena efektivitas bergantung pada bahan, alat, dan prosedur yang disetujui. Label produk juga tidak boleh digantikan oleh saran pemasaran atau lembar data keselamatan; formulasi dan penggunaan resmi dapat berbeda walau bahan aktifnya sama ([Permentan No. 43 Tahun 2019](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-); [pedoman izin edar PKRT Kemenkes](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf)). [NEEDS EG-02: label Indonesia yang berlaku dan kecocokan produk belum tersedia dalam paket.]
 
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
+Sediakan akses ke kasur, rangka, sisi dinding, dan furnitur yang akan diperiksa. Rapikan kabel dan benda mudah pecah, tetapi jangan membongkar konstruksi atau memindahkan furnitur ke ruangan lain tanpa arahan. Simpan dokumen, obat, makanan, dan barang bernilai di tempat yang disepakati operator; jangan menganggap wadah tertutup aman untuk semua metode tanpa konfirmasi.
 
-### KR-10
+Berikan operator denah sederhana atau daftar kamar, lokasi tidur, kapan tanda pertama terlihat, kamar yang pernah dipakai tidur, dan barang yang sudah berpindah. Catatan ini membantu menetapkan batas area dan membuat perbandingan kunjungan. Pengamatan, tanggal, lokasi, kondisi ruangan, serta tren lebih berguna daripada satu foto tunggal ([CDC IPM](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf)).
 
-- **Original sources:** [US EPA cockroach IPM](https://www.epa.gov/ipm/identifying-and-controlling-cockroaches), [US EPA bed bug information](https://www.epa.gov/bedbugs), [CDC bed bug clinical boundary](https://www.cdc.gov/bed-bugs/about/index.html).
-- **Purpose for this article:** Prevent one generic insect procedure from being copied across organism families.
-- **Safe grounded facts:** Bites and skin marks do not confirm bed bugs; winged ants can be confused with termites; adult fly capture does not by itself identify a breeding source; pesticide exposure can change behavior and detectability.
-- **Limits:** Require competent identification and site evidence; no heat, steam, fumigation, pesticide, medical, or eradication recipes.
+## Faktor penghuni, hewan, dan paparan
 
-### KR-13
+Sebelum jadwal ditetapkan, sebutkan anak kecil, kehamilan, lansia, alergi atau asma, disabilitas, hewan peliharaan, akuarium, dan kamar tetangga yang berbagi dinding. Informasi ini bukan alasan untuk menebak keamanan; ini alasan untuk meminta rencana paparan dan komunikasi yang spesifik. Bau yang lemah bukan bukti bahaya rendah, dan label “alami” bukan bukti aman ([WHO, pencegahan keracunan pestisida](https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides)).
 
-- **Original sources:** [WHO cleaning and disinfection guidance](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent disinfection claims from replacing soil removal, label scope, exposure control, or verification.
-- **Safe grounded facts:** Target organism/claim, surface, pre-cleaning, concentration, contact time, compatibility, ventilation, food contact, PPE, and verification are separate inputs.
-- **Limits:** Never invent dilution, mixture, contact time, PPE, sterilization, or incident response; use the current Indonesian authorization and product label.
+Tanyakan siapa yang bertanggung jawab mengeluarkan hewan, menutup akses, dan menentukan kapan penghuni boleh kembali. Jangan mengandalkan ventilasi seadanya atau masuk kembali karena tidak mencium bau. Jika ada dugaan paparan atau keluhan akut, hentikan aktivitas dan hubungi jalur darurat kesehatan 119; artikel ini bukan panduan diagnosis atau pertolongan pertama ([PSC 119 Kemenkes](https://kemkes.go.id/id/layanan/psc-119)).
 
-### KR-15
+## Dokumen dan pertanyaan yang mengubah hasil
 
-- **Original sources:** [WHO pesticide-poisoning prevention resources](https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides), [Indonesia emergency health service 119 information](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Provide a safe boundary for children, pregnancy, older people, disability, asthma/allergy, pets, neighbors, and suspected exposure.
-- **Safe grounded facts:** Odor is not a reliable measure of hazard or exposure; “natural” does not prove safe; absence of immediate symptoms does not validate a procedure.
-- **Limits:** No diagnosis, first aid, antidote, or individualized safety declaration. Follow the product label and contact emergency/poison/medical or veterinary professionals.
+Minta penjelasan tertulis yang memisahkan target, zona, persiapan, pengecualian, kebutuhan akses, rencana pemantauan, dan jalur pelaporan insiden. Jika penawaran hanya berkata “pasti tuntas” tanpa ruang lingkup, tanggal bukti, metode, atau batasan, perlakukan itu sebagai pertanyaan terbuka, bukan jaminan. Klaim layanan, harga, frekuensi kunjungan, garansi, dan hasil memerlukan bukti yang disetujui serta bertanggal; jangan mengisinya dari asumsi ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999)).
 
-### KR-17
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK legal record](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace vague extermination promises with comparable scope and retrievable evidence.
-- **Safe grounded facts:** Baseline, target, site/zone, device map, visit frequency, product disclosure, preparation, exclusions, threshold, response, trend, corrective action, incident path, report, warranty, and price can be stated separately.
-- **Limits:** No fabricated price, client, case study, review, eradication, response time, warranty, or legal entitlement. Require dated operator-approved evidence and legal review.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-06, EG-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kutu-kasur` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-kutu-kasur.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-kutu-kasur-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-kutu-kasur-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-kutu-kasur-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-kutu-kasur-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-06-A01` → `/artikel/tanda-kutu-kasur-dan-serangga-mirip.html` — Tanda Kutu Kasur, Noda, Kulit Ganti, dan Serangga Mirip
-- `BAS-06-A02` → `/artikel/survei-kutu-kasur.html` — Cara Survei Kutu Kasur pada Tempat Tidur dan Furnitur
-- `BAS-06-A04` → `/artikel/perbandingan-metode-kutu-kasur.html` — Heat, Steam, Vacuum, Encasement, dan Insektisida untuk Kutu Kasur
-- `BAS-06-A05` → `/artikel/monitoring-setelah-treatment-kutu-kasur.html` — Monitoring Setelah Treatment Kutu Kasur: Apa yang Dicatat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tanyakan setidaknya: barang apa yang harus tetap di kamar, bagaimana kantong diberi tanda, siapa membuka atau memindahkannya, metode apa yang dipertimbangkan setelah survei, apa syarat re-entry menurut label, dan bukti apa yang diterima sebagai dasar evaluasi. [NEEDS EG-03/EG-04/EG-06: metode, paparan, alat pelindung, penyimpanan, limbah, dan pengaturan penghuni/hewan memerlukan review provider serta label terkini.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pakaian di lemari dekat tempat tidur dan koper akan dipakai bepergian. Keputusan aman bukan “buang semuanya” atau “bawa ke kamar tamu”, melainkan tahan perpindahan, masukkan barang yang disetujui ke kantong tertutup berlabel asal, lalu minta operator menentukan jalur penanganannya. Koper yang sudah dibawa keluar dicatat sebagai riwayat perpindahan agar dapat ikut dinilai.
+
+Jika penghuni harus tidur sementara di ruangan lain, tanyakan pilihan yang tidak memperluas area paparan. Jangan memindahkan kasur, selimut, atau furnitur secara spontan. Kawan Basmi.co.id, keputusan kecil seperti menaruh satu tas di sofa dapat mengubah zona yang harus diperiksa, jadi catat setiap perpindahan dan laporkan sebelum treatment.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Persiapan Treatment Kutu Kasur Tanpa Memindahkan Infestasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengosongkan kamar tanpa peta asal barang. Periksa apakah setiap kantong memiliki sumber ruangan, tanggal, dan status pemeriksaan. Kesalahan kedua adalah menyemprot sendiri sebelum survei; tindakan itu dapat mengubah perilaku dan keterlihatan hama, sekaligus membuka risiko paparan tanpa instruksi label.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menyamakan “tidak berbau” dengan “sudah aman”. Minta syarat kembali masuk yang spesifik dari operator dan label, bukan dari perkiraan indra. Kesalahan keempat adalah membuang kasur atau furnitur tanpa rencana; pembuangan dapat memindahkan masalah ke lorong, kendaraan, atau rumah orang lain dan belum tentu menyelesaikan sumber.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-## Required conclusion
+Jalan pintas paling umum ialah memasukkan semua barang ke satu kantong besar lalu membawanya keluar. Cara ini memang cepat, tetapi menghapus informasi asal, memperbesar peluang kantong robek, dan membuat barang bersih bercampur dengan barang yang belum diperiksa. Alternatif yang lebih dapat ditelusuri adalah beberapa kantong tertutup, label asal, jalur transportasi yang disepakati, serta persetujuan provider sebelum dibuka.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Begitu juga dengan “fogging” atau penyemprotan berulang sebagai pengganti analisis. Pengendalian terpadu meminta tujuan, pilihan intervensi, pemantauan, dan evaluasi; satu kunjungan yang tenang atau bau bahan tidak membuktikan sumber telah hilang ([WHO, strategi pengendalian vektor](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control)).
 
-## Draft completion checklist
+## Kesimpulan: tahan perpindahan, minta instruksi yang dapat dibuktikan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Persiapan treatment kutu kasur tanpa memindahkan infestasi berarti mengendalikan aliran barang dan orang: pisahkan, kantongi, beri label asal, sediakan akses, dan laporkan semua perpindahan. Sebelum menyentuh produk atau memindahkan furnitur, minta hasil survei, instruksi label, aturan re-entry, serta rencana untuk penghuni dan hewan.
+
+Untuk langkah berikutnya, Anda dapat membaca [informasi layanan kutu kasur](/kutu-kasur) lalu menghubungi [jasa kutu kasur](/jasa-kutu-kasur.html) dengan daftar kamar, barang berpindah, dan pertanyaan paparan yang sudah dicatat. Teman Basmi.co.id, aturan operasionalnya sederhana: jangan memindahkan barang yang belum dinilai; bila identitas, metode, atau keselamatan belum jelas, tahan pekerjaan dan minta review teknis.

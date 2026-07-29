@@ -2,8 +2,9 @@
 article_id: BAS-19-A03
 title: "Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control"
 slug: "organisme-non-target-pest-control"
-description: "Identify exposure routes, habitat, timing, product evidence, buffers as label-controlled, alternatives, and verification"
-status: outline
+description: "Susun rencana pest control yang melindungi penyerbuk, hewan peliharaan, satwa liar, dan biota air melalui penilaian paparan, waktu, label, serta verifikasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,202 +17,80 @@ technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
   - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
-  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
   - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
-  - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
-  - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
-  - "https://www.who.int/publications/i/item/9789240051089"
-  - "https://www.who.int/publications-detail-redirect/9789241516884"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Pest control di dekat taman, kolam, hewan peliharaan, atau habitat satwa liar tidak boleh diputuskan hanya dari nama hamanya. Jawaban amannya adalah: petakan siapa dan apa yang bisa terpapar, pilih intervensi yang paling sempit dan dapat dibuktikan, lalu tahan pekerjaan bila label, kondisi lapangan, atau kewenangan belum jelas.
 
-- **Writer task:** Expand this file into one complete article answering: “Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control”
-- **Reader and situation:** Site near gardens, ponds, pets, or wildlife
-- **Reader outcome:** Identify exposure routes, habitat, timing, product evidence, buffers as label-controlled, alternatives, and verification
-- **Primary intent:** Protect non-target organisms
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes declaring any method harmless; BAS-15-A03 owns pet-specific planning
-- **Final public route:** `/artikel/organisme-non-target-pest-control.html`
-- **Appointed CMS date:** `2026-07-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Tidak ada metode yang otomatis “aman untuk semua organisme”. Arah keputusan dapat berubah karena spesies sasaran, lokasi sarang atau kolam, angin dan hujan, waktu aktivitas penyerbuk, formulasi produk, serta aturan setempat. [NEEDS SITE REVIEW: identitas spesies, jalur air, kondisi cuaca, dan label Indonesia belum tersedia dalam paket ini.]
 
-## Opening instructions
+![Ilustrasi bg pest control](/wp-content/uploads/2023/11/bg-pest-control.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi bg pest control](/wp-content/uploads/2023/11/bg-pest-control.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bg pest control` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-05
-
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-09
-
-- **Original sources:** [CDC rodent-control guidance](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf).
-- **Purpose for this article:** Ground proofing, sanitation, contamination control, monitoring, and food-facility interfaces.
-- **Safe grounded facts:** Droppings, gnawing, tracks, odor, sightings, burrows, and device data have different evidential value. Cleanup and food protection require their own exposure controls.
-- **Limits:** Do not diagnose disease, publish bait or trap placement recipes, or infer legal wildlife status. Use the applicable label and health/wildlife authority.
-
-### KR-18
-
-- **Original sources:** [WHO insecticide-resistance monitoring manual](https://www.who.int/publications/i/item/9789240051089), [WHO/FAO pesticide-management survey](https://www.who.int/publications-detail-redirect/9789241516884), [Indonesia hazardous-waste regulation PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021).
-- **Purpose for this article:** Ground environmental and resistance articles without generic rotation or disposal recipes.
-- **Safe grounded facts:** Rotation by brand name is not resistance management; “biodegradable” is not a disposal instruction; drains, soil, air, water, pets, pollinators, wildlife, and aquatic systems are distinct pathways.
-- **Limits:** Require label/SDS, target and resistance evidence, Indonesian waste classification, approved transporter/receiver where applicable, and environmental/chemical professional review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-19-A01` → `/artikel/resistensi-pestisida-dalam-pengendalian-hama.html` — Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah
-- `BAS-19-A02` → `/artikel/dampak-lingkungan-fogging.html` — Fogging, Drift, Runoff, dan Organisme Non-Target
-- `BAS-19-A04` → `/artikel/udara-dalam-ruang-dan-residu-treatment.html` — Indoor Air dan Residu Setelah Treatment: Pertanyaan untuk Menilai Paparan
-- `BAS-19-A05` → `/artikel/limbah-pengendalian-hama.html` — Kemasan, Sisa Produk, Perangkap, dan Bangkai: Menentukan Jalur Limbah
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after opening, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi bg pest control](/wp-content/uploads/2023/11/bg-pest-control.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; no pixels inspected.
+Hard boundary: do not infer unseen visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image; use [NEEDS IMAGE REVIEW: LOCAL-001] if unavailable.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling berbahaya ialah menganggap organisme non-target hanya perlu dijauhkan saat penyemprotan. Paparan dapat terjadi lewat udara, tetesan yang berpindah, permukaan tanaman, tanah, air larian, wadah makanan, atau kontak tidak langsung ketika hewan menjilat tubuhnya. Karena itu, rencana harus menyebut jalur paparan dan cara memverifikasinya, bukan sekadar “semprot seperlunya”.
+
+Pendekatan pengendalian terpadu menghubungkan analisis situasi, tujuan, ekologi lokal, pilihan intervensi, peran pelaksana, pemantauan, evaluasi, dan penyesuaian. Bahan kimia hanya salah satu komponen, sebagaimana dijelaskan dalam [strategi pengendalian vektor WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control) dan [handbook integrated vector management](https://www.who.int/publications/i/item/9789241502801). Panduan itu bukan izin operator, persetujuan pestisida, atau rekomendasi produk untuk lokasi Anda.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Organisme non-target adalah makhluk yang tidak dimaksudkan sebagai sasaran pengendalian, tetapi dapat terkena dampak kegiatan. Di halaman ini, kelompoknya meliputi penyerbuk seperti lebah dan kupu-kupu, hewan peliharaan, satwa liar yang melintas atau bersarang, serta biota air di kolam, selokan, atau badan air yang terhubung.
+
+Fokusnya adalah perencanaan paparan dan keputusan lapangan. Ini bukan pengganti rencana khusus hewan peliharaan, diagnosis penyakit, penetapan status satwa dilindungi, atau instruksi dosis dan campuran. [NEEDS PROFESSIONAL REVIEW: rencana pet-specific dan keputusan satwa liar harus ditangani kompetensi yang sesuai.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan peta sederhana: tandai taman berbunga, sarang, kandang, tempat makan dan minum, ventilasi, kolam, saluran drainase, serta arah aliran air. Catat waktu organisme terlihat aktif. Lebah yang mencari bunga pada siang hari memberi kondisi berbeda dari kelelawar yang muncul malam hari; kolam yang menerima limpasan hujan memiliki jalur berbeda dari pot tertutup.
+
+Berikutnya, pisahkan bukti dari dugaan. Foto, spesimen, lokasi, tanggal, cuaca, kerusakan, data perangkap, dan tren membantu menilai identitas serta tingkat masalah; satu tanda dapat memiliki beberapa penyebab. Prinsip observasi dan pemantauan ini sejalan dengan [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf) dan [prinsip IPM EPA](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles). Jangan menyimpulkan spesies, vektor, atau penyakit dari satu foto.
+
+Sesudah sasaran jelas, pilih pencegahan dan perbaikan habitat terlebih dahulu: tutup celah masuk, perbaiki kebocoran, kelola sampah, atur penyimpanan makanan, atau ubah kondisi yang menarik hama. Jika intervensi kimia tetap dipertimbangkan, dokumenkan produk, formulasi, sasaran pada label, area yang dilarang, kondisi cuaca, serta siapa yang menyetujui pekerjaan. Pedoman otorisasi PKRT mengingatkan bahwa bahan aktif yang sama dapat hadir dalam formulasi dan penggunaan yang berbeda; lembar pemasaran atau SDS tidak menggantikan label yang disetujui ([pedoman otorisasi PKRT Kementerian Kesehatan](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Habitat adalah pengubah risiko pertama. Bunga terbuka, sarang, dan sumber air minum berarti organisme dapat hadir meskipun Anda tidak melihatnya saat inspeksi singkat. Untuk biota air, cek bukan hanya kolam utama, tetapi juga talang, parit, dan tanah yang mengalir ke sana. Jangan membuat “buffer aman” dengan angka buatan; jarak, penutup, waktu tunggu, dan larangan masuk harus mengikuti label Indonesia dan penilaian profesional. [NEEDS LABEL REVIEW: batas area, perlindungan air, syarat masuk kembali, dan pembuangan belum dapat ditetapkan.]
+
+Waktu dan cuaca juga penting. Angin dapat membawa kabut ke bunga atau kandang, sedangkan hujan dapat memindahkan residu ke saluran air. Menjadwalkan pekerjaan ketika penyerbuk tidak aktif mungkin mengurangi satu jalur paparan, tetapi tidak membuktikan tidak ada paparan tersisa. Tunda pekerjaan ketika kondisi aktual berbeda dari syarat label atau rencana.
+
+Bukti produk mengubah keputusan lebih dari nama merek. Cocokkan label terbaru dengan sasaran, lokasi, metode, perlindungan lingkungan, pertolongan pertama, dan pembuangan. [NEEDS PRODUCT EVIDENCE: nomor registrasi, label Indonesia yang berlaku, SDS, dan kesesuaian formulasi belum diberikan.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan gudang memiliki jejak serangga di dekat taman berbunga dan kolam ikan di sisi bangunan. Keputusan pertama bukan memilih insektisida, melainkan menahan pekerjaan, meminta identifikasi hama, memeriksa apakah jejak mengarah dari celah atau sumber makanan, dan memetakan aliran air. Jika celah dapat ditutup dan sanitasi diperbaiki, tindakan itu menjadi pilihan awal yang lebih sempit.
+
+Jika bukti menunjukkan intervensi tambahan perlu dilakukan, minta rencana tertulis: area perlakuan, area yang harus dikosongkan, perlindungan kolam dan bunga, waktu pelaksanaan, tanda berhenti, serta cara memeriksa hasil. Jangan mengubah “di luar jangkauan anak” menjadi izin menaruh umpan dekat mangkuk hewan; detail penempatan dan syarat masuk kembali tetap urusan label serta profesional.
+
+Teman Basmi.co.id, gunakan pertanyaan keputusan sederhana: organisme apa yang mungkin terpapar, melalui jalur mana, kapan jalur itu aktif, bukti apa yang mengonfirmasi, dan apa pilihan tanpa bahan kimia? Bila salah satu jawaban kosong, statusnya bukan siap kerja, melainkan perlu peninjauan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Produk nabati pasti aman” adalah jalan pintas yang gagal karena asal bahan tidak menjelaskan formulasi, sasaran label, atau jalur air. “Bisa dicuci setelah penyemprotan” juga bukan prosedur; pembersihan dapat memindahkan residu ke drainase. Klaim biodegradable tidak otomatis menjadi instruksi pembuangan.
 
-## Objection or shortcut to address
+Periksa bukti dengan daftar pendek: identitas hama dan organisme sekitar, peta habitat, label dan SDS, cuaca aktual, pengendalian akses, catatan pelaksanaan, serta hasil pemantauan setelahnya. Untuk tanda pengerat, bedakan kotoran, gigitan, jejak, bau, penampakan, dan data perangkat; masing-masing memiliki bobot bukti berbeda. Jangan mendiagnosis penyakit atau menentukan status hukum satwa dari tanda tersebut.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kawan Basmi.co.id, minta pelaksana menunjukkan apa yang akan dihentikan bila angin berubah, hujan datang, kolam terhubung, atau hewan liar terlihat. Rencana yang tidak memiliki titik berhenti tidak cukup untuk lokasi dengan organisme sensitif.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Melindungi penyerbuk, hewan peliharaan, satwa liar, dan biota air berarti mengendalikan sasaran tanpa mengabaikan jalur paparan di sekitarnya. Mulailah dari observasi dan pencegahan, gunakan bahan kimia hanya bila label dan bukti mendukung, lalu verifikasi kondisi sesudah pekerjaan.
 
-## Draft completion checklist
+Sebelum menyetujui tindakan, simpan peta habitat, identifikasi sasaran, label Indonesia, SDS, rencana akses, dan catatan cuaca; bila belum lengkap, minta peninjauan kompeten atau gunakan [halaman utama Basmi.co.id](/) untuk menyiapkan pertanyaan layanan. Untuk membandingkan konteks hama secara umum, baca juga [panduan kategori serangga Basmi.co.id](/serangga), lalu [hubungi tim Basmi.co.id](/kontak-kami) dengan membawa dokumen tersebut.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya sederhana: tidak ada klaim “aman” tanpa batas yang tertulis dan bukti yang bisa diperiksa. Jika bukti atau kewenangan belum jelas, tahan pekerjaan—jangan menutup celah ketidakpastian dengan tebakan.

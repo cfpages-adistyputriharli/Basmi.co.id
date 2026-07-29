@@ -2,8 +2,9 @@
 article_id: BAS-10-A02
 title: "Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda"
 slug: "kotoran-cicak-tikus-atau-kelelawar"
-description: "Compare context, shape limits, location, accompanying signs, safe documentation, and referral triggers"
-status: outline
+description: "Membandingkan tanda kotoran cicak, tikus, dan kelelawar berdasarkan konteks, bentuk, lokasi, tanda pendamping, dokumentasi aman, serta pemicu rujukan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,214 +17,95 @@ technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
   - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
-  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
-  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
   - "https://www.who.int/news-room/fact-sheets/detail/animal-bites"
   - "https://www.menlhk.go.id/"
   - "https://www.kemkes.go.id/"
   - "https://www.who.int/publications/i/item/9789289041683"
-  - "https://simbg.pu.go.id/"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Menemukan kotoran di lantai, plafon, atau dekat gudang memang membuat Anda ingin segera menebak, “Ini cicak, tikus, atau kelelawar?” Jawaban paling aman: bentuk, warna, dan satu foto hanya memberi petunjuk awal, bukan kepastian spesies atau risiko penyakit.
 
-- **Writer task:** Expand this file into one complete article answering: “Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda”
-- **Reader and situation:** Owner finding unknown droppings
-- **Reader outcome:** Compare context, shape limits, location, accompanying signs, safe documentation, and referral triggers
-- **Primary intent:** Distinguish droppings cautiously
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes species or disease certainty and handling advice; BAS-01-A05 owns confirmation
-- **Final public route:** `/artikel/kotoran-cicak-tikus-atau-kelelawar.html`
-- **Appointed CMS date:** `2025-11-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Yang lebih dapat dipertanggungjawabkan adalah menggabungkan lokasi, pola kemunculan, tanda penyerta, tanggal, dan kondisi ruang. Satu tanda dapat memiliki beberapa penyebab. Kerangka pengelolaan hama terpadu menempatkan pengamatan, analisis situasi, pemantauan, pemilihan tindakan, dan evaluasi sebagai satu rangkaian; pengendalian kimia hanya salah satu kemungkinan, bukan definisi pengendalian itu sendiri ([WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-017`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-017
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Basmi Cicak](/wp-content/uploads/2023/11/Basmi-Cicak.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Basmi Cicak` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-017]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Basmi Cicak` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-017] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi Basmi Cicak](/wp-content/uploads/2023/11/Basmi-Cicak.jpg)
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-05
-
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-12
-
-- **Original sources:** [WHO animal-bites fact sheet](https://www.who.int/news-room/fact-sheets/detail/animal-bites), [Kementerian Lingkungan Hidup dan Kehutanan](https://www.menlhk.go.id/), [Kementerian Kesehatan](https://www.kemkes.go.id/).
-- **Purpose for this article:** Prevent removal tutorials, wildlife poisoning, allergy treatment, or “pet-safe” promises.
-- **Safe grounded facts:** A photograph may not establish species, aggressiveness, protection, disease risk, or safe removal. Aquatic organisms can be exposed through drift, runoff, residues, air handling, and contaminated equipment.
-- **Limits:** No nest removal, trapping, poisoning, antidote, diagnosis, or emergency-medication instruction; use emergency, medical, veterinary, wildlife, and licensed pest professionals.
-
-### KR-14
-
-- **Original sources:** [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683), [Indonesia PUPR building information portal](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground leak, condensation, drainage, penetration, gap, void, and exclusion content without turning pest observation into building design.
-- **Safe grounded facts:** A moisture reading or pest sign does not identify the leak path, condensation mechanism, hidden damage, electrical safety, or structural adequacy.
-- **Limits:** Require an actual building survey and relevant building, plumbing, envelope, electrical, or structural professional before repair details or compliance claims.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-03, EG-06, EG-08, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/tikus` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-tikus.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-tikus-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-tikus-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-tikus-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-tikus-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-10-A01` → `/artikel/penyebab-cicak-masuk-bangunan.html` — Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung
-- `BAS-10-A03` → `/artikel/pengendalian-cicak-dengan-eksklusi.html` — Eksklusi dan Pengurangan Sumber untuk Mengendalikan Cicak Secara Proporsional
-- `BAS-10-A04` → `/artikel/hewan-pengganggu-lain-dan-rujukan.html` — Laba-Laba, Pinjal, Tungau, Burung, dan Kelelawar: Siapa Pemilik Masalahnya
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas cara membaca tanda ketika pemilik bangunan menemukan kotoran yang belum diketahui sumbernya. “Membaca” berarti mencatat keadaan dan membandingkan beberapa petunjuk, bukan menguji sampel sendiri atau menetapkan diagnosis. Tujuannya membantu Anda menentukan pertanyaan berikutnya dan kapan meminta pemeriksaan.
+
+Batasnya penting. Dari kotoran saja kita tidak boleh menyimpulkan spesies dengan pasti, luas infestasi, status perlindungan satwa, penularan penyakit, atau tindakan yang aman. Foto bisa membantu petugas memahami konteks, tetapi foto tidak membuktikan agresivitas hewan, status satwa, ataupun risiko penyakit ([WHO animal-bites fact sheet](https://www.who.int/news-room/fact-sheets/detail/animal-bites)). Karena itu, saya menandai kebutuhan konfirmasi lapangan sebagai **[NEEDS EG-01: identifikasi organisme dan tingkat masalah memerlukan bukti lapangan, bukan tebakan dari satu tanda]**.
+
+Bedakan tiga kesimpulan yang sering tercampur. Pertama, “ada tanda di sini” adalah observasi. Kedua, “kemungkinan sumbernya hewan tertentu” adalah hipotesis yang perlu diuji. Ketiga, “harus dilakukan tindakan tertentu” adalah keputusan yang memerlukan penilaian paparan, bangunan, penghuni, dan aturan yang berlaku. Menyebut produk atau cara aplikasi sebelum tahap itu akan melampaui bukti yang tersedia.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari keadaan yang bisa diulang. Catat tanggal, jam penemuan, ruangan, titik persis, dan apakah tanda baru muncul setelah area dibersihkan oleh pihak yang berwenang. Bila ada beberapa titik, buat peta sederhana: misalnya bawah celah plafon, belakang lemari, dekat saluran, atau di luar ambang pintu. Pola sebaran sering lebih berguna daripada satu butir yang dilihat terpisah.
+
+Berikutnya, amati lingkungan tanpa memindahkan atau mengutak-atik material. Apakah titik itu berada di area tertutup, ruang yang sering dilalui, tempat lembap, atau lokasi yang terhubung ke luar? Adakah jejak lain seperti suara dari rongga, kerusakan benda, lubang masuk, bulu, bau, atau serangga di sekitar? Tanda penyerta tidak otomatis mengidentifikasi hewan, tetapi membantu petugas menyusun urutan pemeriksaan. Panduan pengelolaan hama terpadu juga menekankan pengamatan, ambang keputusan, pencegahan, dan pemantauan, bukan keputusan dari satu foto ([CDC IPM](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [EPA IPM principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
+
+Bentuk perlu dibaca dengan rendah hati. Kotoran dapat berubah karena usia, kelembapan, permukaan tempat jatuh, dan gangguan setelah berada di lokasi. Pencahayaan kamera juga bisa mengubah kesan warna. Jadi jangan menjadikan “ujungnya seperti ini” atau “ukurannya kira-kira begitu” sebagai kunci tunggal. Jika seseorang tetap ingin mengambil foto, utamakan konteks: sertakan tampilan area dari jarak wajar, letakkan pembanding ukuran hanya bila hal itu dapat dilakukan tanpa menyentuh material, dan simpan waktu pengambilan. Foto seperti itu adalah bahan komunikasi, bukan hasil identifikasi final.
+
+Perhatikan juga arah sebab-akibatnya. Kotoran di bawah celah tidak membuktikan hewan tinggal di dalam celah; bisa saja material berpindah dari bagian lain. Kotoran di bawah atap tidak otomatis berarti kelelawar; akses, aktivitas malam, kondisi rongga, dan tanda lain perlu diperiksa. Sebaliknya, tidak menemukan tanda tambahan pada satu kunjungan tidak membuktikan masalah sudah selesai. Catatan berulang pada titik dan tanggal berbeda memberi dasar yang lebih baik untuk menilai pola.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lokasi mengubah pertanyaan pertama. Di dapur atau ruang penyimpanan, pertanyaannya bukan hanya “hewan apa?” tetapi juga apakah ada jalur menuju makanan, air, dan area sensitif. Di plafon atau atap, perlu mempertimbangkan rongga, penetrasi, kelembapan, dan akses dari luar. Tanda hama tidak dapat menentukan jalur kebocoran, mekanisme kondensasi, kerusakan tersembunyi, atau kecukupan struktur; hal itu memerlukan survei bangunan oleh tenaga yang relevan ([WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683)).
+
+Waktu dan frekuensi juga mengubah bobot bukti. Tanda yang muncul setiap pagi di titik sama berbeda pertanyaannya dari satu temuan setelah hujan atau pekerjaan plafon. Catat apakah ada penghuni yang melihat hewan, mendengar suara, atau menemukan kerusakan pada hari yang sama. Jangan mengubah laporan saksi menjadi kepastian; gunakan sebagai petunjuk yang perlu dicocokkan.
+
+Kondisi penghuni menentukan urgensi rujukan, bukan identitas kotoran. Ruang yang dipakai anak kecil, orang dengan alergi, hewan peliharaan, atau kegiatan makanan membutuhkan koordinasi tambahan. Jangan membuat janji “aman untuk hewan” atau menilai penyakit dari noda. Bila ada gigitan, kontak satwa, gejala akut, atau kekhawatiran kesehatan, gunakan jalur medis atau darurat dan rujukan resmi; artikel ini tidak memberi diagnosis atau terapi ([WHO animal-bites fact sheet](https://www.who.int/news-room/fact-sheets/detail/animal-bites), [Kementerian Kesehatan](https://www.kemkes.go.id/)).
+
+Status satwa dan tindakan terhadapnya juga bukan perkara menebak. Kelelawar atau satwa lain mungkin memerlukan arahan otoritas lingkungan hidup. Jangan meracuni, menjebak, memindahkan sarang, atau mencoba penanganan sendiri berdasarkan dugaan dari kotoran. Untuk pertanyaan satwa liar dan perlindungan, minta arahan dari otoritas yang berwenang, termasuk kanal Kementerian Lingkungan Hidup dan Kehutanan ([KLHK](https://www.menlhk.go.id/)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan Anda menemukan beberapa titik gelap di bawah plafon garasi. Keputusan awal bukan “semprot sekarang”, melainkan “bukti apa yang harus dicatat?” Ambil catatan lokasi dan waktu, foto konteks tanpa menyentuh, dan tulis apakah ada suara atau akses terbuka. Jika tanda berulang, sampaikan catatan itu kepada pemeriksa bangunan atau pengendali hama berlisensi agar mereka menilai sumber, tingkat masalah, dan risiko secara langsung.
+
+Contoh lain: satu butir ditemukan di dekat rak makanan, tanpa tanda lain. Perlakukan sebagai temuan yang perlu dikendalikan aksesnya dan didokumentasikan, bukan sebagai bukti tikus. Tahan keputusan penggunaan produk sampai identitas, paparan, label, dan rencana pemantauan ditinjau oleh pihak kompeten. Panduan resmi dan catatan lapangan membantu memisahkan observasi dari keputusan intervensi ([CDC IPM](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf)).
+
+Gunakan tabel keputusan berikut sebagai percakapan dengan pemeriksa, bukan sebagai alat diagnosis:
+
+| Yang Anda lihat | Pertanyaan yang perlu dijawab | Langkah berikutnya |
+| --- | --- | --- |
+| Satu temuan, lokasi belum jelas | Kapan ditemukan dan siapa yang melihat? | Simpan catatan konteks dan minta penilaian bila berulang. |
+| Temuan berulang di titik yang sama | Apa akses, rongga, makanan, air, atau kerusakan di sekitarnya? | Jadwalkan survei sumber dan bangunan; jangan menebak spesies dari bentuk. |
+| Temuan dekat area makanan atau penghuni rentan | Jalur paparan apa yang mungkin dan siapa penanggung jawabnya? | Koordinasikan pengelola fasilitas dan profesional kesehatan lingkungan. |
+| Ada kontak satwa, gigitan, atau gejala | Apakah perlu bantuan medis, darurat, atau otoritas satwa? | Rujuk segera ke kanal resmi; jangan menunda untuk mengidentifikasi kotoran. |
+
+Jika masalah utamanya ternyata tikus, Anda dapat membaca konteks layanan pada halaman [informasi pengendalian tikus](/tikus) dan, bila membutuhkan penilaian lapangan, melihat [jasa pembasmi tikus](/jasa-pembasmi-tikus.html). Tautan itu adalah langkah mencari bantuan, bukan bukti bahwa temuan Anda pasti berasal dari tikus.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengandalkan ukuran. Perbandingan dengan kuku atau benda di foto mudah meleset karena perspektif kamera, dan material dapat terpecah atau menempel pada permukaan. Tanyakan, “Apakah ada pola lokasi dan tanggal yang mendukung dugaan ini?” Jika tidak ada, tulis “belum diketahui” pada catatan.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap warna sebagai tes penyakit. Warna dipengaruhi cahaya dan kondisi material; ia tidak memberi diagnosis medis. Kesalahan ketiga adalah menganggap satu kunjungan tanpa temuan baru sebagai bukti sumber hilang. Mintalah data pemantauan yang mencatat titik, metode, tanggal, dan tren bila seseorang menyatakan masalah sudah terkendali.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah menyamakan foto dengan izin bertindak. Foto yang baik membantu komunikasi, tetapi tidak menggantikan pemeriksaan spesimen, bangunan, paparan, atau status satwa. Sobat Basmi.co.id, bila rekomendasi yang Anda terima langsung berisi dosis, campuran, lokasi penempatan, masa masuk kembali, atau janji “pasti aman” tanpa label dan penilaian lokasi, berhenti dan minta penjelasan tertulis dari pihak yang kompeten. Jangan mengisi kekosongan bukti dengan nama bahan atau merek.
 
-## Required conclusion
+## Jalan pintas yang tampak meyakinkan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang paling menggoda adalah menghapus kotoran, menyemprot area, lalu menunggu apakah muncul lagi. Cara itu bisa menghilangkan petunjuk lokasi dan menambah paparan yang belum dinilai, sementara kemunculan ulang belum tentu menunjukkan penyebab yang sama. Alternatif yang lebih dapat ditelusuri adalah mencatat keadaan sebelum ada perubahan, meminta pemeriksaan sumber dan akses, lalu menyepakati indikator pemantauan serta batas rujukan.
 
-## Draft completion checklist
+Jangan pula memesan layanan hanya dengan mengirim satu foto dan meminta kepastian spesies atau penyakit. Tanyakan bukti apa yang akan dikumpulkan, siapa yang bertanggung jawab atas identifikasi, apa yang tidak termasuk lingkup, dan kapan hasil perlu ditinjau ulang. Dalam kerangka pengelolaan terpadu, keputusan seharusnya menyesuaikan situasi, bukti, peran, dan evaluasi—bukan mengikuti satu resep untuk semua lokasi ([WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control)).
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: tanda adalah awal pemeriksaan
+
+Kotoran cicak, tikus, atau kelelawar tidak dapat dibedakan secara bertanggung jawab hanya dari satu bentuk atau foto. Lokasi, waktu, pola berulang, tanda penyerta, kondisi bangunan, dan konteks penghuni membantu mempersempit pertanyaan, tetapi konfirmasi spesies, risiko penyakit, status satwa, dan pilihan tindakan tetap memerlukan bukti lapangan serta profesional yang sesuai.
+
+Kawan Basmi.co.id, simpan catatan tanggal-lokasi-foto konteks, jangan mengutak-atik atau menggunakan produk berdasarkan tebakan, lalu minta pemeriksaan yang menjelaskan bukti, batas lingkup, dan rujukannya. Bila ada kontak satwa, gigitan, gejala, atau isu satwa liar, hubungi kanal medis, darurat, atau otoritas terkait segera. Aturan operasionalnya sederhana: **tanda membuka pemeriksaan; tanda tidak sendirian menetapkan identitas, penyakit, atau tindakan.**

@@ -2,8 +2,9 @@
 article_id: BAS-19-A01
 title: "Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah"
 slug: "resistensi-pestisida-dalam-pengendalian-hama"
-description: "Explain selection pressure, misidentification, application/evidence confounders, monitoring, integrated controls, and specialist testing"
-status: outline
+description: "Kenali penyebab resistensi pestisida, kekeliruan identifikasi, bias aplikasi, dan cara menggabungkan monitoring, pengendalian terpadu, serta pengujian spesialis."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,200 +17,99 @@ technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
   - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
-  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
-  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
-  - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
-  - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
-  - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
+  - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.who.int/publications/i/item/9789240051089"
   - "https://www.who.int/publications-detail-redirect/9789241516884"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
+  - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah
 
-## Assignment lock
+Halo, Sobat Basmi.co.id! Jika treatment yang dulu menurunkan populasi hama kini terasa hanya bertahan sebentar, jangan langsung menyimpulkan bahwa hama sudah kebal. Resistensi memang mungkin terjadi, tetapi hasil yang melemah juga bisa disebabkan hama yang keliru dikenali, titik sumber yang belum tertangani, pelaksanaan yang tidak sesuai label, atau bukti sebelum-sesudah yang terlalu tipis. Bila Anda baru mulai menata catatan, gunakan [beranda Basmi.co.id](/) sebagai titik awal untuk memetakan jenis gangguan dan pertanyaan layanan yang perlu dibawa ke pemeriksa.
 
-- **Writer task:** Expand this file into one complete article answering: “Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah”
-- **Reader and situation:** Facility seeing declining control
-- **Reader outcome:** Explain selection pressure, misidentification, application/evidence confounders, monitoring, integrated controls, and specialist testing
-- **Primary intent:** Understand resistance
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Sobat Basmi.co.id`
-- **Natural variants:** `Kawan Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes product rotation schedules or resistance diagnosis without testing; BAS-13-A05 owns failure review
-- **Final public route:** `/artikel/resistensi-pestisida-dalam-pengendalian-hama.html`
-- **Appointed CMS date:** `2026-07-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Resistensi berarti sebagian populasi hama mampu bertahan terhadap bahan aktif yang sebelumnya efektif, sehingga keturunannya lebih sering membawa sifat bertahan itu. Penggunaan berulang yang terus menyisakan individu tahan dapat memberi tekanan seleksi: yang rentan berkurang, sementara yang bertahan berkembang biak. Namun, tanpa pembandingan data dan pengujian yang layak, kondisi ini belum boleh disebut diagnosis. [NEEDS RESISTANCE TESTING: dugaan resistensi harus dikonfirmasi melalui pengujian spesialis dan peninjauan catatan aplikasi.]
 
-## Opening instructions
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
 
-- Open with the exact short salutation: **“Halo, Sobat Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Basmi.co.id`, `Kawan Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-05
-
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-09
-
-- **Original sources:** [CDC rodent-control guidance](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf).
-- **Purpose for this article:** Ground proofing, sanitation, contamination control, monitoring, and food-facility interfaces.
-- **Safe grounded facts:** Droppings, gnawing, tracks, odor, sightings, burrows, and device data have different evidential value. Cleanup and food protection require their own exposure controls.
-- **Limits:** Do not diagnose disease, publish bait or trap placement recipes, or infer legal wildlife status. Use the applicable label and health/wildlife authority.
-
-### KR-18
-
-- **Original sources:** [WHO insecticide-resistance monitoring manual](https://www.who.int/publications/i/item/9789240051089), [WHO/FAO pesticide-management survey](https://www.who.int/publications-detail-redirect/9789241516884), [Indonesia hazardous-waste regulation PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021).
-- **Purpose for this article:** Ground environmental and resistance articles without generic rotation or disposal recipes.
-- **Safe grounded facts:** Rotation by brand name is not resistance management; “biodegradable” is not a disposal instruction; drains, soil, air, water, pets, pollinators, wildlife, and aquatic systems are distinct pathways.
-- **Limits:** Require label/SDS, target and resistance evidence, Indonesian waste classification, approved transporter/receiver where applicable, and environmental/chemical professional review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-19-A02` → `/artikel/dampak-lingkungan-fogging.html` — Fogging, Drift, Runoff, dan Organisme Non-Target
-- `BAS-19-A03` → `/artikel/organisme-non-target-pest-control.html` — Penyerbuk, Hewan Peliharaan, Satwa Liar, dan Biota Air dalam Rencana Pest Control
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Treatment yang sama bisa makin lemah karena tekanan seleksi, tetapi juga karena sistem pengendalian tidak pernah menghilangkan penyebab masuknya hama. Menambah frekuensi semprot atau mengganti merek secara acak tidak membuktikan masalahnya selesai. Nama dagang yang berbeda dapat memakai bahan aktif atau cara kerja yang sama, sedangkan formulasi dan penggunaan yang diizinkan dapat berbeda.
+
+Pertanyaan awalnya bukan “merek apa yang lebih keras?”, melainkan “apa yang berubah dan bukti apa yang mendukungnya?”. Catat jenis tanda, lokasi, waktu, kondisi lingkungan, metode aplikasi, serta tren tangkapan atau temuan. Pendekatan pengendalian terpadu menghubungkan analisis situasi, tujuan, pilihan intervensi, pemantauan, evaluasi, dan adaptasi; bahan kimia hanya salah satu komponen, bukan definisi pengendalian itu sendiri ([WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, resistensi adalah perubahan pada populasi hama yang membuat sebagian individu bertahan terhadap paparan bahan aktif tertentu. Itu berbeda dari toleransi sementara karena tempat berlindung, permukaan yang tidak terkena, perilaku menghindar, atau dosis yang tidak sesuai label. “Treatment gagal” juga bukan satu objek tunggal: bisa berarti hama tidak turun, turun lalu pulih, atau tanda tetap muncul karena sumber baru terus masuk.
+
+Batas ini mengubah keputusan. Artikel ini membantu Anda memahami mekanisme, mengumpulkan bukti, dan menentukan kapan meminta pemeriksaan. Artikel ini tidak memberikan jadwal rotasi produk, takaran campuran, penempatan umpan, aturan masuk kembali, atau diagnosis resistensi tanpa pengujian. Label Indonesia yang berlaku dan tenaga berwenang tetap menjadi rujukan untuk penggunaan produk; nama bahan aktif di halaman pemasaran tidak menggantikannya.
+
+Jika kewajiban kesehatan lingkungan, bangunan, vektor, limbah, atau fasilitas Anda ikut terdampak, lakukan pemeriksaan hukum terkini dan tanyakan kewenangan setempat. Ringkasan lama tidak otomatis menggambarkan ketentuan yang masih berlaku; status, penerapan, kelas fasilitas, dan otoritas kompeten perlu dikonfirmasi sebelum membuat klaim kepatuhan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua kelompok kecil di antara hama: kebanyakan rentan dan sebagian memiliki variasi yang membuatnya lebih mampu bertahan. Setelah paparan, kelompok rentan berkurang lebih dulu. Bila tempat berlindung atau sumber makanan tetap tersedia, individu yang bertahan punya kesempatan berkembang biak. Paparan berikutnya lalu bekerja pada populasi yang proporsinya sudah berubah. Inilah inti tekanan seleksi, bukan tanda bahwa satu ekor hama “belajar” kebal.
+
+Urutannya dapat terganggu oleh salah identifikasi. Kotoran, kerusakan, atau serangga yang terlihat memiliki banyak penyebab; satu foto atau satu tanda tidak cukup untuk menentukan spesies dan tingkat keparahan. Prinsip IPM meminta pengamatan tanda, spesimen, lokasi, tanggal, kondisi lingkungan, kerusakan, data perangkap, dan tren sebelum memilih intervensi ([CDC](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [EPA](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
+
+Urutan yang sama juga menjelaskan mengapa pengendalian nonkimia penting. Menutup celah, memperbaiki sanitasi, mengurangi air atau makanan yang tersedia, dan menata pemantauan mengurangi peluang hama bertahan. Pada fasilitas pangan, perlindungan makanan dan pembersihan tanda memiliki pengendalian paparannya sendiri; data kotoran, gigitan, jejak, bau, penglihatan, liang, dan alat pemantau tidak setara nilainya ([CDC rodent control](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf)). Untuk mengenali konteks hama secara lebih umum, lihat juga [ruang lingkup pengendalian serangga](/serangga) sebelum meminta pemeriksaan khusus.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, identitas dan sumber. Jika yang terlihat adalah spesies berbeda, koloni di balik dinding, atau hama yang masuk dari luar, treatment pada titik yang salah akan tampak lemah. Cocokkan temuan di beberapa lokasi dan waktu, bukan hanya setelah satu aplikasi.
+
+Kedua, bahan dan cara penggunaan. Formulasi dengan bahan aktif sama belum tentu memiliki label dan penggunaan yang sama. Sebaliknya, dua merek berbeda dapat memiliki cara kerja serupa sehingga pergantian nama tidak memutus tekanan seleksi. Jangan menebak takaran, pencampuran, alat, atau interval dari pengalaman internet; minta label terkini dan peninjauan profesional.
+
+Ketiga, kondisi pelaksanaan. Permukaan basah, akses terhalang, ventilasi, kebersihan yang berubah, atau area yang tidak ikut ditangani dapat mengubah paparan. Catatan aplikasi perlu menyebut apa yang benar-benar dilakukan, kapan, di mana, dan oleh siapa; tanpa itu, perbandingan hasil menjadi kabur.
+
+Keempat, mutu bukti. Tanda yang masih tampak sehari setelah treatment belum otomatis berarti gagal, sementara tidak melihat hama belum berarti populasinya terkendali. Tetapkan indikator yang dapat diulang, seperti jumlah temuan atau data perangkat, lalu bandingkan dengan kondisi awal dan periode pemantauan yang konsisten. Kawan Basmi.co.id, keputusan yang baik lahir dari tren yang tercatat, bukan dari kesan sesaat.
+
+Kelima, lingkungan dan pembuangan. Jalur paparan ke saluran air, tanah, udara, hewan peliharaan, penyerbuk, satwa liar, dan biota air berbeda. Klaim “mudah terurai” bukan petunjuk pembuangan. Pemeriksaan label, lembar data keselamatan, klasifikasi limbah Indonesia, serta pengangkut atau penerima yang disetujui dapat diperlukan ([WHO resistance monitoring manual](https://www.who.int/publications/i/item/9789240051089), [WHO/FAO pesticide management](https://www.who.int/publications-detail-redirect/9789241516884)).
+
+Ada pula faktor waktu yang sering luput. Populasi yang tampak turun sesaat mungkin belum melewati satu siklus perkembangan, sedangkan tanda lama dapat tetap terlihat setelah sumbernya hilang. Karena itu, tetapkan titik pengamatan yang sama dan tulis kapan pembersihan dilakukan. Jika indikator berubah karena jadwal produksi, cuaca, atau akses ruangan, catat perubahan itu agar tren tidak disalahartikan sebagai efek bahan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan sebuah gudang mencatat kecoa terlihat kembali tiga hari setelah penyemprotan. Ada tiga kemungkinan kerja: populasi memang memiliki resistensi, sumber makanan dan celah belum dikendalikan, atau identifikasi dan ukuran hasilnya keliru. Langkah pertama adalah menahan keputusan “semprot lebih sering”, memeriksa catatan lokasi dan kondisi, lalu memastikan spesimen dan tren tangkapan dinilai oleh orang kompeten.
+
+Jika tanda hanya muncul di dekat pintu bongkar-muat, periksa arus masuk dan celah sebelum menyimpulkan perubahan populasi. Jika temuan menyebar ke area yang sudah dibersihkan dan catatan aplikasi sesuai label, minta peninjauan bahan aktif, cara kerja, serta pengujian spesialis. Hasil pengujian—bukan asumsi dari merek—yang menentukan apakah dugaan resistensi layak diteruskan.
+
+Buat lembar keputusan sederhana: temuan apa, di mana dan kapan; tindakan apa yang benar-benar dilakukan; indikator apa yang naik atau turun; dan pertanyaan apa yang belum terjawab. Bila fasilitas menangani pangan atau kegiatan kesehatan masyarakat, libatkan fungsi keselamatan dan otoritas yang relevan sebelum perubahan tindakan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Resistensi Pestisida: Mengapa Treatment yang Sama Bisa Makin Lemah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengganti merek tanpa membaca bahan aktif dan label. Periksa komposisi, sasaran, lokasi yang diizinkan, serta batas penggunaan pada label Indonesia yang berlaku. Jika dokumen tidak tersedia atau tidak jelas, tahan aplikasi dan minta klarifikasi profesional.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap satu foto atau satu kunjungan cukup. Ambil bukti berulang dari lokasi yang sama, simpan tanggal dan kondisi, dan bedakan tanda lama dari temuan baru. Jangan mengubah temuan itu menjadi diagnosis spesies, vektor, penyakit, atau tingkat resistensi tanpa keahlian setempat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menyamakan tidak terlihat dengan berhasil. Tetapkan kapan pemantauan dilakukan, alat apa yang dipakai, dan ambang keputusan yang disetujui fasilitas. Bila indikator memburuk, evaluasi seluruh rangkaian—identifikasi, sumber, pelaksanaan, lingkungan, dan bukti—bukan hanya produk.
 
-## Required conclusion
+## Jalan pintas yang tampak menarik
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang paling umum adalah menaikkan dosis atau memperpendek jarak treatment agar “lebih mematikan”. Cara itu dapat meningkatkan paparan manusia dan lingkungan, melanggar label, dan tetap tidak menyentuh sumber hama atau mekanisme resistensi. Ia juga menghilangkan kesempatan membandingkan hasil secara adil.
 
-## Draft completion checklist
+Alternatif yang lebih dapat dipertanggungjawabkan adalah menghentikan perubahan sepihak, mengamankan area sesuai prosedur fasilitas, mengumpulkan catatan dan spesimen, lalu meminta evaluasi terpadu. Terapkan penghalang fisik, sanitasi, dan pemantauan yang sesuai tujuan; keputusan kimia harus mengikuti label dan persetujuan pihak kompeten. Teman Basmi.co.id, “lebih banyak” bukan ukuran kendali jika penyebab dan buktinya belum jelas.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: aturan kerja berikutnya
+
+Treatment yang sama bisa makin lemah karena tekanan seleksi, tetapi kegagalan semu jauh lebih sering terlihat ketika identitas, sumber, pelaksanaan, atau bukti tidak diperiksa. Mulailah dengan log temuan dan aplikasi, cek label serta kondisi area, dan sambungkan tindakan kimia dengan pencegahan serta pemantauan.
+
+Kirimkan catatan itu kepada pengelola pest control atau ahli yang berwenang dan tanyakan apakah pengujian resistensi diperlukan. Jika Anda perlu menyampaikan temuan dan batasan lokasi kepada penyedia layanan, gunakan [kanal kontak Basmi.co.id](/kontak-kami) setelah dokumen dasar siap. Jangan menyebut populasi “resisten” tanpa hasil uji; jangan mengubah takaran, rotasi, atau pembuangan tanpa rujukan Indonesia yang berlaku. Aturan operasionalnya sederhana: tahan perubahan treatment ketika bukti belum cukup, perbaiki sumber yang bisa diverifikasi, dan minta tinjauan teknis sebelum mengambil risiko baru.
+
+Untuk konteks layanan dan langkah awal pengendalian di situs Basmi.co.id, Anda dapat mulai dari [halaman utama Basmi.co.id](/).
+
+<!-- BEGIN MANAGED IMAGE PLAN
+## Image plan
+- Image ID: LOCAL-002
+- Source type: local
+- Placement: after the opening has answered the main question, before the first detailed H2
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
+**Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

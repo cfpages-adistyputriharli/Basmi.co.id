@@ -2,8 +2,9 @@
 article_id: BAS-10-A01
 title: "Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung"
 slug: "penyebab-cicak-masuk-bangunan"
-description: "Connect insect prey, lighting, gaps, warmth, water, clutter, and harborage to sightings"
-status: outline
+description: "Pahami hubungan serangga mangsa, cahaya, celah, kehangatan, air, barang menumpuk, dan tempat berlindung dengan kemunculan cicak di bangunan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,213 +17,106 @@ technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
   - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
-  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
-  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
-  - "https://www.who.int/news-room/fact-sheets/detail/animal-bites"
-  - "https://www.menlhk.go.id/"
-  - "https://www.kemkes.go.id/"
   - "https://www.who.int/publications/i/item/9789289041683"
   - "https://simbg.pu.go.id/"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://www.who.int/news-room/fact-sheets/detail/animal-bites"
+  - "https://www.kemkes.go.id/"
+  - "https://www.menlhk.go.id/"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung
 
-## Assignment lock
+Halo, Sobat Basmi.co.id! Cicak biasanya masuk bukan karena satu “bau pemanggil” yang pasti. Kemunculannya lebih masuk akal dibaca sebagai pertemuan beberapa kondisi: ada mangsa yang bisa ditemukan, jalur masuk yang terbuka, dan permukaan atau ruang yang terasa cukup aman untuk bersembunyi. Lampu malam dapat membuat serangga berkumpul di sekitar bangunan; jika serangga terlihat di sana, area itu patut diperiksa sebagai kemungkinan sumber makanan, bukan langsung dianggap sebagai diagnosis.
 
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung”
-- **Reader and situation:** Occupant seeing many geckos
-- **Reader outcome:** Connect insect prey, lighting, gaps, warmth, water, clutter, and harborage to sightings
-- **Primary intent:** Understand gecko attractants
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Sobat Basmi.co.id`
-- **Natural variants:** `Kawan Basmi.co.id` and `Teman Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes poisoning or declaring health risk; BAS-10-A03 owns humane control
-- **Final public route:** `/artikel/penyebab-cicak-masuk-bangunan.html`
-- **Appointed CMS date:** `2025-11-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkat ini tetap perlu diuji di lokasi. Catat di ruangan mana cicak muncul, jam kemunculannya, keadaan lampu, pintu atau jendela yang terbuka, serta tanda serangga dan kelembapan. Satu foto, satu kotoran, atau satu kali melihat cicak tidak cukup untuk memastikan spesies, jumlah, tingkat gangguan, risiko kesehatan, atau penyebab tunggal. Pedoman pengendalian terpadu menempatkan pengamatan, analisis situasi, pemilihan tindakan, pemantauan, dan evaluasi sebagai satu rangkaian; pengendalian kimia bukan definisi dari pengendalian itu sendiri ([WHO, strategi pengendalian vektor](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control); [WHO, Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Basmi.co.id`, `Kawan Basmi.co.id`, or `Teman Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-015`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-015
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `Basmi Serangga` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-015] and continue drafting the prose.
 - **Exact Markdown to insert:** `![Ilustrasi Basmi Serangga](/wp-content/uploads/2023/11/Basmi-Serangga.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Basmi Serangga` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-015]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-05
-
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-12
-
-- **Original sources:** [WHO animal-bites fact sheet](https://www.who.int/news-room/fact-sheets/detail/animal-bites), [Kementerian Lingkungan Hidup dan Kehutanan](https://www.menlhk.go.id/), [Kementerian Kesehatan](https://www.kemkes.go.id/).
-- **Purpose for this article:** Prevent removal tutorials, wildlife poisoning, allergy treatment, or “pet-safe” promises.
-- **Safe grounded facts:** A photograph may not establish species, aggressiveness, protection, disease risk, or safe removal. Aquatic organisms can be exposed through drift, runoff, residues, air handling, and contaminated equipment.
-- **Limits:** No nest removal, trapping, poisoning, antidote, diagnosis, or emergency-medication instruction; use emergency, medical, veterinary, wildlife, and licensed pest professionals.
-
-### KR-14
-
-- **Original sources:** [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683), [Indonesia PUPR building information portal](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground leak, condensation, drainage, penetration, gap, void, and exclusion content without turning pest observation into building design.
-- **Safe grounded facts:** A moisture reading or pest sign does not identify the leak path, condensation mechanism, hidden damage, electrical safety, or structural adequacy.
-- **Limits:** Require an actual building survey and relevant building, plumbing, envelope, electrical, or structural professional before repair details or compliance claims.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-03, EG-06, EG-08, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/serangga` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-serangga.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-serangga-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-serangga-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-serangga-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-serangga-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-10-A02` → `/artikel/kotoran-cicak-tikus-atau-kelelawar.html` — Kotoran Cicak, Tikus, atau Kelelawar: Batas Identifikasi dari Tanda
-- `BAS-10-A03` → `/artikel/pengendalian-cicak-dengan-eksklusi.html` — Eksklusi dan Pengurangan Sumber untuk Mengendalikan Cicak Secara Proporsional
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi Basmi Serangga](/wp-content/uploads/2023/11/Basmi-Serangga.jpg)
+*Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari pola yang dapat dilihat, bukan dari dugaan bahwa cicak “menyukai” suatu produk atau ruangan. Buat catatan sederhana: tanggal dan jam, titik terlihat, apakah lampu baru dinyalakan, kondisi pintu atau jendela, adanya serangga, serta apakah area itu dekat plafon, kusen, pipa, atau tumpukan barang. Pola berulang lebih berguna daripada kesan bahwa cicak muncul “tiba-tiba”.
+
+Contohnya, cicak yang terlihat hanya di dekat lampu teras setelah senja memberi petunjuk berbeda dari cicak yang muncul di kamar mandi pada siang hari. Petunjuk itu belum membuktikan penyebab. Ia hanya membantu Anda memilih pemeriksaan berikutnya: amati serangga di sekitar lampu pada waktu yang sama, lalu periksa celah dan tempat teduh di jalur menuju ruangan tersebut.
+
+Kawan Basmi.co.id, pisahkan catatan menjadi tiga kolom: apa yang benar-benar terlihat, dugaan yang ingin diuji, dan tindakan yang sudah dilakukan. Cara ini mencegah satu tanda diperlakukan sebagai kepastian. Kerangka IPM dari CDC dan EPA juga menekankan dokumentasi tanda, lokasi, waktu, kondisi lingkungan, pemantauan, dan evaluasi sebelum memilih intervensi ([CDC, Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf); [US EPA, prinsip IPM](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk pertanyaan “mengapa”, fokus pertama adalah keselamatan pengamatan. Batasi akses sementara bila pemeriksaan mengharuskan membuka plafon, memindahkan benda berat, menyentuh instalasi listrik, atau bekerja di ketinggian. Jangan menyemprot, meracik bahan, memasang perangkap, atau mengejar hewan ke ruang sempit hanya karena ingin cepat menghilangkan satu penampakan; artikel ini tidak memberi tutorial racun atau penangkapan.
+
+Jika ada bau bahan kimia, tumpahan, kabel basah, bagian bangunan yang longgar, atau penghuni yang mengalami gejala akut, hentikan pekerjaan dan minta bantuan yang sesuai. Penampakan cicak tidak membuktikan penyakit, gigitan, atau tingkat bahaya. Penilaian spesies, dampak kesehatan, dan tindakan terhadap satwa memerlukan pemeriksaan setempat; jangan memakai foto sebagai pengganti keahlian lapangan ([WHO, animal bites](https://www.who.int/news-room/fact-sheets/detail/animal-bites); [Kementerian Kesehatan](https://www.kemkes.go.id/); [Kementerian Lingkungan Hidup dan Kehutanan](https://www.menlhk.go.id/)).
+
+Di fasilitas makanan, sekolah, layanan kesehatan, atau tempat dengan akses publik padat, naikkan standar pencatatan dan otorisasi. Kegiatan lingkungan, bangunan, makanan, limbah, dan kesehatan dapat berada pada kewenangan serta ruang lingkup berbeda; jangan menulis kesimpulan kepatuhan hanya dari satu pedoman lama. Periksa aturan dan penanggung jawab yang berlaku untuk jenis fasilitas Anda sebelum tindakan apa pun.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Serangga di sekitar cahaya
+
+Lampu bukan bukti bahwa cicak datang untuk cahaya. Yang perlu diperiksa adalah apakah cahaya mengubah tempat berkumpulnya serangga pada jam tertentu. Amati sudut lampu, dinding di belakangnya, dan sisa serangga tanpa menyimpulkan jenis atau jumlahnya dari sekali lihat. Bila catatan beberapa malam menunjukkan serangga dan cicak muncul di titik yang sama, hubungan “mangsa tersedia lalu pemangsa mengikuti” menjadi hipotesis yang masuk akal, tetapi tetap berstatus dugaan sampai bukti lapangan cukup `[NEEDS EG-01: identifikasi dan tingkat gangguan belum diverifikasi]`.
+
+Konsekuensinya, mematikan satu lampu mungkin hanya memindahkan serangga ke lampu lain atau tidak mengubah celah masuk sama sekali. Tanyakan: apakah kemunculan berkurang di seluruh area, atau hanya bergeser ke sisi bangunan yang lebih terang? Jawaban itu lebih informatif daripada menghitung cicak pada satu malam.
+
+### Celah, pintu, dan jalur pergerakan
+
+Retakan pada pertemuan kusen, celah bawah pintu, ventilasi tanpa penutup yang sesuai, dan penetrasi pipa dapat menjadi jalur yang patut diperiksa. Namun, tanda cicak tidak menunjukkan ukuran celah, jalur sebenarnya, atau kelayakan perbaikannya. Periksa dari sisi yang aman dan catat lokasi; jangan menutup bukaan yang merupakan bagian dari ventilasi, jalur evakuasi, atau sistem teknis tanpa pemeriksaan.
+
+Kondisi bangunan seperti rembesan dan kondensasi juga tidak dapat ditebak dari keberadaan hewan. Panduan WHO tentang kelembapan mengingatkan bahwa tanda lembap tidak otomatis mengungkap jalur kebocoran atau kerusakan tersembunyi. Portal informasi bangunan PUPR dapat menjadi titik awal mencari otoritas terkait, tetapi detail perbaikan tetap memerlukan survei bangunan yang sesuai ([WHO, kelembapan dan jamur dalam ruang](https://www.who.int/publications/i/item/9789289041683); [Portal informasi bangunan PUPR](https://simbg.pu.go.id/)).
+
+### Tempat teduh, hangat, air, dan barang yang menumpuk
+
+Ruang di belakang lemari, lipatan bahan, area dekat pipa, atau barang yang jarang dipindahkan bisa menjadi tempat berlindung yang kebetulan dekat jalur makanan. Kata “hangat” dan “lembap” di sini adalah kondisi yang perlu dicatat, bukan resep untuk membuat atau menghilangkan cicak. Bandingkan dua titik yang mirip: apakah cicak selalu muncul di sisi yang lebih terlindung, atau sebenarnya hanya di sisi yang paling mudah dimasuki?
+
+Tumpukan kardus dan barang juga mengubah kemampuan Anda mengamati. Saat benda dipindahkan, Anda mungkin melihat lebih banyak tanda bukan karena jumlah cicak meningkat, melainkan karena area yang sebelumnya tertutup menjadi terlihat. Catat perubahan sebelum dan sesudah penataan, lalu tahan kesimpulan sampai pola berikutnya dapat dibandingkan.
+
+### Air dan sumber daya di sekitar bangunan
+
+Genangan, kebocoran, atau area yang sering basah layak dimasukkan ke catatan karena dapat berjalan bersamaan dengan perubahan serangga dan kondisi tempat berlindung. Akan tetapi, pengukuran kelembapan atau tanda air tidak dapat mengidentifikasi mekanisme kebocoran, keamanan listrik, atau kecukupan struktur. Jika dugaan mengarah ke pipa, atap, dinding, atau instalasi listrik, mintalah pemeriksaan profesional sebelum melakukan perbaikan detail `[NEEDS EG-07: sumber kelembapan dan keselamatan bangunan belum disurvei]`.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun pemeriksaan dari yang paling aman dan mudah diulang. Hari pertama, buat peta sederhana ruangan dan titik cicak; tulis jam, kondisi lampu, pintu, jendela, dan cuaca yang relevan bagi pengamatan Anda. Hari berikutnya, amati titik yang sama tanpa mengubah banyak hal, sehingga perbandingan tidak tercampur oleh tindakan baru.
+
+Berikutnya, periksa secara visual area pertemuan dinding dan plafon, kusen, ventilasi, penetrasi pipa, tumpukan barang, dan sumber air yang tampak. Gunakan senter dari lantai bila cukup; jangan membongkar plafon atau mendekati kabel. Foto boleh membantu dokumentasi, tetapi tidak menetapkan spesies, tingkat gangguan, risiko penyakit, atau tindakan yang aman.
+
+Bila serangga diduga menjadi penghubung, catat lokasi dan waktu serangga terlihat, bukan hanya jumlah cicak. Bandingkan sebelum dan sesudah perubahan lingkungan yang aman, misalnya penataan barang oleh penanggung jawab bangunan. Jangan mengubah lampu, menyemprot, dan menutup celah sekaligus karena Anda akan kehilangan informasi tentang perubahan mana yang berpengaruh.
+
+Untuk fasilitas berisiko tinggi atau pola yang menetap, minta survei kompeten yang menjelaskan metode, lokasi, batas pemeriksaan, dan cara meninjau hasil. Pendekatan IPM menghubungkan tujuan, pilihan intervensi, pemantauan, dan evaluasi; ia bukan perintah untuk mengulang penyemprotan ([WHO, Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801)).
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Anggap setiap catatan sebagai potongan informasi. “Cicak terlihat dekat lampu” adalah hasil observasi. “Cicak datang karena lampu” adalah dugaan sebab. “Ganti lampu akan menyelesaikan masalah” adalah keputusan, dan keputusan membutuhkan bukti serta tujuan yang jelas. Tiga hal itu jangan ditulis seolah-olah sama.
+
+Jika setelah beberapa pengamatan cicak dan serangga konsisten muncul di titik yang sama, Anda boleh memprioritaskan pemeriksaan sumber serangga dan jalur masuk. Jika cicak berpindah ruangan setelah lampu dimatikan, itu belum membuktikan masalah selesai; mungkin hanya berpindah ke tempat yang masih menyediakan makanan atau tempat teduh. Tanyakan apa yang berubah, berapa lama diamati, dan apakah ada pengukuran atau catatan pembanding.
+
+Sobat Basmi.co.id, jangan gunakan penurunan penampakan sesaat sebagai bukti bahwa penyebab sudah hilang. Satu kunjungan yang tenang, bau bahan, atau hewan yang terlihat mati tidak membuktikan sumber, risiko kesehatan, maupun kendali yang tahan lama. Bila identitas hewan, tingkat gangguan, atau konsekuensi tindakan belum jelas, tandai ketidakpastian dan minta penilaian lokal `[NEEDS EG-01]`.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Cicak Masuk Bangunan: Serangga, Cahaya, Celah, dan Tempat Berlindung”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tindakan awal yang proporsional adalah memperbaiki catatan, mengurangi kekacauan yang menghalangi pemeriksaan, dan meminta penanggung jawab bangunan memeriksa bukaan atau sumber air yang aman dijangkau. Itu berbeda dari menutup semua ventilasi, mengubah instalasi, atau menggunakan bahan kimia. Perubahan bangunan dan pilihan produk membutuhkan survei, aturan yang berlaku, label Indonesia yang sesuai, serta orang kompeten; jangan mengisi kekosongan itu dengan nama produk atau takaran `[NEEDS EG-03: pilihan tindakan belum ditetapkan berdasarkan survei]`.
 
-## Objection or shortcut to address
+Jika pola menunjukkan masalah serangga yang lebih luas, gunakan [panduan area serangga](/serangga) untuk menentukan pertanyaan berikutnya, bukan untuk mendiagnosis dari foto. Bila Anda membutuhkan pemeriksaan lapangan, [layanan pembasmi serangga](/jasa-pembasmi-serangga.html) adalah rute kontak yang tersedia; minta ruang lingkup survei, bukti pengamatan, batas tindakan, dan rencana pemantauan secara tertulis. Ketersediaan, harga, jaminan, atau hasil layanan tidak dapat diasumsikan dari artikel ini.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+### Jalan pintas yang sering dicoba
 
-## Required conclusion
+Jalan pintasnya biasanya sederhana: semprot sudut yang terlihat, membunuh cicak, lalu menganggap penyebab beres. Cara itu dapat gagal karena tidak menjawab apakah serangga, celah, cahaya, kelembapan, atau tempat berlindung yang mempertahankan pola. Ia juga bisa menambah risiko paparan dan menghapus kesempatan mengumpulkan bukti yang berguna.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah tahan tindakan yang tidak perlu, catat pola, periksa jalur dan kondisi bangunan secara aman, lalu eskalasi bila bukti atau risikonya melampaui kemampuan penghuni. Artikel ini tidak memberi instruksi racun, penangkapan, diagnosis, atau janji “aman untuk semua penghuni”.
 
-## Draft completion checklist
+## Kesimpulan: ubah pertanyaan menjadi pemeriksaan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Cicak masuk bangunan kemungkinan karena kombinasi akses, makanan yang mungkin tersedia di sekitar cahaya, dan tempat berlindung; kombinasi tepatnya tidak boleh dipastikan tanpa pengamatan setempat. Mulailah dengan peta titik dan waktu, catat lampu, serangga, celah, air, serta perubahan barang, lalu pisahkan fakta dari dugaan.
+
+Teman Basmi.co.id, bawa catatan itu kepada penanggung jawab bangunan atau profesional yang relevan dan tanyakan tiga hal: bukti apa yang mendukung dugaan penyebab, bagian mana yang belum diperiksa, dan tindakan apa yang memiliki batas serta cara evaluasi. Pegang aturan operasi ini: jangan menyebut sumber sudah ditemukan sebelum jalur, kondisi, dan hasil pemantauan dapat ditunjukkan; untuk identitas satwa, kesehatan, bahan kimia, atau keselamatan bangunan, minta review kompeten terlebih dahulu.

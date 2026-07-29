@@ -3,12 +3,13 @@ article_id: BAS-17-A01
 title: "Baseline Program Hama: Apa yang Diukur Sebelum Treatment"
 slug: "baseline-program-pengendalian-hama"
 description: "Record pest/signs, device map, counts, complaints, sources, access limits, prior methods, damage, and sensitive areas"
-status: outline
+status: draft
 publication_date: "2026-05-15"
 publication_date_basis: editorial_backfill
 date_modified: null
 parent_topic: BAS-17
 primary_intent: "Establish baseline"
+writing_contract_version: "native-id-v2"
 reader_community: "Basmi.co.id"
 reader_address: "Teman Basmi.co.id"
 final_route: "/artikel/baseline-program-pengendalian-hama.html"
@@ -21,182 +22,89 @@ sources:
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
   - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
   - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Baseline Program Hama: Apa yang Diukur Sebelum Treatment
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Sebelum treatment dimulai, yang diukur bukan sekadar “berapa banyak hama yang terlihat”. Baseline adalah catatan kondisi awal yang membuat keputusan dapat dibandingkan: tanda atau spesimen, lokasi dan tanggal temuan, peta perangkat, jumlah tangkapan atau aktivitas, keluhan, sumber makanan-air-tempat berlindung, akses yang tertutup, metode sebelumnya, kerusakan, serta area yang sensitif.
 
-- **Writer task:** Expand this file into one complete article answering: “Baseline Program Hama: Apa yang Diukur Sebelum Treatment”
-- **Reader and situation:** Facility before starting service
-- **Reader outcome:** Record pest/signs, device map, counts, complaints, sources, access limits, prior methods, damage, and sensitive areas
-- **Primary intent:** Establish baseline
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes universal thresholds or predicted efficacy; BAS-00-A04 owns action logic
-- **Final public route:** `/artikel/baseline-program-pengendalian-hama.html`
-- **Appointed CMS date:** `2026-05-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Catatan itu tidak otomatis membuktikan spesies, tingkat serangan, penyakit, atau keberhasilan treatment. Satu tanda dapat memiliki beberapa penyebab, sehingga identifikasi dan penilaian tingkat keparahan perlu bukti lapangan serta keahlian yang sesuai. Prinsip pengendalian hama terpadu menghubungkan analisis situasi, tujuan, kondisi setempat, pilihan intervensi, peran, pemantauan, evaluasi, dan penyesuaian; penyemprotan hanya salah satu kemungkinan, bukan definisi pengendalian ([WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook](https://www.who.int/publications/i/item/9789241502801)).
 
-## Opening instructions
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
+Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Baseline Program Hama: Apa yang Diukur Sebelum Treatment**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar
+- Image ID: LOCAL-002
+- Source type: local
+- Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-04
-
-- **Original sources:** [Permenkes No. 17 Tahun 2024 official PDF](https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf).
-- **Purpose for this article:** Ground provider due diligence in the official business standard rather than vague “licensed” language.
-- **Safe grounded facts:** Business identity, territorial/activity scope, personnel, facilities/equipment, operational records, and current approvals are separate checks.
-- **Limits:** Read the current complete regulation and verify the actual entity and local approval; do not infer compliance from a website, uniform, or one document.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-09
-
-- **Original sources:** [CDC rodent-control guidance](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf).
-- **Purpose for this article:** Ground proofing, sanitation, contamination control, monitoring, and food-facility interfaces.
-- **Safe grounded facts:** Droppings, gnawing, tracks, odor, sightings, burrows, and device data have different evidential value. Cleanup and food protection require their own exposure controls.
-- **Limits:** Do not diagnose disease, publish bait or trap placement recipes, or infer legal wildlife status. Use the applicable label and health/wildlife authority.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-10, EG-11, EG-12
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-17-A02` → `/artikel/dashboard-monitoring-hama.html` — Dashboard Monitoring Hama: Tren, Hot Spot, dan Corrective Action
-- `BAS-17-A03` → `/artikel/isi-laporan-service-pest-control.html` — Isi Laporan Service Pest Control yang Bisa Diverifikasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Baseline Program Hama: Apa yang Diukur Sebelum Treatment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baseline yang berguna menjawab tiga pertanyaan: apa yang ditemukan, di mana dan kapan ditemukan, dan kondisi apa yang memungkinkan hama bertahan. Karena itu, petugas perlu mencatat observasi yang dapat diulang, bukan kesan umum seperti “parah” atau “sudah aman”. Ukuran awal ini menjadi pembanding ketika kunjungan berikutnya dilakukan.
+
+Shortcut yang sering terjadi adalah langsung memilih produk setelah melihat satu kecoa, kotoran, atau foto. Cara itu bisa salah karena tanda, spesimen, lokasi, kondisi lingkungan, dan tren perangkat masing-masing memberi informasi berbeda. [NEEDS EG-01: Identitas organisme, luas infestasi, dan ambang tindakan memerlukan bukti lapangan, pemantauan bertanggal, serta tinjauan ahli yang sesuai.]
+
+Jadi, sebelum treatment, tahan keputusan yang menyangkut spesies, tingkat bahaya, vektor penyakit, atau hasil yang dijanjikan sampai bukti dan batasnya jelas. Sobat Basmi.co.id dapat meminta lembar baseline yang membedakan “terlihat”, “diukur”, “dilaporkan”, dan “belum dapat dipastikan”.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Baseline Program Hama: Apa yang Diukur Sebelum Treatment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baseline adalah potret kondisi awal pada ruang, area luar, atau fasilitas yang disepakati. Isinya bukan resep umpan, dosis, frekuensi kunjungan, atau prediksi efektivitas. Artikel ini juga tidak menetapkan ambang universal; ambang dan tindakan harus mengikuti tujuan fasilitas, risiko paparan, hasil pemantauan, serta persetujuan profesional yang relevan.
+
+Objek yang diukur meliputi bukti hama dan konteksnya. Bukti dapat berupa spesimen atau tanda, jumlah dan jenis perangkat pemantau, hasil tangkapan, jejak, kotoran, gigitan pada material, bau, suara, lubang, atau laporan penghuni. Konteksnya mencakup koordinat atau nama ruangan, tanggal dan jam pemeriksaan, kondisi suhu atau kelembapan bila memang diukur, aktivitas ruangan, sumber makanan dan air, celah masuk, kebersihan, serta area yang tidak dapat dimasuki. CDC dan EPA menekankan bahwa tanda, lokasi, tanggal, kondisi lingkungan, kerusakan, dan data perangkat membantu identifikasi serta penilaian, tetapi satu tanda tidak cukup untuk menyimpulkan penyebab ([CDC IPM](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [EPA IPM](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
+
+Yang tidak boleh dicampur adalah kesimpulan medis, kecukupan struktur bangunan, status satwa liar, kepatuhan fasilitas, atau keamanan produk. Temuan hama dapat memicu rujukan, tetapi bukan diagnosis penyakit atau bukti bahwa bangunan pasti bermasalah. Jika area makanan, kesehatan, sekolah, atau gudang terlibat, prosedur kontaminasi dan akses harus ditinjau khusus sebelum pekerjaan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Baseline Program Hama: Apa yang Diukur Sebelum Treatment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan batas area dan tujuan pencatatan. Tandai ruangan, jalur servis, area luar, ruang yang dihuni, dan titik yang dilarang dimasuki. Catat siapa yang memberi akses, kapan pemeriksaan berlangsung, serta bagian yang tidak diperiksa dan alasannya. Peta sederhana lebih berguna daripada daftar tanpa lokasi karena perubahan dapat dilacak pada titik yang sama.
+
+Berikutnya, bedakan sumber bukti. Keluhan penghuni dicatat dengan waktu, lokasi, frekuensi yang dilaporkan, dan uraian apa yang benar-benar dilihat. Hasil inspeksi diberi penanda observasi langsung. Perangkat pemantau dicatat nomor atau identitasnya, posisi, kondisi saat dipasang atau diperiksa, dan hasil yang terlihat. Jangan mengubah “tidak terlihat hari ini” menjadi “tidak ada”.
+
+Periksa jalur yang membuat hama memperoleh makanan, air, tempat berlindung, atau akses. Untuk rodensia, misalnya, kotoran, bekas gigitan, jejak, bau, penampakan, liang, dan data perangkat tidak memiliki bobot bukti yang sama. CDC menganjurkan pengendalian yang memperhatikan sumber dan akses; pembersihan serta perlindungan makanan memiliki pengendalian paparannya sendiri ([CDC rodent control](https://www.cdc.gov/healthy-pets/about/rodent-control.html)). Di fasilitas pangan, pisahkan catatan kebersihan dan perlindungan makanan sesuai prinsip higiene Codex, bukan menutupinya dengan catatan treatment ([Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf)).
+
+Terakhir, catat riwayat: metode yang pernah digunakan, kapan dilakukan bila diketahui, perubahan keluhan sesudahnya, perbaikan bangunan, perubahan jam operasi, serta pengosongan atau renovasi. Riwayat bukan bukti bahwa metode lama gagal atau berhasil; ia hanya membantu menjelaskan kondisi yang perlu diuji lagi.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Baseline Program Hama: Apa yang Diukur Sebelum Treatment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kualitas baseline berubah ketika akses berubah. Ruang terkunci, plafon tertutup, mesin yang tidak boleh dipindah, atau area yang sedang beroperasi menciptakan batas observasi. Batas ini harus terlihat di laporan agar penurunan temuan tidak disalahartikan sebagai hilangnya sumber.
+
+Kondisi lingkungan juga penting. Kebocoran, genangan, saluran, tumpukan barang, sampah, celah pintu, dan makanan terbuka dapat mempertahankan daya tarik hama. Catat keadaan yang terlihat dan siapa pemilik tindak lanjutnya; jangan mengklaim perbaikan struktural telah memadai tanpa survei bangunan.
+
+Area sensitif mengubah cara data dikumpulkan dan dikomunikasikan. Tandai ruang makanan, ruang bayi, area pasien, laboratorium, kandang, akuarium, atau ruang tetangga. Detail penghuni dan keluhan perlu diminimalkan. [NEEDS EG-05/EG-06: Prosedur fasilitas berisiko tinggi dan paparan penghuni atau hewan memerlukan tinjauan khusus, rencana komunikasi, dan kontrol berlabel.]
+
+Penyedia jasa pun perlu diperiksa terpisah dari kondisi hama. Identitas badan usaha, cakupan wilayah dan aktivitas, personel, fasilitas atau peralatan, rekaman operasional, serta persetujuan yang masih berlaku adalah pemeriksaan berbeda. Permenkes No. 17 Tahun 2024 menjadi rujukan standar usaha; verifikasi tetap harus mencocokkan entitas dan lokasi yang benar, bukan mengandalkan seragam atau satu dokumen ([Permenkes No. 17 Tahun 2024](https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf)). [NEEDS EG-10: Status kompetensi dan kepatuhan penyedia belum dapat disimpulkan dari artikel ini.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Baseline Program Hama: Apa yang Diukur Sebelum Treatment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah gudang melaporkan “tikus muncul malam hari”. Baseline yang layak tidak langsung berisi saran umpan. Petugas menggambar area yang dapat diakses, menandai titik laporan beserta tanggalnya, mencatat kotoran atau bekas gigitan yang benar-benar terlihat, memeriksa jalur masuk yang dapat diamati, dan memetakan perangkat pemantau. Area penyimpanan pangan, pintu bongkar, dan ruang yang tidak dapat dimasuki diberi catatan batas.
+
+Dari data itu, pertanyaan berikutnya menjadi terukur: apakah laporan terkumpul di satu jalur, apakah bukti muncul di beberapa tanggal, apakah akses berubah, dan apakah sumber makanan atau celah diperbaiki? Jawabannya belum menentukan spesies, jumlah populasi, atau produk. Jika identifikasi, risiko kontaminasi, atau tindakan pengendalian diperlukan, minta tinjauan profesional dan dokumen metode yang sesuai.
+
+Sebaliknya, bila hanya ada satu foto serangga tanpa lokasi dan tanggal, baseline masih kosong. Simpan foto sebagai laporan, tetapi minta spesimen atau observasi lapangan yang dapat diverifikasi. Kawan Basmi.co.id dapat menggunakan [halaman utama Basmi.co.id](/) untuk memahami konteks layanan. Tautan itu adalah langkah komunikasi, bukan bukti bahwa suatu layanan atau hasil tertentu tersedia.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Baseline Program Hama: Apa yang Diukur Sebelum Treatment”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai kata “parah”, “bersih”, atau “aman” tanpa definisi dan tanggal. Gantilah dengan jumlah temuan yang benar-benar dihitung, lokasi, metode pengamatan, dan batas area. Kesalahan kedua adalah menggabungkan keluhan, tanda, dan kesimpulan sebagai satu kolom. Pisahkan “dilaporkan”, “diamati”, “diukur”, dan “perlu konfirmasi”.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menghapus titik tanpa temuan dari peta. Titik nihil tetap penting karena menunjukkan cakupan pemeriksaan dan menjadi pembanding. Kesalahan keempat adalah menyamakan bau, kematian hama, atau satu kunjungan yang tenang dengan sumber yang sudah hilang. Catat itu sebagai observasi sesaat; tren memerlukan kunjungan bertanggal dan metode yang konsisten.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum menyetujui treatment, periksa apakah lembar baseline memuat: batas area dan akses, tanggal pemeriksaan, bukti serta ketidakpastian identifikasi, peta perangkat, keluhan yang dapat dilacak, sumber dan kondisi lingkungan, riwayat metode, kerusakan yang tampak, area sensitif, pengecualian, pemilik tindak lanjut, dan ruang untuk tinjauan. Jika satu unsur penting hilang, tandai kekosongan itu dan jangan menutupinya dengan angka perkiraan.
 
-## Required conclusion
+## Mengapa jalan pintas semprot langsung bisa gagal
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Kita sudah tahu hama apa; langsung saja semprot” terdengar efisien ketika keluhan mendesak. Namun tindakan tanpa baseline menghilangkan pembanding: Anda tidak tahu apakah titik yang bermasalah berpindah, apakah akses baru terbuka, atau apakah keluhan berkurang hanya karena area sedang kosong. Pengendalian terpadu menempatkan analisis situasi, tujuan, pemantauan, evaluasi, dan adaptasi dalam satu rangkaian, bukan mengulang bahan kimia secara otomatis ([WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control)).
 
-## Draft completion checklist
+Alternatif yang lebih dapat dipertanggungjawabkan adalah menahan klaim, menyelesaikan pencatatan minimum, lalu menyepakati keputusan berikutnya berdasarkan bukti dan risiko setempat. Jangan memasukkan dosis, campuran, penempatan perangkap, masa masuk kembali, atau frekuensi layanan tanpa label, penilaian paparan, dan rencana profesional yang berlaku. [NEEDS EG-02/EG-03/EG-11: Produk, pilihan treatment, frekuensi, dan kinerja layanan memerlukan dokumen bertanggal serta persetujuan yang sesuai.]
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan operasional
+
+Baseline program hama mengukur kondisi awal yang bisa dibandingkan: bukti dan lokasinya, tanggal, peta perangkat, keluhan, sumber dan akses, riwayat metode, kerusakan, serta area sensitif. Ia membantu memilih pertanyaan berikutnya, tetapi tidak sendirian menetapkan spesies, ambang tindakan, produk, kepatuhan, atau keberhasilan.
+
+Sebelum pekerjaan dimulai, minta lembar pemeriksaan bertanggal dengan batas area, kolom ketidakpastian, peta titik, dan pemilik tindak lanjut. Cocokkan identitas serta ruang lingkup penyedia dengan dokumen resmi, dan minta tinjauan teknis ketika fasilitas, penghuni, produk, atau risiko berada di luar data awal. Untuk mengenali konteks jenis gangguan secara umum, Anda dapat melihat [panduan serangga Basmi.co.id](/serangga), lalu gunakan kanal [kontak Basmi.co.id](/kontak-kami) untuk menyampaikan data lokasi dan batas pemeriksaan. Teman Basmi.co.id, aturan operasinya sederhana: jangan menyebut treatment berhasil sebelum baseline dan pemantauan lanjutan benar-benar dapat dibandingkan.

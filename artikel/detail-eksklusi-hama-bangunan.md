@@ -2,8 +2,9 @@
 article_id: BAS-12-A02
 title: "Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi"
 slug: "detail-eksklusi-hama-bangunan"
-description: "Explain inspection and durable closure questions for common entry interfaces without blocking ventilation/drainage"
-status: outline
+description: "Menjelaskan pemeriksaan dan penutupan tahan lama pada pintu, kasa, celah, pipa, drain, serta penetrasi tanpa menghambat ventilasi atau drainase."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,203 +15,105 @@ reader_address: "Teman Basmi.co.id"
 final_route: "/artikel/detail-eksklusi-hama-bangunan.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
   - "https://www.epa.gov/ipm/identifying-and-controlling-cockroaches"
-  - "https://www.epa.gov/bedbugs"
-  - "https://www.cdc.gov/bed-bugs/about/index.html"
   - "https://www.who.int/publications/i/item/9789289041683"
   - "https://simbg.pu.go.id/"
+  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
   - "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf"
-  - "https://tpm.kemkes.go.id/rbi/web"
-  - "https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://www.epa.gov/bedbugs"
+  - "https://www.cdc.gov/bed-bugs/about/index.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Menutup celah memang bagian penting dari pengendalian hama, tetapi menutup semua lubang dengan bahan apa pun bukan jawaban yang aman. Pintu, screen (kasa), sambungan pipa, drain, dan penetrasi kabel harus diperiksa sebagai jalur yang memiliki fungsi: ada yang perlu tetap mengalirkan udara, membuang air, atau memberi ruang gerak untuk pemeliharaan.
 
-- **Writer task:** Expand this file into one complete article answering: “Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi”
-- **Reader and situation:** Facility preparing repairs
-- **Reader outcome:** Explain inspection and durable closure questions for common entry interfaces without blocking ventilation/drainage
-- **Primary intent:** Plan physical proofing
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes universal gap sizes, firestopping, or structural changes; competent trades own design
-- **Final public route:** `/artikel/detail-eksklusi-hama-bangunan.html`
-- **Appointed CMS date:** `2026-01-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: lakukan survei jalur masuk lebih dulu, catat bukti dan fungsi tiap bukaan, lalu pilih penutupan yang tetap mempertahankan ventilasi dan drainase. Satu tanda hama tidak otomatis menunjukkan satu sumber; data lokasi, tanggal, kondisi lembap, kerusakan, dan tren pemantauan membantu menilai prioritas, sebagaimana prinsip pengendalian hama terpadu dari [CDC](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf) dan [EPA](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
 
-## Opening instructions
+Jika jalur masuk, tingkat serangan, atau fungsi bangunan belum jelas, keputusan penutupan harus ditahan: **[NEEDS EG-01/EG-03/EG-07: identifikasi organisme, pilihan tindakan, sumber kelembapan, dan detail perbaikan memerlukan bukti lapangan serta telaah tenaga kompeten]**. Pemeriksaan ini merencanakan pertanyaan dan bukti, bukan menggantikan desain struktur, firestopping, atau persetujuan proyek.
 
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)
 
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after opening
 - **Exact Markdown to insert:** `![Ilustrasi basmi hama](/wp-content/uploads/2023/11/basmi-hama.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `basmi hama` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-10
-
-- **Original sources:** [US EPA cockroach IPM](https://www.epa.gov/ipm/identifying-and-controlling-cockroaches), [US EPA bed bug information](https://www.epa.gov/bedbugs), [CDC bed bug clinical boundary](https://www.cdc.gov/bed-bugs/about/index.html).
-- **Purpose for this article:** Prevent one generic insect procedure from being copied across organism families.
-- **Safe grounded facts:** Bites and skin marks do not confirm bed bugs; winged ants can be confused with termites; adult fly capture does not by itself identify a breeding source; pesticide exposure can change behavior and detectability.
-- **Limits:** Require competent identification and site evidence; no heat, steam, fumigation, pesticide, medical, or eradication recipes.
-
-### KR-14
-
-- **Original sources:** [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683), [Indonesia PUPR building information portal](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground leak, condensation, drainage, penetration, gap, void, and exclusion content without turning pest observation into building design.
-- **Safe grounded facts:** A moisture reading or pest sign does not identify the leak path, condensation mechanism, hidden damage, electrical safety, or structural adequacy.
-- **Limits:** Require an actual building survey and relevant building, plumbing, envelope, electrical, or structural professional before repair details or compliance claims.
-
-### KR-16
-
-- **Original sources:** [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf), [Kemenkes ready-to-eat premises registry](https://tpm.kemkes.go.id/rbi/web), [Permenkes No. 17 Tahun 2024](https://jdih.kemkes.go.id/common/dokumen/2024permenkes017.pdf).
-- **Purpose for this article:** Ground food, school, healthcare, hotel, office, warehouse, and transport articles in their operational interfaces.
-- **Safe grounded facts:** A general pest-service report does not prove food-safety, healthcare, school, transport, or occupational compliance.
-- **Limits:** Obtain facility owner, competent authority, food/health/safety team, and current local requirements before exact procedures.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-03, EG-07, EG-10
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-12-A01` → `/artikel/peta-kelembapan-dan-titik-masuk-hama.html` — Peta Kelembapan dan Titik Masuk Hama pada Bangunan
-- `BAS-12-A03` → `/artikel/drainase-genangan-dan-vegetasi.html` — Talang, Drainase, Genangan, dan Vegetasi sebagai Sumber Masalah Hama
-- `BAS-12-A04` → `/artikel/kebocoran-kondensasi-dan-ruang-void.html` — Kebocoran Tersembunyi, Kondensasi, dan Ruang Void: Cara Menentukan Eskalasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies basmi hama as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002].
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Eksklusi hama adalah upaya mengurangi akses organisme ke ruang bangunan melalui pemeriksaan dan pengelolaan antarmuka fisik. Antarmuka berarti titik tempat dua sistem bertemu: daun pintu dengan lantai, kasa dengan rangka, pipa dengan dinding, atau kabel dengan panel. Fokusnya bukan mencari “ukuran celah universal”, melainkan memastikan setiap titik memiliki penghalang yang utuh dan fungsi yang tetap bekerja.
+
+Batas ini penting karena celah yang tampak kecil bisa merupakan bagian dari drainase atau ventilasi. Menutupnya rapat tanpa memahami arah aliran dapat memindahkan masalah menjadi genangan, kondensasi, atau ruang lembap tersembunyi. [WHO](https://www.who.int/publications/i/item/9789289041683) mengingatkan bahwa tanda lembap atau jamur tidak dengan sendirinya mengungkap jalur kebocoran dan kerusakan tersembunyi; survei bangunan tetap diperlukan.
+
+Artikel ini tidak menetapkan ukuran celah, jenis sealant, kapasitas drain, detail tulangan, atau metode tahan api. Perubahan pada dinding, lantai, atap, instalasi listrik, dan struktur harus ditangani oleh tenaga bangunan, plumbing, selubung bangunan, listrik, atau struktur yang sesuai. Portal informasi bangunan PUPR ([SIMBG](https://simbg.pu.go.id/)) dapat menjadi titik awal untuk memeriksa konteks bangunan, tetapi bukan pengganti pemeriksaan lokasi.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari jejak, bukan dari bahan penutup. Catat organisme atau tanda yang terlihat, titik tepatnya, tanggal, jam penggunaan ruang, kondisi basah-kering, serta apakah tanda muncul berulang. Foto yang diberi lokasi dan waktu membantu, namun satu foto tidak cukup untuk memastikan spesies atau luas infestasi. Kecoak, misalnya, memiliki tempat berlindung dan sumber makanan yang berbeda-beda; panduan [EPA tentang kecoak](https://www.epa.gov/ipm/identifying-and-controlling-cockroaches) menempatkan identifikasi dan pengurangan sumber sebagai bagian dari proses, bukan sekadar penyemprotan.
+
+Setelah itu, petakan jalur yang mungkin tersambung. Periksa apakah cahaya, udara, air, debu, atau serangga dapat berpindah melalui bawah pintu, sambungan kusen, kisi-kisi, sleeve pipa, floor drain, celah ekspansi, dan penetrasi kabel. Jangan menganggap titik yang paling dekat dengan temuan sebagai sumbernya; aliran udara dan ruang kosong dapat membawa organisme dari lokasi lain.
+
+Untuk pintu, amati apakah daun pintu menutup penuh, apakah karet atau sapu bawah pintu terputus, dan apakah ambang mengarahkan air ke luar. Penggantian komponen harus mempertahankan gerak pintu, akses evakuasi, dan pembersihan. Bila pintu sering terbuka karena operasional, catat kebiasaan itu sebagai faktor akses; penutupan fisik yang baik tidak banyak membantu jika disiplin buka-tutup tidak berubah.
+
+Pada screen dan kisi ventilasi, periksa robekan, tepi yang terlepas, dan sambungan ke rangka. Kasa yang terlalu rapat atau dipasang pada jalur buang dapat menghambat aliran; yang terlalu longgar meninggalkan jalan masuk. Keputusan material dan luas bukaan perlu mengikuti kebutuhan ventilasi serta perawatan peralatan, bukan tebakan dari tampilan.
+
+Untuk pipa dan kabel, cari ruang di sekeliling penetrasi, pergerakan akibat getaran, serta tanda air atau debu. Penutupan harus dapat diperiksa ulang dan tidak mengunci sambungan yang memang perlu dilepas. Pada drain, pastikan air mengalir dan komponen penahan bau atau benda asing tetap dapat dirawat. Jangan memasukkan bahan padat ke saluran aktif atau mengurangi bukaan hanya demi membuat permukaan tampak rapi.
+
+Tahap terakhir adalah verifikasi setelah penutupan: cocokkan foto sebelum-sesudah, titik yang ditangani, fungsi yang diuji, dan temuan pemantauan berikutnya. Pengendalian hama terpadu menekankan pemantauan, ambang tindakan, pencegahan, dan peninjauan ulang; penutupan yang terlihat bagus tetapi tidak diuji belum menjadi bukti hasil.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jenis ruang mengubah pertanyaan. Dapur, gudang makanan, sekolah, klinik, hotel, dan kantor memiliki alur orang, bahan, air, dan pembersihan yang berbeda. Laporan layanan hama umum tidak otomatis membuktikan kepatuhan keamanan pangan, kesehatan, atau keselamatan kerja. Untuk fasilitas berisiko, libatkan pemilik fasilitas dan tim higiene atau keselamatan sebelum pekerjaan mengubah akses, drain, atau jadwal operasi. Rujukan prinsip higiene pangan [Codex](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf) membantu menunjukkan mengapa antarmuka bangunan harus dibaca bersama proses kerja, bukan berdiri sendiri.
+
+Lingkungan juga berpengaruh. Air hujan, kondensasi, tanah basah, sampah, dan vegetasi dapat membuat jalur yang semula jarang dipakai menjadi aktif. Jika dinding lembap setelah penutupan, jangan langsung menambah lapisan penutup. **[NEEDS EG-07: sumber air, jalur kebocoran, kondensasi, dan kecukupan struktur harus ditentukan melalui survei bangunan yang relevan]**; memperbaiki akibat tanpa sumbernya berisiko mengulang pekerjaan.
+
+Perubahan operasional sering lebih menentukan daripada bahan. Pintu loading yang terbuka lama, barang menempel ke dinding, atau drain tertutup palet dapat mengalahkan hasil perbaikan. Teman Basmi.co.id, minta catatan yang menyebut siapa pemilik tiap titik, kapan dibersihkan, bagaimana akses dibatasi, dan kapan pemeriksaan ulang dilakukan. Dengan begitu, temuan hama dapat dibandingkan dengan perubahan kondisi, bukan hanya dengan kesan “sudah disumbat”.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan ada kecoak terlihat dekat pintu belakang setelah hujan. Keputusan pertama bukan memilih semprotan atau menutup celah terdekat, melainkan mencatat waktu, arah pintu, kondisi ambang, drain di sekitar area, dan apakah jejak muncul pada hari kering. Jika air tertahan di ambang, penutupan yang menghalangi aliran justru dapat memperpanjang kondisi lembap. Prioritasnya adalah menahan pekerjaan sampai jalur air dan akses pintu dipahami, lalu meminta rancangan dari pihak yang berwenang.
+
+Contoh lain: serangga ditemukan di sekitar penetrasi pipa ruang cuci. Pemeriksa dapat menandai celah, memeriksa tanda rembesan, dan menanyakan apakah pipa bergerak saat digunakan. Bila ada gerakan atau kebocoran, bahan penutup tidak boleh dipilih hanya karena mudah didapat. Catatan keputusan sebaiknya memuat bukti yang ada, asumsi yang belum terbukti, pemilik pekerjaan, dan uji fungsi setelah perbaikan.
+
+Gunakan tabel ringkas berikut saat rapat perbaikan:
+
+| Titik | Yang diamati | Fungsi yang wajib dipertahankan | Keputusan aman |
+|---|---|---|---|
+| Pintu dan ambang | celah, sapu bawah pintu, arah air | buka-tutup, akses, aliran air | perbaiki komponen setelah fungsi diuji |
+| Screen/kisi | robek, sambungan, sumbatan | ventilasi dan pemeliharaan | pilih penutupan berdasarkan kebutuhan aliran |
+| Pipa/kabel | ruang sekeliling, gerak, rembesan | akses servis dan keselamatan | minta detail tenaga terkait bila ada gerak/air |
+| Drain | aliran, genangan, akses bersih | pembuangan dan perawatan | jangan menutup saluran aktif tanpa desain |
+
+Tabel ini bukan spesifikasi teknis. Ia membantu Anda membedakan “ada celah” dari “boleh ditutup sekarang”.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Eksklusi Hama: Pintu, Screen, Celah, Pipa, Drain, dan Penetrasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai satu prosedur untuk semua serangga. Bites atau bekas kulit tidak mengonfirmasi kutu kasur, semut bersayap dapat tertukar dengan rayap, dan lalat dewasa tidak membuktikan lokasi sumber berkembang biak. [EPA](https://www.epa.gov/bedbugs) dan [CDC](https://www.cdc.gov/bed-bugs/about/index.html) menekankan perlunya identifikasi dan bukti lokasi sebelum menyimpulkan tindakan. Karena itu, tulis “tanda belum teridentifikasi” bila memang belum ada spesimen atau pemeriksaan kompeten.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menutup lubang drain atau ventilasi agar laporan tampak selesai. Periksa kembali aliran air, bau, kelembapan, akses pembersihan, dan kondisi komponen setelah beberapa siklus operasi. Jika fungsi berubah, pekerjaan harus dihentikan dan ditinjau ulang; jangan menganggap kerapian permukaan sebagai bukti keberhasilan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap laporan, sertifikat, atau klaim “sudah sesuai aturan” sebagai bukti kepatuhan otomatis. Kewajiban kesehatan lingkungan dan bangunan dapat melibatkan otoritas serta ruang lingkup yang berbeda, dan aturan lama bisa berubah. Sebelum menyatakan kepatuhan, lakukan recheck pada [catatan hukum BPK](https://peraturan.bpk.go.id/Details/245563/permenkes), klasifikasi fasilitas, dan penerapan setempat. **[NEEDS EG-10: status kompetensi, izin, audit, atau kepatuhan harus dibuktikan dengan rekaman resmi yang cocok dengan entitas, lokasi, dan tanggal]**.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah mengisi semua celah dengan busa atau sealant yang sama. Cara ini tampak cepat karena satu bahan mudah dibeli, tetapi dapat mengunci sambungan yang bergerak, menghalangi ventilasi, atau menutup jalur pembuangan. Ketika kelembapan terperangkap, tanda hama mungkin berkurang sementara sementara kerusakan bangunan bertambah.
 
-## Draft completion checklist
+Alternatif yang lebih dapat dipertanggungjawabkan adalah membuat daftar titik, menentukan fungsi tiap bukaan, lalu meminta detail penutupan dari tenaga yang menguasai sistem tersebut. Simpan foto, tanggal, bahan yang disetujui, hasil uji fungsi, dan jadwal pemantauan. Kawan Basmi.co.id, bila identitas organisme, sumber air, atau dampak pada fasilitas belum jelas, tulis penanda **[NEEDS REVIEW: bukti lapangan dan persetujuan profesional belum lengkap]** dan jangan menjanjikan hasil atau waktu selesai.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Eksklusi hama yang tahan lama dimulai dari bukti dan fungsi, bukan dari menutup sebanyak mungkin lubang. Periksa pintu, screen, celah, pipa, drain, serta penetrasi sebagai satu jaringan akses; pertahankan aliran udara dan air, dokumentasikan keputusan, lalu verifikasi setelah pekerjaan.
+
+Langkah Anda berikutnya: buat peta titik masuk dengan foto bertanggal, catat tanda hama dan kondisi lembap, tandai fungsi yang tidak boleh terganggu, lalu minta tinjauan tenaga bangunan atau fasilitas untuk titik yang menyentuh struktur, listrik, kebocoran, atau ventilasi. Anda dapat mulai dari [beranda Basmi.co.id](/) atau membaca konteks [pengendalian serangga](/serangga), lalu memakai [halaman kontak Basmi.co.id](/kontak-kami) bila perlu menyampaikan peta titik masuk kepada penyedia. Jangan menganggap halaman umum sebagai bukti desain proyek tertentu.
+
+Aturan operasionalnya sederhana: bila penutupan berpotensi mengubah aliran, akses servis, keselamatan, atau kepatuhan fasilitas, tahan pekerjaan sampai bukti dan penanggung jawabnya jelas. Technical review tetap diperlukan sebelum publikasi atau keputusan proyek.

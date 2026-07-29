@@ -2,13 +2,14 @@
 article_id: BAS-05-A04
 title: "Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda"
 slug: "bait-vs-spray-untuk-semut"
-description: "Explain colony structure, foraging, repellency concepts, delayed action, exposure, and monitoring"
-status: outline
+description: "Membandingkan umpan dan semprotan untuk semut melalui struktur koloni, perilaku mencari makan, efek menjauh, tindakan tertunda, paparan, dan pemantauan."
+status: draft
 publication_date: "2025-08-02"
 publication_date_basis: editorial_backfill
 date_modified: null
 parent_topic: BAS-05
 primary_intent: "Compare ant methods"
+writing_contract_version: "native-id-v2"
 reader_community: "Basmi.co.id"
 reader_address: "Teman Basmi.co.id"
 final_route: "/artikel/bait-vs-spray-untuk-semut.html"
@@ -20,46 +21,11 @@ sources:
   - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
-  - "https://www.epa.gov/ipm/identifying-and-controlling-cockroaches"
-  - "https://www.epa.gov/bedbugs"
-  - "https://www.cdc.gov/bed-bugs/about/index.html"
-  - "https://www.who.int/publications/i/item/9789289041683"
-  - "https://simbg.pu.go.id/"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda”
-- **Reader and situation:** Buyer deciding between treatments
-- **Reader outcome:** Explain colony structure, foraging, repellency concepts, delayed action, exposure, and monitoring
-- **Primary intent:** Compare ant methods
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes recipes, active-ingredient choice, or application instructions; BAS-14-A01 owns label use
-- **Final public route:** `/artikel/bait-vs-spray-untuk-semut.html`
-- **Appointed CMS date:** `2025-08-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-011`
@@ -70,159 +36,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Basmi Semut` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-011]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Basmi.co.id! Kalau semut terlihat langsung berkurang setelah disemprot, itu belum tentu berarti koloninya selesai. Bait dan spray bekerja pada jalur sebab-akibat yang berbeda: bait mengandalkan semut pekerja menemukan dan membawa sumber makanan ke dalam jaringan koloni, sedangkan spray biasanya memberi dampak pada area atau semut yang terkena saat itu. Karena itu respons cepat di permukaan bisa berbeda dari perubahan jumlah semut yang muncul beberapa hari kemudian.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban praktisnya bukan “bait selalu lebih baik” atau “spray selalu lebih kuat”. Pilihan bergantung pada jenis semut yang sudah diidentifikasi, lokasi jalur, sumber makanan dan akses, risiko paparan, serta rencana pemantauan. [NEEDS EG-01: identitas dan luas infestasi harus dikonfirmasi dari spesimen atau bukti lapangan sebelum metode dipilih.] Kerangka pengendalian terpadu WHO menempatkan analisis situasi, tujuan, pilihan intervensi, pemantauan, evaluasi, dan penyesuaian dalam satu siklus; bahan kimia hanya salah satu komponennya ([WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801)).
 
-### KR-02
+![Ilustrasi Basmi Semut](/wp-content/uploads/2023/11/Basmi-Semut.jpg)
 
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
+*Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu.*
 
-### KR-05
+## Apa yang sebenarnya dibandingkan?
 
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
+Bait adalah umpan yang ditempatkan agar semut pekerja mengambilnya sebagai sumber makanan. Nilai pendekatan ini terletak pada perilaku mencari makan dan pertukaran makanan di dalam koloni, bukan pada banyaknya semut yang tampak mati di lantai. Responsnya dapat tertunda karena ada jarak waktu antara umpan ditemukan, dibawa, dan memengaruhi anggota koloni lain. Artikel ini tidak menetapkan bahan aktif, merek, dosis, titik penempatan, atau frekuensi aplikasi.
 
-### KR-07
+Spray adalah istilah umum untuk cairan yang diaplikasikan sebagai semprotan. Efek yang terlihat dapat berupa semut di permukaan berhenti bergerak atau jalurnya terputus. Namun, pengurangan semut yang terlihat tidak otomatis membuktikan sumber atau ratu koloni sudah tercapai. Produk dengan bahan aktif yang sama pun dapat memiliki formulasi dan penggunaan yang diizinkan berbeda; label yang disetujui tetap menjadi rujukan, bukan halaman pemasaran atau lembar data keselamatan saja ([Permentan No. 43 Tahun 2019](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [pedoman izin edar PKRT Kemenkes](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf)). [NEEDS EG-02: status produk, sasaran, dan penggunaan harus dicocokkan dengan label Indonesia yang berlaku.]
 
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
+Jadi objek perbandingannya adalah mekanisme dan bukti hasil, bukan janji “paling ampuh”. Anda perlu membedakan tiga hal: apa yang tampak sekarang, apa yang mungkin terjadi di jaringan koloni, dan apa yang dapat dibuktikan melalui kunjungan berikutnya.
 
-### KR-10
+## Bagaimana respons koloni bisa berbeda?
 
-- **Original sources:** [US EPA cockroach IPM](https://www.epa.gov/ipm/identifying-and-controlling-cockroaches), [US EPA bed bug information](https://www.epa.gov/bedbugs), [CDC bed bug clinical boundary](https://www.cdc.gov/bed-bugs/about/index.html).
-- **Purpose for this article:** Prevent one generic insect procedure from being copied across organism families.
-- **Safe grounded facts:** Bites and skin marks do not confirm bed bugs; winged ants can be confused with termites; adult fly capture does not by itself identify a breeding source; pesticide exposure can change behavior and detectability.
-- **Limits:** Require competent identification and site evidence; no heat, steam, fumigation, pesticide, medical, or eradication recipes.
+Bayangkan semut pekerja sebagai pencari dan pengangkut makanan. Bila umpan diterima sebagai makanan, sebagian pekerja dapat membawanya melewati jalur yang tidak Anda lihat. Jalur itu dapat berubah karena sumber makanan, suhu, kelembapan, gangguan, atau akses di sekitar bangunan. Hasil permukaan karena itu tidak selalu langsung terlihat.
 
-### KR-14
+Spray mengubah situasi secara berbeda. Semut yang berada di area semprot mungkin terdampak, dan jalur yang biasa dilalui bisa menjadi tidak menarik atau terputus. Perubahan perilaku akibat paparan dapat membuat semut tampak menghilang sementara, berpindah jalur, atau muncul di titik lain; data pemantauan perlu membedakan perpindahan dari penurunan nyata. Panduan IPM CDC dan EPA menekankan pencatatan tanda, lokasi, tanggal, kondisi lingkungan, dan tren, bukan menyimpulkan dari satu pengamatan ([CDC IPM](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [EPA IPM principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
 
-- **Original sources:** [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683), [Indonesia PUPR building information portal](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground leak, condensation, drainage, penetration, gap, void, and exclusion content without turning pest observation into building design.
-- **Safe grounded facts:** A moisture reading or pest sign does not identify the leak path, condensation mechanism, hidden damage, electrical safety, or structural adequacy.
-- **Limits:** Require an actual building survey and relevant building, plumbing, envelope, electrical, or structural professional before repair details or compliance claims.
+Inilah sebabnya “langsung tidak terlihat” dan “koloni sudah teratasi” bukan kalimat yang sama. Tanpa baseline—catatan awal tentang lokasi dan intensitas tanda—Anda tidak memiliki pembanding. [NEEDS EG-03: rencana pemilihan metode, penempatan, dan interval kunjungan harus berasal dari survei lokasi dan penilaian risiko oleh pihak kompeten.]
 
-### KR-17
+## Faktor apa yang mengubah hasil di lapangan?
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK legal record](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace vague extermination promises with comparable scope and retrievable evidence.
-- **Safe grounded facts:** Baseline, target, site/zone, device map, visit frequency, product disclosure, preparation, exclusions, threshold, response, trend, corrective action, incident path, report, warranty, and price can be stated separately.
-- **Limits:** No fabricated price, client, case study, review, eradication, response time, warranty, or legal entitlement. Require dated operator-approved evidence and legal review.
+Pertama, identitas semut dan pola mencari makannya. Foto tunggal atau satu semut tidak selalu cukup untuk memastikan spesies, luas koloni, atau tingkat masalah. Catat ciri yang dapat diamati, jalur, jam kemunculan, dan titik masuk; minta identifikasi kompeten bila keputusan akan melibatkan produk.
 
-### KR-19
+Kedua, sumber daya yang menarik semut. Remah, tetesan minuman, tempat sampah, celah lembap, dan akses dari luar dapat membuat semut terus datang meskipun sebagian individu terdampak. Mengurangi akses dan sumber makanan adalah bagian pencegahan yang perlu berjalan bersama intervensi, bukan dianggap pekerjaan terpisah.
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+Ketiga, gangguan terhadap jalur. Pembersihan atau semprotan di satu titik dapat memutus jejak yang terlihat, tetapi koloni mungkin memakai rute alternatif. Bandingkan peta titik temuan sebelum dan sesudah tindakan; jangan menilai hanya dari satu sudut ruangan.
 
-## Evidence gates
+Keempat, paparan dan konteks penggunaan. Dapur, ruang anak, area dengan hewan, atau ruang berpenghuni memerlukan penilaian paparan dan komunikasi khusus. [NEEDS EG-04: informasi label, lembar data keselamatan, penanggung jawab terlatih, dan rencana keadaan darurat diperlukan sebelum klaim keselamatan atau instruksi bahan kimia.] Artikel ini tidak memberi panduan pencampuran, alat pelindung, penyimpanan, pertolongan pertama, pembuangan, atau waktu masuk kembali.
 
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-07
+Kelima, kualitas bukti. Catatan yang berguna menyebut target, zona, perangkat atau titik observasi, tanggal, ambang tindakan, tindakan korektif, dan tren. Dengan format itu, Anda dapat bertanya apakah kemunculan turun, berpindah, atau hanya tidak teramati pada hari pemeriksaan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Contoh keputusan praktis tanpa menebak
 
-## Internal-link plan
+Misalnya, semut muncul berulang di dekat wadah gula, tetapi sumber masuk belum diketahui. Langkah awal yang masuk akal adalah mencatat jalur dan kondisi sekitar, mengurangi sumber makanan yang terbuka, lalu meminta survei. Jika pekerja aktif masih menemukan umpan dan label produk memang mengizinkan penggunaan tersebut, bait dapat dipertimbangkan dalam rencana yang dipantau. Jangan menambahkan spray di jalur yang sama secara spontan karena perubahan perilaku dapat mengacaukan pembacaan hasil.
 
-### Existing local routes
+Contoh lain: semut muncul di beberapa ruangan setelah satu titik disemprot. Kesimpulan “koloni menyebar karena spray” belum terbukti; bisa juga jalur lama terganggu atau ada akses lain. Bandingkan tanggal, lokasi, kondisi lingkungan, dan bukti fisik. Jika lokasi menyentuh panel listrik, celah bangunan, atau area berisiko, hentikan eksperimen mandiri dan minta penilaian profesional.
 
-- `/semut` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-semut.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-semut-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-semut-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-semut-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-semut-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-05-A02` → `/artikel/membaca-jalur-semut.html` — Membaca Jalur Semut untuk Menemukan Sumber Makanan dan Titik Masuk
-- `BAS-05-A03` → `/artikel/sanitasi-dan-eksklusi-untuk-semut.html` — Sanitasi dan Eksklusi untuk Semut di Dapur
-- `BAS-05-A05` → `/artikel/penyebab-semut-terus-kembali.html` — Semut Terus Kembali: Sumber, Koloni Satelit, dan Area Tetangga
-- `BAS-05-A06` → `/artikel/semut-di-panel-listrik-dan-peralatan.html` — Semut di Panel Listrik dan Peralatan: Batas Aman Penanganan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk membandingkan penawaran jasa, minta dokumen yang memisahkan baseline, zona sasaran, metode yang diusulkan, persiapan, pengecualian, jadwal pemantauan, ambang respons, laporan, dan jalur insiden. Jangan menyamakan jumlah kunjungan atau klaim garansi dengan bukti pengurangan koloni tanpa data yang dapat ditelusuri.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Bait dan Spray untuk Semut: Mengapa Respons Koloni Bisa Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengejar efek tercepat. Tanyakan, “Bukti apa yang menunjukkan sumber masalah berubah, bukan hanya semut di permukaan?” Jika jawabannya hanya bau, semut mati, atau satu kunjungan yang tenang, bukti itu belum cukup untuk menyimpulkan keberhasilan jangka panjang.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menggabungkan bait dan spray tanpa tujuan. Kawan Basmi.co.id, minta penjelasan tentang urutan tindakan dan bagaimana setiap tindakan akan dievaluasi. Bila tidak ada baseline, peta titik, atau kriteria tindak lanjut, Anda tidak dapat mengetahui apakah metode kedua membantu atau justru mengaburkan sinyal.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap label sebagai formalitas. Periksa nama produk, sasaran, lokasi penggunaan, dan batas yang tertulis pada label yang berlaku. [NEEDS EG-02: jangan menerjemahkan nama bahan atau nomor pendaftaran menjadi izin untuk penggunaan lain.]
 
-## Required conclusion
+Kesalahan keempat adalah menyimpulkan spesies dari bentuk umum atau gigitan. Panduan IPM mengingatkan bahwa satu tanda dapat memiliki beberapa penyebab; identifikasi dan bukti lokasi harus mendahului klaim tingkat infestasi atau risiko kesehatan. Bila ada gejala kesehatan, gunakan jalur medis resmi—artikel pengendalian hama bukan alat diagnosis.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering dipilih
 
-## Draft completion checklist
+Jalan pintas yang paling menggoda adalah menyemprot setiap kali melihat semut, lalu menganggap masalah selesai ketika jalur menghilang. Cara ini terasa memberi kendali, tetapi dapat menghilangkan kesempatan mengamati jalur, memindahkan aktivitas ke titik lain, dan membuat perbandingan sebelum-sesudah menjadi kabur. Itu bukan alasan untuk menolak spray secara mutlak; alasannya adalah metode harus punya tujuan, batas paparan, dan rencana evaluasi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah mulai dari identifikasi dan baseline, tentukan tujuan (mengurangi kemunculan di zona tertentu atau menelusuri sumber), pilih intervensi yang sesuai label dan risiko, lalu ukur tren pada titik yang sama. Sobat Basmi.co.id, jika penyedia tidak dapat menjelaskan bukti yang akan dikumpulkan atau batas metode yang ditawarkan, tahan keputusan sampai penjelasan dan tinjauan teknis tersedia.
+
+## Kesimpulan: pilih berdasarkan mekanisme dan bukti
+
+Bait dan spray dapat menghasilkan respons koloni yang berbeda karena satu memanfaatkan alur pencarian dan pembawaan makanan, sementara yang lain terutama mengubah paparan di area yang terkena dan perilaku jalur. Tidak ada pilihan universal sebelum identitas, sumber, akses, paparan, label, dan tujuan pemantauan jelas.
+
+Mulailah dengan catatan tanggal-lokasi-tanda, foto atau spesimen untuk identifikasi, serta pertanyaan tertulis tentang baseline, metode, pengecualian, dan evaluasi. Untuk langkah layanan berikutnya, Anda dapat membaca [panduan umum tentang semut](/semut) dan meminta [survei jasa pembasmi semut](/jasa-pembasmi-semut.html) dengan ruang lingkup yang dapat ditelusuri. Teman Basmi.co.id, aturan kerjanya sederhana: jangan menilai koloni dari semut yang hilang hari ini; nilai perubahan berdasarkan bukti berulang, label yang berlaku, dan tinjauan teknis yang memang diperlukan.

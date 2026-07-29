@@ -3,7 +3,8 @@ article_id: BAS-15-A04
 title: "Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis"
 slug: "dokumentasi-keluhan-setelah-treatment"
 description: "Record people/animals, timing, area, product, route, symptoms as reported, controls, medical contact, and preservation of evidence"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,9 +15,6 @@ reader_address: "Teman Basmi.co.id"
 final_route: "/artikel/dokumentasi-keluhan-setelah-treatment.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
-  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
-  - "https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf"
   - "https://www.who.int/publications-detail-redirect/9789241516884"
   - "https://www.who.int/publications/i/item/9789240111905"
   - "https://www.cdc.gov/healthy-pets/about/rodent-control.html"
@@ -25,40 +23,20 @@ sources:
   - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides"
   - "https://kemkes.go.id/id/layanan/psc-119"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://peraturan.bpk.go.id/Details/245563/permenkes"
+  - "https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Saat seseorang mengeluh setelah treatment, keputusan pertama bukan menebak bahan itu penyebabnya atau memberi saran medis. Catat kejadian secara netral: siapa yang mengalami keluhan, kapan mulai terasa, di area mana, apa yang dilakukan sebelumnya, produk apa yang tercantum di dokumen, gejala apa yang dilaporkan, dan perubahan apa yang terlihat. Dokumentasi yang rapi membuat pemeriksaan berikutnya lebih aman dan mencegah cerita berubah menjadi tuduhan.
 
-- **Writer task:** Expand this file into one complete article answering: “Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis”
-- **Reader and situation:** Occupant or provider receiving a complaint
-- **Reader outcome:** Record people/animals, timing, area, product, route, symptoms as reported, controls, medical contact, and preservation of evidence
-- **Primary intent:** Document post-treatment complaint
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes diagnosis, causation, or treatment; BAS-14-A06 owns emergency handoff
-- **Final public route:** `/artikel/dokumentasi-keluhan-setelah-treatment.html`
-- **Appointed CMS date:** `2026-04-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Pisahkan tiga hal sejak awal: laporan orang atau pemilik hewan, pengamatan Anda, dan hasil pemeriksaan tenaga yang berwenang. Keluhan tetap perlu ditanggapi meskipun penyebab belum diketahui. Jika ada dugaan paparan, gejala berat, atau orang dan hewan rentan, batasi akses dan minta bantuan medis, veteriner, atau layanan darurat; jangan menunda hanya untuk melengkapi formulir. [NEEDS EG-08 REVIEW: gejala akut atau dugaan paparan harus ditangani tenaga medis, veteriner, atau layanan darurat; artikel ini tidak memberi diagnosis, pertolongan pertama, atau instruksi antidot.]
 
-## Opening instructions
+![Ilustrasi bg pest control](/wp-content/uploads/2023/11/bg-pest-control.jpg)
+Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu. Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,147 +47,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg pest control` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [Permenkes No. 2 Tahun 2023 — BPK legal record](https://peraturan.bpk.go.id/Details/245563/permenkes), [official regulation abstract](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf), [Permenkes No. 3 Tahun 2026 official viewer](https://jdih.kemkes.go.id/pdfjs/web/viewer.html?file=https%3A%2F%2Fjdih.kemkes.go.id%2Fstorage%2Fdocuments%2Fpdfs%2F2026permenkes003.pdf).
-- **Purpose for this article:** Establish the current-law recheck gate for environmental health, vectors, disease-carrying animals, media quality, buildings, and public-health action.
-- **Safe grounded facts:** Environmental, vector, building, food, waste, and public-health duties can involve different authorities and scopes. An older summary is not a complete statement of current obligations.
-- **Limits:** Confirm retained/revoked provisions, local implementation, facility class, and competent authority before a legal or compliance claim.
-
-### KR-06
-
-- **Original sources:** [WHO/FAO global pesticide-management survey](https://www.who.int/publications-detail-redirect/9789241516884), [WHO 2025 risk-reduction guidance](https://www.who.int/publications/i/item/9789240111905).
-- **Purpose for this article:** Connect procurement and use to exposure, storage, transport, resistance, waste, and phase-out decisions.
-- **Safe grounded facts:** Hazard and exposure both matter. “Approved,” “natural,” “low odor,” or “professional grade” alone does not establish safety for a person, animal, surface, or environment.
-- **Limits:** International guidance does not override an Indonesian label or emergency instruction.
-
-### KR-09
-
-- **Original sources:** [CDC rodent-control guidance](https://www.cdc.gov/healthy-pets/about/rodent-control.html), [Codex General Principles of Food Hygiene](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf).
-- **Purpose for this article:** Ground proofing, sanitation, contamination control, monitoring, and food-facility interfaces.
-- **Safe grounded facts:** Droppings, gnawing, tracks, odor, sightings, burrows, and device data have different evidential value. Cleanup and food protection require their own exposure controls.
-- **Limits:** Do not diagnose disease, publish bait or trap placement recipes, or infer legal wildlife status. Use the applicable label and health/wildlife authority.
-
-### KR-13
-
-- **Original sources:** [WHO cleaning and disinfection guidance](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent disinfection claims from replacing soil removal, label scope, exposure control, or verification.
-- **Safe grounded facts:** Target organism/claim, surface, pre-cleaning, concentration, contact time, compatibility, ventilation, food contact, PPE, and verification are separate inputs.
-- **Limits:** Never invent dilution, mixture, contact time, PPE, sterilization, or incident response; use the current Indonesian authorization and product label.
-
-### KR-15
-
-- **Original sources:** [WHO pesticide-poisoning prevention resources](https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides), [Indonesia emergency health service 119 information](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Provide a safe boundary for children, pregnancy, older people, disability, asthma/allergy, pets, neighbors, and suspected exposure.
-- **Safe grounded facts:** Odor is not a reliable measure of hazard or exposure; “natural” does not prove safe; absence of immediate symptoms does not validate a procedure.
-- **Limits:** No diagnosis, first aid, antidote, or individualized safety declaration. Follow the product label and contact emergency/poison/medical or veterinary professionals.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-02, EG-04, EG-05, EG-06, EG-08, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-15-A02` → `/artikel/pemberitahuan-treatment-penghuni.html` — Pemberitahuan Treatment untuk Penghuni, Tetangga, dan Pengelola Gedung
-- `BAS-15-A03` → `/artikel/hewan-peliharaan-saat-treatment-hama.html` — Kucing, Anjing, Burung, Ikan, Reptil, dan Tanaman Saat Pengendalian Hama
-- `BAS-15-A05` → `/artikel/treatment-rumah-berpenghuni-vs-relokasi.html` — Treatment di Rumah Tetap Berpenghuni atau Perlu Relokasi Sementara
-- `BAS-15-A06` → `/artikel/aksesibilitas-dalam-pengendalian-hama.html` — Aksesibilitas dan Disabilitas dalam Persiapan Pengendalian Hama
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari apa yang bisa ditunjukkan atau diceritakan ulang, bukan dari label seperti “keracunan”, “alergi”, atau “bahan tidak cocok”. Minta pelapor menjelaskan dengan kata-katanya sendiri: siapa yang terdampak, keluhan apa yang dirasakan, kapan mulai, berapa lama berlangsung, dan apakah ada perubahan setelah meninggalkan area. Tulis kalimat laporan sebagai kutipan tidak langsung, misalnya “penghuni mengatakan mata perih sekitar pukul 14.00”, bukan “produk menyebabkan iritasi mata”.
+
+Catat juga identitas yang relevan tanpa mengumpulkan data berlebihan. Untuk manusia, cukup peran atau inisial yang diperlukan untuk tindak lanjut; untuk hewan, catat jenis dan identitas pemiliknya. Jangan menyebarkan foto wajah, nomor telepon, atau rekam medis ke grup kerja yang tidak memerlukannya. Waktu dan lokasi harus spesifik: ruangan, lantai, sisi dinding, atau titik akses, lalu cocokkan dengan jadwal treatment dan waktu orang itu kembali.
+
+Dokumen produk perlu difoto atau disalin apa adanya: nama pada kemasan, nomor izin atau label bila tersedia, tanggal penggunaan, nama pelaksana, metode yang tertulis di laporan, serta lembar data keselamatan (safety data sheet atau SDS) jika memang diberikan. Jangan mengisi dosis, campuran, konsentrasi, atau masa masuk kembali dari ingatan. Panduan [WHO tentang pengelolaan pestisida](https://www.who.int/publications-detail-redirect/9789241516884) dan [panduan pengurangan risiko 2025](https://www.who.int/publications/i/item/9789240111905) menekankan bahwa bahaya dan tingkat paparan sama-sama menentukan risiko; kata “alami”, “bau rendah”, atau “profesional” saja tidak membuktikan keamanan.
+
+Gunakan catatan berurutan agar perubahan tidak hilang. Kolom minimalnya adalah tanggal dan jam, pelapor serta pihak yang terdampak, area dan aktivitas, produk atau pekerjaan yang diketahui, gejala sebagaimana dilaporkan, tindakan pengamanan yang sudah dilakukan, orang yang dihubungi, dan bukti yang disimpan. Jika informasi belum ada, tulis “belum diketahui” dengan waktu permintaan data; jangan menebak untuk membuat formulir tampak lengkap.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum wawancara panjang, lihat apakah ada kondisi yang membuat orang perlu menjauh dari area. Anak-anak, orang lanjut usia, orang hamil, penyandang disabilitas, penderita asma atau alergi, hewan peliharaan, dan penghuni ruangan yang berdekatan mungkin memerlukan penilaian paparan yang berbeda. Bau yang menyengat atau tidak menyengat bukan alat ukur bahaya, dan tidak adanya gejala segera bukan bukti bahwa prosedur sudah aman. Rujukan [WHO tentang pencegahan keracunan pestisida](https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides) menjelaskan batas penting ini tanpa menggantikan petunjuk label atau nasihat tenaga kesehatan.
+
+Batasi akses bila masih ada cairan, residu, kemasan terbuka, permukaan basah, ventilasi yang tidak berjalan, atau tumpahan yang belum dinilai. Hentikan pekerjaan lanjutan yang dapat memindahkan residu atau menghapus jejak sampai penanggung jawab yang kompeten memberi arahan. Jangan menyuruh pelapor mencium produk, menyentuh permukaan untuk “mengecek”, atau membersihkan sendiri sebelum bukti dasar dicatat, kecuali tindakan pengamanan mendesak diperlukan untuk mencegah cedera.
+
+Sobat Basmi.co.id, perlakukan keluhan sebagai sinyal untuk mengendalikan keadaan, bukan sebagai perlombaan mencari pihak yang salah. Satu foto tambahan tidak sepadan dengan risiko membuat orang rentan kembali masuk ke area yang belum dinilai.
+
+Jika seseorang sulit bernapas, pingsan, kejang, mengalami penurunan kesadaran, atau ada dugaan paparan serius, dokumentasi bukan prioritas pertama. Hubungi layanan darurat dan ikuti instruksi resmi. [PSC 119 Kementerian Kesehatan](https://kemkes.go.id/id/layanan/psc-119) adalah salah satu jalur informasi layanan kegawatdaruratan di Indonesia. Catat waktu panggilan dan arahan yang diterima setelah kondisi sudah ditangani, bukan menunda panggilan demi mencari hubungan sebab-akibat.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu keluhan dapat memiliki lebih dari satu jalur yang mungkin, dan catatan awal biasanya belum cukup untuk memilihnya. Kelompok pertama adalah paparan yang terjadi saat pekerjaan, misalnya perpindahan bahan melalui udara, kulit, pakaian, atau benda yang disentuh. Kelompok kedua adalah kondisi yang sudah ada atau kejadian lain yang kebetulan muncul setelah treatment. Urutan waktu membantu pemeriksaan, tetapi urutan waktu saja tidak membuktikan penyebab.
+
+Kelompok ketiga adalah jalur lingkungan: sisa kotoran, kelembapan, ventilasi, makanan, air, atau akses hama yang belum berubah. Kelompok keempat adalah kesalahan memahami tujuan pekerjaan, terutama ketika pembersihan, disinfeksi, pengendalian hama, dan perbaikan bangunan dianggap satu hal. [Panduan WHO tentang pembersihan dan disinfeksi](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1) memisahkan target organisme, permukaan, pembersihan awal, waktu kontak, kecocokan bahan, ventilasi, perlindungan diri, dan verifikasi. Karena itu, catatan “sudah disemprot” tidak menjawab semua pertanyaan tersebut.
+
+Untuk jejak hewan pengerat, bedakan kotoran, bekas gigitan, jejak, bau, penampakan, liang, dan data perangkat. [CDC memberi contoh jenis tanda pengendalian hewan pengerat](https://www.cdc.gov/healthy-pets/about/rodent-control.html), sedangkan [Prinsip Umum Higiene Pangan Codex](https://www.fao.org/fao-who-codexalimentarius/sh-proxy/pt/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf) menempatkan perlindungan makanan dan pengendalian kontaminasi sebagai perhatian tersendiri. Tanda tersebut berguna untuk menentukan apa yang perlu diperiksa, tetapi tidak mendiagnosis penyakit atau membuktikan bahan treatment sebagai sumber keluhan.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun pemeriksaan dari yang paling aman dan paling banyak memberi konteks. Pertama, buat garis waktu: kapan pekerjaan dimulai dan selesai, kapan ruangan ditinggalkan dan dimasuki lagi, kapan keluhan pertama disebutkan, serta apa yang terjadi di antaranya. Kedua, buat peta sederhana area dan jalur orang, hewan, makanan, udara, atau benda yang mungkin berpindah. Ketiga, simpan foto kemasan, label, laporan kerja, pesan pemberitahuan, dan catatan akses dengan nama berkas serta waktu pengambilan.
+
+Setelah itu, wawancarai pelapor dan pelaksana secara terpisah menggunakan pertanyaan yang sama. Tanyakan aktivitas, posisi, durasi berada di area, benda yang disentuh, dan perubahan setelah berpindah tempat. Jangan mengarahkan jawaban dengan pertanyaan “Anda pasti terpapar, kan?” karena pertanyaan itu mengubah laporan menjadi kesimpulan.
+
+Jika tenaga kompeten meminta sampel atau pengukuran, catat siapa yang mengambil, dari titik mana, kapan, dengan metode apa, dan ke mana diserahkan. Jangan mengambil sampel bahan, cairan tubuh, atau hewan sendiri hanya untuk “membuktikan” penyebab. Di fasilitas makanan, pisahkan catatan keluhan manusia dari catatan perlindungan makanan dan sanitasi; keduanya dapat memerlukan otoritas dan prosedur berbeda. Rujukan [pedoman otorisasi PKRT Kementerian Kesehatan](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf) mengingatkan bahwa izin produk dan ruang lingkup penggunaannya perlu dicocokkan dengan label yang berlaku, bukan diasumsikan dari nama dagang.
+
+Jaga bukti aslinya. Simpan kemasan, foto, log akses, dan percakapan dalam salinan yang tidak ditimpa; catat setiap orang yang menerima atau menyalin berkas. Bila ada permintaan penghapusan foto atau data pribadi, lakukan sesuai kewenangan dan tetap pertahankan catatan minimal yang diperlukan untuk tindak lanjut. Dokumentasi yang baik bukan berarti menyimpan semua hal selamanya, melainkan menjaga bukti yang relevan dan dapat ditelusuri.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baca setiap hasil dengan pertanyaan “hasil ini membuktikan apa, dan tidak membuktikan apa?”. Pernyataan pelapor membuktikan bahwa keluhan disampaikan pada waktu tertentu. Foto residu membuktikan kondisi yang tampak saat foto dibuat. Catatan produk menunjukkan apa yang tertulis atau dilaporkan digunakan. Hasil uji, bila ada, menjawab parameter yang diuji dengan metode dan batasnya. Tidak satu pun otomatis menetapkan sebab, tingkat bahaya, atau tanggung jawab.
+
+Contohnya, keluhan muncul dua jam setelah seseorang kembali ke kamar. Itu adalah hubungan waktu yang perlu diperiksa. Jika label, ventilasi, aktivitas di kamar sebelah, dan kondisi kesehatan sebelumnya belum diketahui, kalimat yang aman adalah “keluhan muncul setelah kembali; penyebab belum ditentukan”. Hindari frasa “pasti karena bahan” maupun “pasti bukan karena treatment”.
+
+Kriteria keputusan juga bisa berbeda. Penyedia jasa mungkin memerlukan review internal dan catatan tindakan, pengelola gedung perlu mengendalikan akses, sementara tenaga kesehatan menilai kondisi orang. Peraturan kesehatan lingkungan dapat melibatkan kewenangan dan lingkup yang berbeda; [catatan Permenkes No. 2 Tahun 2023 pada BPK](https://peraturan.bpk.go.id/Details/245563/permenkes) dan [abstrak resmi Kementerian Kesehatan](https://jdih.kemkes.go.id/common/dokumen/PMK%202%20TH%202023-ABSTRAK.pdf) bukan alasan untuk menyalin kewajiban hukum secara umum. Periksa ketentuan yang masih berlaku, kelas fasilitas, pelaksanaan setempat, dan otoritas yang berwenang sebelum membuat klaim kepatuhan.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Keluhan Setelah Treatment: Cara Mendokumentasikan Tanpa Mendiagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah catatan dasar lengkap, pilih tindakan yang sesuai dengan ketidakpastian. Pengendalian sementara dapat berupa membatasi akses, menghentikan pekerjaan tambahan, menutup makanan dan air dari area, atau memindahkan hewan ke tempat yang dinilai aman oleh pihak kompeten. Pemantauan berarti menetapkan siapa yang mengamati, apa yang dicatat, kapan ditinjau, dan kondisi apa yang memicu eskalasi. Jangan menyebut tindakan tersebut sebagai pengobatan atau jaminan aman.
 
-## Objection or shortcut to address
+Minta review profesional bila keluhan menetap atau memburuk, ada kelompok rentan, bukti paparan tidak jelas, area merupakan fasilitas berisiko tinggi, atau keputusan menyentuh produk, ventilasi, limbah, bangunan, dan kesehatan. Tenaga medis atau veteriner menilai orang dan hewan; ahli keselamatan atau penanggung jawab produk menilai dokumen paparan; pengelola fasilitas dan otoritas terkait menilai proses setempat. Pembagian peran ini mencegah satu laporan treatment dipaksa menjawab semua pertanyaan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk alur komunikasi, kirim ringkasan satu halaman yang berisi garis waktu, area, pihak terdampak, gejala sebagaimana dilaporkan, produk dan dokumen yang tersedia, kontrol akses, bukti terlampir, serta pertanyaan yang belum terjawab. Anda dapat membaca [penjelasan tentang Basmi.co.id](/tentang-kami) dan menjelaskan konteks layanan melalui [halaman utama Basmi.co.id](/), lalu bila perlu tindak lanjut lapangan gunakan [kanal kontak Basmi.co.id](/kontak-kami). Tautan tersebut membantu mengarahkan pertanyaan, bukan menggantikan pemeriksaan medis atau keputusan otoritas.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah menyemprot ulang, membuang semua barang, atau menyalahkan produk segera agar keluhan terlihat “sudah ditangani”. Cara itu dapat menambah paparan, menghapus jejak, dan membuat pemeriksaan berikutnya kehilangan garis waktu. Klaim “sudah disinfeksi” pun tidak lengkap tanpa target, permukaan, pembersihan awal, waktu kontak, ventilasi, kecocokan, dan verifikasi; [pedoman WHO dan panduan izin PKRT](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1) menunjukkan mengapa label dan ruang lingkup perlu dibaca utuh.
 
-## Draft completion checklist
+Alternatif yang lebih dapat dipertanggungjawabkan adalah tahan tindakan yang tidak mendesak, amankan orang dan hewan sesuai arahan profesional, simpan bukti, lalu minta pemeriksaan yang menjawab pertanyaan tertentu. Jika pertanyaannya “apakah ada paparan?”, serahkan penilaian kepada tenaga yang berwenang. Jika pertanyaannya “bagaimana mencegah tanda hama berulang?”, dokumentasikan sumber makanan, air, tempat berlindung, akses, dan data pemantauan; jangan mengubah keluhan kesehatan menjadi resep umpan atau perangkap.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup: catatan netral adalah langkah berikutnya
+
+Jadi, dokumentasikan keluhan setelah treatment dengan memisahkan laporan, pengamatan, dokumen produk, dan hasil pemeriksaan. Catat siapa atau hewan apa yang terdampak, waktu dan area, produk serta rute paparan yang mungkin, gejala sebagaimana dilaporkan, kontrol akses, kontak medis atau veteriner, dan cara bukti disimpan. Jangan mendiagnosis dari urutan waktu, bau, foto, atau satu hasil uji.
+
+Teman Basmi.co.id, sebelum pekerjaan dilanjutkan, pastikan ada satu ringkasan bertanggal, satu penanggung jawab tindak lanjut, dan pertanyaan yang jelas untuk tenaga kompeten. Operasi yang aman berhenti pada batas bukti: ketika sebab, bahaya, atau kewajiban hukum belum dapat dipastikan, tulis “belum ditentukan”, jaga akses tetap terkendali, dan eskalasikan tanpa menunda pertolongan yang diperlukan.

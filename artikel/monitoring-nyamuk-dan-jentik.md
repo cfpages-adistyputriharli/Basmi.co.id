@@ -2,8 +2,9 @@
 article_id: BAS-08-A05
 title: "Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna"
 slug: "monitoring-nyamuk-dan-jentik"
-description: "Explain survey units, habitat records, adult-trap concepts, weather, actions, repeat checks, and interpretation limits"
-status: outline
+description: "Pahami data monitoring jentik dan nyamuk dewasa: unit survei, habitat, perangkap, cuaca, pemeriksaan ulang, tindakan, dan batas tafsirnya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,190 +21,85 @@ sources:
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
   - "https://ayosehat.kemkes.go.id/pemberantasan-sarang-nyamuk-dengan-3m-plus"
   - "https://www.who.int/publications/i/item/9789240051089"
-  - "https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides"
-  - "https://kemkes.go.id/id/layanan/psc-119"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Data monitoring yang berguna bukan sekadar angka “ada” atau “tidak ada”. Untuk fasilitas atau program komunitas, catat unit yang diperiksa, lokasi dan jenis wadah, tanggal serta kondisi lingkungan, metode pengamatan nyamuk dewasa, tindakan yang dilakukan, lalu ulangi dengan cara yang sebanding. Rangkaian itu membantu Anda melihat perubahan dan memilih langkah berikutnya; satu foto, satu kunjungan, atau satu kali fogging belum cukup untuk menyimpulkan sumber masalah sudah hilang.
 
-- **Writer task:** Expand this file into one complete article answering: “Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna”
-- **Reader and situation:** Facility or community program
-- **Reader outcome:** Explain survey units, habitat records, adult-trap concepts, weather, actions, repeat checks, and interpretation limits
-- **Primary intent:** Design mosquito monitoring
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes outbreak thresholds or epidemiological conclusions; health authorities own them
-- **Final public route:** `/artikel/monitoring-nyamuk-dan-jentik.html`
-- **Appointed CMS date:** `2025-10-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dengan membedakan dua pertanyaan: di mana tahap pradewasa ditemukan, dan apakah nyamuk dewasa masih terdeteksi di ruang atau area sasaran. Hasil dapat berubah karena hujan, suhu, aktivitas penghuni, akses ke wadah, cara alat dipasang, atau perubahan lingkungan. Monitoring mendukung penilaian lokal, bukan penetapan ambang wabah, diagnosis penyakit, atau kesimpulan epidemiologis; hal itu berada pada kewenangan otoritas kesehatan.
 
-## Opening instructions
+![Ilustrasi bg pest control](/wp-content/uploads/2023/11/bg-pest-control.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<p><em>Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu.</em></p>
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: setelah pembuka, sebelum H2 pertama
 - **Exact Markdown to insert:** `![Ilustrasi bg pest control](/wp-content/uploads/2023/11/bg-pest-control.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bg pest control` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-11
-
-- **Original sources:** [Kemenkes PSN 3M Plus](https://ayosehat.kemkes.go.id/pemberantasan-sarang-nyamuk-dengan-3m-plus), [WHO insecticide-resistance monitoring manual](https://www.who.int/publications/i/item/9789240051089).
-- **Purpose for this article:** Ground dengue/mosquito content in Indonesian source reduction, monitoring, and authority coordination.
-- **Safe grounded facts:** Container/source surveys, larvae/adult surveillance, environmental management, barriers, community action, chemical interventions, resistance, and disease surveillance are different layers.
-- **Limits:** Do not declare an outbreak, diagnose dengue, or provide larvicide/fogging doses. Current public-health authorities and product labels control chemical interventions.
-
-### KR-15
-
-- **Original sources:** [WHO pesticide-poisoning prevention resources](https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/health-impacts/chemicals/pesticides), [Indonesia emergency health service 119 information](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Provide a safe boundary for children, pregnancy, older people, disability, asthma/allergy, pets, neighbors, and suspected exposure.
-- **Safe grounded facts:** Odor is not a reliable measure of hazard or exposure; “natural” does not prove safe; absence of immediate symptoms does not validate a procedure.
-- **Limits:** No diagnosis, first aid, antidote, or individualized safety declaration. Follow the product label and contact emergency/poison/medical or veterinary professionals.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-06, EG-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jasa-fogging-nyamuk.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-fogging-nyamuk-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-fogging-nyamuk-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-fogging-nyamuk-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-fogging-nyamuk-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-fogging-nyamuk-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-08-A03` → `/artikel/checklist-survei-tempat-perindukan-nyamuk.html` — Checklist Wadah, Talang, Drain, dan Genangan untuk Survei Jentik
-- `BAS-08-A04` → `/artikel/perbandingan-intervensi-nyamuk.html` — Larvasida, Barrier, Misting, dan Fogging: Membandingkan Intervensi Nyamuk
-- `BAS-08-A06` → `/artikel/program-nyamuk-fasilitas-dan-hunian.html` — Program Nyamuk untuk Sekolah, Hotel, dan Kawasan Hunian
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies bg pest control as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Monitoring yang baik menggabungkan survei tempat perindukan, pengamatan jentik, dan pemantauan nyamuk dewasa dengan catatan waktu dan lokasi yang konsisten. Tujuannya bukan mengumpulkan angka sebanyak-banyaknya, melainkan menghasilkan bukti yang bisa dibandingkan sebelum dan sesudah tindakan. Pendekatan pengendalian vektor memang menghubungkan analisis situasi, tujuan, pilihan intervensi, pemantauan, evaluasi, dan adaptasi; penyemprotan hanyalah salah satu komponen yang mungkin dipilih ([WHO](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801)).
+
+Kesalahpahaman paling umum adalah menganggap tidak terlihatnya nyamuk berarti tidak ada risiko. Jentik tersembunyi di wadah yang tidak terjangkau pemeriksa, sedangkan nyamuk dewasa dapat berpindah atau tidak aktif ketika pengamatan dilakukan. Sebaliknya, satu ekor atau satu tanda juga tidak otomatis membuktikan tingkat gangguan, spesies, status vektor, atau penyakit. Tanda, spesimen, lokasi, tanggal, kondisi lingkungan, data alat, dan tren harus dibaca bersama; satu tanda dapat memiliki beberapa penyebab ([CDC](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Unit survei adalah sesuatu yang sengaja dihitung dengan aturan tetap. Untuk jentik, unitnya dapat berupa wadah atau titik perindukan yang ditandai di peta sederhana: bak, ember, talang, lubang, pot, atau genangan lain yang benar-benar diperiksa. Catat jumlah unit yang diperiksa, unit yang berisi air, unit yang menunjukkan jentik, kondisi tertutup atau terbuka, dan tindakan pada unit itu. Jangan mengubah definisi unit di tengah periode karena angka antarhari menjadi tidak sebanding.
+
+Untuk nyamuk dewasa, unitnya adalah lokasi dan metode pengamatan, bukan sekadar “area gedung”. Catat titik pemasangan perangkap atau titik observasi, waktu mulai-selesai, kondisi alat, dan hasil yang terlihat. Nama alat saja tidak cukup untuk membuktikan kepadatan atau keberhasilan; rancangan, penempatan, identifikasi, dan konsistensi pemakaian perlu ditinjau oleh pihak kompeten bila hasil akan menjadi dasar keputusan penting. [NEEDS EG-01: identitas spesies, luas infestasi, status vektor, dan ambang tindakan memerlukan bukti lapangan serta penilaian ahli setempat.]
+
+Monitoring ini tidak menetapkan apakah seseorang menderita demam berdarah, apakah terjadi wabah, atau berapa dosis bahan kimia yang harus digunakan. Survei sumber, pengamatan larva dan dewasa, pengelolaan lingkungan, penghalang fisik, kegiatan warga, intervensi kimia, dan surveilans penyakit adalah lapisan berbeda ([Kemenkes, PSN 3M Plus](https://ayosehat.kemkes.go.id/pemberantasan-sarang-nyamuk-dengan-3m-plus)). Jika muncul pertanyaan kesehatan atau dugaan kejadian luar biasa, serahkan kepada otoritas kesehatan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun baseline terlebih dahulu: tanggal, batas area, daftar titik, metode, petugas, dan kondisi cuaca yang relevan. Baseline bukan janji bahwa kondisi itu normal; ia hanya potret awal yang cara pengukurannya harus dapat diulang. Gunakan kode lokasi yang sama, misalnya “teras-03” atau “lantai-1-bak-02”, sehingga laporan berikutnya tidak bergantung pada ingatan pemeriksa.
+
+Pada setiap wadah, tulis apakah ada air, apakah air dapat dibuang atau ditutup, tanda jentik yang diamati, dan tindakan korektif yang benar-benar dilakukan. Foto boleh membantu dokumentasi internal, tetapi jangan menjadikan foto satu-satunya dasar identifikasi. Bila wadah tidak bisa diakses, tandai “tidak diperiksa” beserta alasannya; jangan memasukkannya sebagai unit negatif.
+
+Pengamatan dewasa membutuhkan metode yang sama pada setiap putaran. Catat alat atau teknik yang dipakai, titiknya, durasinya, gangguan seperti listrik atau akses terbatas, dan hasil per titik. Data cuaca—misalnya hujan baru, panas, angin, atau perubahan kelembapan yang diketahui—membantu menjelaskan mengapa hasil hari ini tidak langsung sebanding dengan hari lain. Bila alat gagal atau dipindah, tandai kejadian itu sebagai keterbatasan, bukan sebagai penurunan populasi.
+
+Setelah tindakan pencegahan atau pengendalian, ulangi pengukuran dan hubungkan setiap temuan dengan tindakan serta penanggung jawabnya. Urutan ini mengikuti prinsip pengelolaan terpadu: tujuan dan intervensi ditinjau kembali berdasarkan pemantauan, evaluasi, dan perubahan situasi ([WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control)). Catatan “sudah disemprot” tanpa lokasi, waktu, sasaran, dan pemeriksaan ulang tidak menjawab apakah sumbernya berkurang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Air yang tertampung, saluran tersumbat, wadah terbuka, dan kebiasaan menaruh barang di luar mengubah peluang terbentuknya habitat. Kegiatan pemberantasan sarang nyamuk di Indonesia menempatkan pengurasan, penutupan, pemanfaatan kembali atau pembuangan barang, serta tindakan plus sebagai lapisan yang perlu dikelola bersama ([Kemenkes PSN 3M Plus](https://ayosehat.kemkes.go.id/pemberantasan-sarang-nyamuk-dengan-3m-plus)). Catat kondisi sebelum tindakan dan siapa yang bertugas memperbaikinya; tanpa itu, angka jentik tidak memberi petunjuk penyebab.
+
+Hujan dapat membuat wadah baru berisi air, sementara panas atau angin dapat mengubah aktivitas nyamuk dewasa dan kinerja alat. Jam pengamatan, pintu yang terbuka, renovasi, pemindahan furnitur, dan kepadatan penghuni juga memengaruhi peluang deteksi. Karena itu, bandingkan putaran yang metodenya serupa dan jelaskan perbedaan yang tidak bisa dihindari.
+
+Tindakan kimia memiliki batas pembuktian. Pemantauan resistensi adalah pekerjaan tersendiri dan memerlukan data serta koordinasi yang sesuai; manual WHO tentang pemantauan resistensi tidak menjadi izin untuk memilih produk atau dosis tertentu ([WHO insecticide-resistance monitoring manual](https://www.who.int/publications/i/item/9789240051089)). [NEEDS EG-02/EG-03/EG-04: produk, metode, frekuensi, paparan, dan keputusan perlakuan harus ditetapkan melalui label yang berlaku, survei lokasi, penilaian risiko, dan tenaga kompeten.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pengelola sekolah mencatat 20 wadah pada hari Senin. Enam wadah tidak berisi air, dua tidak dapat diakses, dan satu menunjukkan jentik. Laporan yang berguna menyebutkan semua angka itu, lokasi wadah, alasan dua unit tidak diperiksa, dan tindakan pada wadah positif. Pada kunjungan berikutnya, periksa kembali 20 kode yang sama sebelum menambah titik baru.
+
+Jika jentik turun tetapi hasil pengamatan dewasa tetap muncul di satu ruangan, jangan langsung menyimpulkan tindakan gagal. Cocokkan peta titik, waktu pengamatan, kondisi pintu atau jendela, cuaca, dan apakah ada sumber di luar batas area. Hasil itu mungkin memerlukan survei akses atau habitat tambahan, bukan pengulangan perlakuan secara otomatis.
+
+Sebaliknya, jika angka dewasa turun setelah alat dipasang tetapi alat sempat mati atau dipindah, tandai hasil sebagai tidak dapat dibandingkan penuh. Kawan Basmi.co.id, keputusan yang aman berbunyi: “data ini menunjukkan perubahan pada titik dan metode tersebut”, bukan “semua nyamuk sudah hilang”. Ambang tindakan internal boleh dipakai untuk memicu pemeriksaan ulang, tetapi jangan dipresentasikan sebagai ambang wabah atau keputusan epidemiologis.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Monitoring Jentik dan Nyamuk Dewasa: Data Apa yang Berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menghitung wadah positif tanpa menghitung total wadah yang diperiksa. Selalu tulis pembilang, penyebut, lokasi, dan tanggal. Kesalahan kedua adalah mencampur pengamatan siang dan malam atau mengganti alat tanpa catatan; perbandingan menjadi kabur.
 
-## Objection or shortcut to address
+Kesalahan ketiga ialah memakai kabut, bau, atau nyamuk mati sebagai bukti bahwa sumber telah dihilangkan. Bukti itu hanya menyatakan ada paparan atau kematian yang terlihat pada waktu tertentu. Periksa kembali habitat, akses, kondisi bangunan, dan tren beberapa putaran.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah memberi label spesies atau penyakit dari satu foto. Minta spesimen, catatan lapangan, dan identifikasi yang memenuhi kebutuhan setempat sebelum membuat klaim. Jika ada penghuni rentan atau dugaan paparan, ikuti label produk dan minta bantuan profesional; monitoring bukan diagnosis atau panduan pertolongan.
 
-## Required conclusion
+## Jangan memilih jalan pintas “sekali fogging lalu selesai”
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Fogging sekali mungkin terasa sebagai jawaban cepat karena hasilnya terlihat. Namun tindakan itu tidak otomatis menghilangkan wadah berisi air, celah masuk, atau sumber dari luar area. Pendekatan terpadu meminta analisis situasi, pencegahan, pemantauan, evaluasi, dan adaptasi; bahan kimia hanya dipertimbangkan dalam rangkaian tersebut ([EPA IPM principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
 
-## Draft completion checklist
+Jika survei menunjukkan kebutuhan perlakuan profesional, siapkan baseline dan daftar titik agar penyedia dapat menjelaskan sasaran, batas area, metode, pengamanan, serta rencana pemeriksaan ulang. Anda dapat membaca informasi umum tentang [layanan fogging nyamuk](/jasa-fogging-nyamuk.html) sebagai langkah awal, tetapi detail produk dan pelaksanaan tetap harus diverifikasi untuk lokasi Anda. Jangan mengubah artikel ini menjadi izin melakukan perlakuan sendiri.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah berikutnya
+
+Teman Basmi.co.id, buat lembar monitoring dengan kolom kode lokasi, jenis unit, kondisi air, temuan jentik, metode dan titik pengamatan dewasa, tanggal-jam, cuaca, tindakan, penanggung jawab, dan hasil pemeriksaan ulang. Simpan peta serta catatan unit yang tidak dapat diakses. Setelah beberapa putaran yang metodenya sebanding, minta peninjauan ahli untuk identitas organisme, tingkat gangguan, pilihan intervensi, dan kebutuhan koordinasi kesehatan.
+
+Data yang berguna adalah data yang jelas unitnya, konsisten cara ukurnya, tercatat keterbatasannya, dan dihubungkan dengan tindakan. Gunakan hasilnya untuk memperbaiki sumber dan merencanakan pemeriksaan berikutnya—bukan untuk menyatakan wabah, diagnosis, atau keberhasilan mutlak tanpa kewenangan dan bukti yang sesuai. Bila Anda berada di wilayah yang memerlukan koordinasi lapangan, [informasi layanan fogging nyamuk Yahukimo](/jasa-fogging-nyamuk-yahukimo.html) dapat menjadi contoh rute kontak; verifikasi cakupan dan ketersediaan secara langsung sebelum mengambil keputusan.

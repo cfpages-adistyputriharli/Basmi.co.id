@@ -2,8 +2,9 @@
 article_id: BAS-04-A06
 title: "Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi"
 slug: "kecoa-di-peralatan-elektronik-dan-mesin"
-description: "Explain isolation, shutdown authority, contamination, heat/electrical constraints, access, and evidence needs"
-status: outline
+description: "Panduan menangani kecoa di peralatan elektronik dan mesin pangan dengan memperhatikan isolasi, kewenangan penghentian, kontaminasi, panas, listrik, akses, dan bukti."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,203 +16,90 @@ final_route: "/artikel/kecoa-di-peralatan-elektronik-dan-mesin.html"
 technical_review: required
 sources:
   - "https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control"
-  - "https://www.who.int/publications/i/item/9789241502801"
-  - "https://peraturan.bpk.go.id/Details/201255/permentan-no-43-"
-  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
   - "https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf"
   - "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles"
   - "https://www.epa.gov/ipm/identifying-and-controlling-cockroaches"
-  - "https://www.epa.gov/bedbugs"
-  - "https://www.cdc.gov/bed-bugs/about/index.html"
   - "https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi
 
-## Assignment lock
+Halo, Teman Basmi.co.id! Menemukan kecoa di dalam panel, mesin kasir, oven, lemari pendingin, atau mesin pengolah pangan bukan tanda untuk langsung menyemprot dari luar. Keputusan pertama adalah mengisolasi peralatan dan area, lalu memastikan siapa yang berwenang menghentikan atau mengamankannya. Jangan membuka peralatan yang masih berenergi dan jangan memasukkan bahan pembasmi ke dalam mesin.
 
-- **Writer task:** Expand this file into one complete article answering: “Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi”
-- **Reader and situation:** Facility with infested equipment
-- **Reader outcome:** Explain isolation, shutdown authority, contamination, heat/electrical constraints, access, and evidence needs
-- **Primary intent:** Plan specialist escalation
-- **Reader community:** `Basmi.co.id`
-- **Primary friendly address:** `Teman Basmi.co.id`
-- **Natural variants:** `Sobat Basmi.co.id` and `Kawan Basmi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes opening energized equipment or spraying machinery; competent technicians and BAS-16 own controls
-- **Final public route:** `/artikel/kecoa-di-peralatan-elektronik-dan-mesin.html`
-- **Appointed CMS date:** `2025-07-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jika peralatan menyentuh pangan atau berada di jalur produksi, tahan penggunaan sampai kondisi kontaminasi, sumber masuk, dan dampak pada proses dinilai. Tim pemeliharaan atau teknisi listrik menangani keadaan energi dan akses mesin; penanggung jawab higiene pangan menentukan status produk atau permukaan; tenaga pengendali organisme menilai bukti kecoa dan rencana pengendalian. Identitas, luas infestasi, jenis permukaan, dan riwayat intervensi dapat mengubah keputusan, sehingga kesimpulan pasti memerlukan pemeriksaan lapangan **[NEEDS EG-01: identitas dan luas infestasi belum dibuktikan]**.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Basmi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Basmi.co.id`, `Sobat Basmi.co.id`, or `Kawan Basmi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-009`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-009
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi jasa basmi kecoa 2](/wp-content/uploads/2023/11/jasa-basmi-kecoa-2.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `jasa basmi kecoa 2` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies jasa basmi kecoa 2 as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-009] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi jasa basmi kecoa 2](/wp-content/uploads/2023/11/jasa-basmi-kecoa-2.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [WHO vector-control strategy](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control), [WHO Handbook for Integrated Vector Management](https://www.who.int/publications/i/item/9789241502801).
-- **Purpose for this article:** Ground the site's core sequence without reducing IPM to repeated spraying.
-- **Safe grounded facts:** Situation analysis, objectives, local ecology, intervention choice, roles, monitoring, evaluation, and adaptation are connected. Chemical control is one possible component, not the definition of control.
-- **Limits:** WHO program guidance is not an Indonesian operator licence, pesticide approval, site plan, disease diagnosis, or product recommendation.
-
-### KR-05
-
-- **Original sources:** [Permentan No. 43 Tahun 2019 — BPK legal record](https://peraturan.bpk.go.id/Details/201255/permentan-no-43-), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent product names or active ingredients from becoming off-label application instructions.
-- **Safe grounded facts:** The same active ingredient can exist in different formulations and authorized uses. A marketing page or safety-data sheet does not replace the approved label.
-- **Limits:** Never supply dose, mixture, placement, equipment, re-entry, first aid, disposal, or efficacy instructions without the current Indonesian label and qualified professional.
-
-### KR-07
-
-- **Original sources:** [CDC Integrated Pest Management](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf), [US EPA Integrated Pest Management principles](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles).
-- **Purpose for this article:** Ground observation, thresholds, monitoring, prevention, and least-risk selection without diagnosing from one photograph.
-- **Safe grounded facts:** Signs, specimens, locations, dates, environmental conditions, damage, device data, and trend can support identification and severity assessment; one sign can have multiple causes.
-- **Limits:** Obtain local entomology, pest, wildlife, building, or public-health expertise before species, severity, vector, disease, or treatment claims.
-
-### KR-10
-
-- **Original sources:** [US EPA cockroach IPM](https://www.epa.gov/ipm/identifying-and-controlling-cockroaches), [US EPA bed bug information](https://www.epa.gov/bedbugs), [CDC bed bug clinical boundary](https://www.cdc.gov/bed-bugs/about/index.html).
-- **Purpose for this article:** Prevent one generic insect procedure from being copied across organism families.
-- **Safe grounded facts:** Bites and skin marks do not confirm bed bugs; winged ants can be confused with termites; adult fly capture does not by itself identify a breeding source; pesticide exposure can change behavior and detectability.
-- **Limits:** Require competent identification and site evidence; no heat, steam, fumigation, pesticide, medical, or eradication recipes.
-
-### KR-13
-
-- **Original sources:** [WHO cleaning and disinfection guidance](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1), [Kementerian Kesehatan PKRT authorization guidance](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf).
-- **Purpose for this article:** Prevent disinfection claims from replacing soil removal, label scope, exposure control, or verification.
-- **Safe grounded facts:** Target organism/claim, surface, pre-cleaning, concentration, contact time, compatibility, ventilation, food contact, PPE, and verification are separate inputs.
-- **Limits:** Never invent dilution, mixture, contact time, PPE, sterilization, or incident response; use the current Indonesian authorization and product label.
-
-### KR-19
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen research separate from changing `basmi.co.id` offers and proof.
-- **Safe grounded facts:** A live claim needs an owner, original source, scope, date, expiry/review date, limitations, and approved wording.
-- **Limits:** If dated proof is absent, keep the article neutral and mark the gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BAS-00` | KR-01, KR-02, KR-03, KR-04, KR-07, KR-17, KR-19 | IPM lifecycle, roles, evidence hierarchy, monitoring, and neutral service boundaries. | EG-01, EG-02, EG-10, EG-11, EG-12 | | `BAS-01` | KR-01, KR-02, KR-03, KR-04, KR-07–KR-12, KR-14, KR-17 | Survey inputs, identification uncertainty, exposure pathways, risk register, documentation, and escalation. | EG-01, EG-03, EG-07, EG-08, EG-09 | | `BAS-02` | KR-05–KR-08, KR-14, KR-17–KR-19 | Termite evidence, moisture/building interfaces, method categories, monitoring, and structural boundary. | EG-01, EG-02, EG-03, EG-04, EG-07, EG-10 | | `BAS-03` | KR-02, KR-05–KR-07, KR-09, KR-13–KR-19 | Rodent signs, source/access controls, contamination, monitoring, facility integration, and product boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08 | | `BAS-04` | KR-02, KR-05–KR-07, KR-10, KR-13–KR-19 | Cockroach ecology, sanitation, harborages, monitoring, resistance, and facility interfaces. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-05` | KR-02, KR-05–KR-07, KR-10, KR-14, KR-17–KR-19 | Ant/termite distinction, trails and colony uncertainty, source/access controls, method trade-offs, and monitoring. | EG-01, EG-02, EG-03, EG-04, EG-07 | | `BAS-06` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-15, KR-17–KR-19 | Bed-bug signs and limits, stigma-free inspection, preparation concepts, follow-up, and medical boundary. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-08 | | `BAS-07` | KR-02, KR-05–KR-07, KR-10, KR-13, KR-16–KR-19 | Fly source tracing, waste/drain interfaces, physical controls, monitoring, and food-facility boundary. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07 | | `BAS-08` | KR-02–KR-07, KR-11, KR-15–KR-19 | Indonesian source reduction, surveillance, resistance, authority coordination, and chemical-intervention boundaries. | EG-01, EG-02, EG-03, EG-04, EG-06, EG-09 | | `BAS-09` | KR-02, KR-05–KR-07, KR-12, KR-15, KR-17–KR-19 | Immediate-risk isolation, identification limits, vulnerable people, pollinator/wildlife questions, and professional referral. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-10` | KR-02, KR-03, KR-05–KR-07, KR-12, KR-14–KR-19 | Access and food-chain causes, humane/proportionate control questions, protected-status and health boundaries. | EG-01, EG-03, EG-06, EG-08, EG-09 | | `BAS-11` | KR-03, KR-05, KR-06, KR-09, KR-10, KR-13, KR-15, KR-16, KR-18 | Cleaning/sanitation/disinfection distinctions, label-led controls, compatibility, exposure, and verification. | EG-02, EG-04, EG-05, EG-06, EG-07 | | `BAS-12` | KR-03, KR-07–KR-10, KR-14, KR-16–KR-19 | Moisture, leaks, drainage, gaps, screens, penetrations, voids, exclusion, and building escalation. | EG-01, EG-03, EG-07, EG-10 | | `BAS-13` | KR-02, KR-04–KR-07, KR-09–KR-18 | Multi-criteria comparison of prevention, physical/biological/chemical concepts, exposure, evidence, resistance, and follow-up. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | | `BAS-14` | KR-04–KR-06, KR-08–KR-13, KR-15–KR-19 | Registration/label/SDS boundaries, occupants, storage/transport, incidents, waste, and professional controls. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09, EG-11 | | `BAS-15` | KR-03–KR-06, KR-09–KR-13, KR-15–KR-19 | Occupant/pet/aquarium questions, communication, relocation/re-entry boundaries, privacy, and escalation. | EG-02, EG-04, EG-05, EG-06, EG-08, EG-09 | | `BAS-16` | KR-02–KR-07, KR-09–KR-18 | Facility-specific integration with hygiene, access, zoning, contamination protection, audit evidence, and authority gates. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-09, EG-10 | | `BAS-17` | KR-02, KR-04–KR-07, KR-09–KR-19 | Baseline, maps, thresholds, trends, corrective actions, scopes, exclusions, reports, and comparable contracts. | EG-01, EG-02, EG-03, EG-10, EG-11, EG-12 | | `BAS-18` | KR-03–KR-06, KR-11, KR-16–KR-19 | Current legal/competence/product verification workflow and boundary between visible status and actual compliance. | EG-02, EG-04, EG-09, EG-10, EG-11, EG-12 | | `BAS-19` | KR-02, KR-03, KR-05–KR-07, KR-09–KR-18 | Resistance, non-target pathways, exposure, packaging/carcasses, waste classification, monitoring, and adaptation. | EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-09 | Coverage result: **20/20 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Integrated management is a decision cycle; it is not a synonym for pesticide application. 2. Identification, infestation severity, health risk, building damage, product selection, and legal compliance are separate conclusions. 3. A registration, label, safety-data sheet, provider credential, service report, and site result prove different things. 4. Chemical controls never enter an article as invented doses, mixtures, placements, frequencies, re-entry periods, first aid, or disposal instructions. 5. Food, water, shelter, access, moisture, and human operations can be measured before and after intervention. 6. Monitoring data need a dated baseline, location/device map, method, threshold/action logic, corrective action, and trend. 7. Fogging, odor, visible mortality, or one quiet visit does not by itself prove source removal, disease prevention, or durable control. 8. “Natural,” “pet-safe,” “child-safe,” “non-toxic,” “eco-friendly,” and “guaranteed” require scoped product, exposure, efficacy, and operator evidence. 9. Pest evidence does not establish structural adequacy, medical diagnosis, wildlife legality, or food/health-facility compliance. 10. Company services, prices, coverage, schedules, credentials, products, cases, and warranties are volatile publication-time evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Organism identity, lookalike, infestation extent, vector status, or action threshold | `BAS-00`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17` | Specimen/field evidence, dated monitoring, qualified identification, local ecology, and documented uncertainty | | `EG-02` Product registration, label, formulation, target, rate, application, re-entry, or efficacy | `BAS-00`, `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current Indonesian registration and complete approved label matched to product, target, site, user, method, and date | | `EG-03` Treatment selection, equipment, heat/cold/steam/fumigation, trap/bait placement, or service frequency | `BAS-01`–`BAS-10`, `BAS-12`, `BAS-13`, `BAS-16`, `BAS-17`, `BAS-19` | Site survey, target evidence, exposure/risk assessment, alternatives, competent professional plan, and monitoring/review design | | `EG-04` Chemical exposure, PPE, mixing, storage, transport, spill, first aid, poisoning, or disposal | `BAS-02`–`BAS-08`, `BAS-11`, `BAS-13`–`BAS-19` | Current label/SDS, Indonesian K3/environmental rules, trained responsible person, emergency plan, and approved waste route | | `EG-05` Food, school, healthcare, hotel, warehouse, transport, or other high-risk-facility procedure | `BAS-03`, `BAS-04`, `BAS-07`, `BAS-11`, `BAS-13`–`BAS-16`, `BAS-19` | Facility-specific authority, process and contamination assessment, access plan, approvals, records, and competent operational review | | `EG-06` Child, pregnancy, older person, asthma/allergy, disability, pet, aquarium, plant, neighbor, or medical/veterinary safety | `BAS-06`, `BAS-08`–`BAS-11`, `BAS-13`–`BAS-15`, `BAS-19` | Person/animal/exposure-specific professional review, label controls, communication/relocation plan, and emergency route | | `EG-07` Moisture source, leak, drainage, building repair, exclusion detail, electrical/fire hazard, or structural adequacy | `BAS-01`–`BAS-08`, `BAS-11`–`BAS-13`, `BAS-16`, `BAS-19` | Actual building survey, measurements, applicable Indonesian requirements, and relevant building/plumbing/envelope/electrical/structural professional | | `EG-08` Disease diagnosis, bite/sting treatment, suspected poisoning, acute symptoms, or emergency instruction | `BAS-01`, `BAS-03`, `BAS-06`, `BAS-09`, `BAS-10`, `BAS-14`, `BAS-15` | Immediate official medical/veterinary/emergency escalation; no article-level diagnosis, antidote, or delay | | `EG-09` Wildlife/pollinator identity, protected status, capture/removal, non-target risk, resistance, or environmental claim | `BAS-01`, `BAS-08`–`BAS-10`, `BAS-13`, `BAS-16`, `BAS-18`, `BAS-19` | Current species/status, authority advice, field pathway and resistance evidence, product data, and ecology/environmental review | | `EG-10` Business licence, personnel competence, subcontractor, inspection, certificate, audit, or compliance claim | `BAS-00`, `BAS-02`, `BAS-12`, `BAS-16`–`BAS-18` | Entity/scope/location-matched official record, current validity, competent authority confirmation, and original audit evidence | | `EG-11` Price, coverage, availability, response time, product, visit count, warranty, guarantee, or performance | `BAS-00`, `BAS-14`, `BAS-17`, `BAS-18` | Dated operator-approved commercial record with scope, assumptions, exclusions, method, evidence, and effective period | | `EG-12` Client, case result, photograph, testimonial, personal data, complaint outcome, entitlement, liability, or legal advice | `BAS-00`, `BAS-17`, `BAS-18` | Original evidence, publication rights/lawful basis, data minimization, current legal review, and operator approval | ## Source-refresh triggers Recheck a record immediately when: - Indonesian health, pesticide, business, environmental, waste, consumer, or occupational rules change; - a product registration, label, formulation, holder, target, restriction, authorization, or safety document changes; - organism identity, disease status, protected status, resistance, outbreak, or local authority guidance matters; - a site, facility type, occupant, food process, building condition, exposure pathway, or waste stream differs; - an article introduces a number, procedure, safety claim, efficacy claim, legal claim, provider credential, price, case, warranty, or guarantee; - six months have passed since the verification date above. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kecoa` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-kecoa.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-kecoa-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-kecoa-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-kecoa-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembasmi-kecoa-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAS-04-A04` → `/artikel/perbandingan-metode-pengendalian-kecoa.html` — Gel Bait, Vacuum, Heat, dan Residual: Membandingkan Metode Kecoa
-- `BAS-04-A05` → `/artikel/kecoa-muncul-setelah-penyemprotan.html` — Mengapa Kecoa Tetap Muncul Setelah Penyemprotan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Basmi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud di sini adalah kecoa atau tanda keberadaannya pada peralatan yang memakai listrik, menghasilkan panas, memiliki motor, atau berhubungan dengan bahan pangan. Contohnya panel kontrol, rongga kabel, bagian bawah konveyor, kompartemen motor, lemari penyimpanan, mesin pengemas, dan peralatan dapur. Tanda seperti serangga, kulit ganti, kotoran, bau, atau telur perlu dicatat bersama lokasi dan waktunya; satu tanda saja dapat memiliki lebih dari satu penyebab dan tidak otomatis menunjukkan seluruh mesin terinfestasi.
+
+Artikel ini membahas keputusan awal, pengamanan, koordinasi, dan bukti yang perlu dikumpulkan. Artikel ini bukan izin untuk membuka panel bertegangan, membongkar motor, menyemprot ventilasi, memakai panas atau uap, mencampur bahan kimia, atau memutuskan bahwa pangan aman. Kecukupan instalasi listrik, perbaikan bangunan, dan pengesahan pelepasan mesin tetap menjadi ranah teknisi serta penanggung jawab fasilitas **[NEEDS EG-07: kondisi listrik, kebocoran, dan akses bangunan harus disurvei]**.
+
+Penting juga memisahkan tiga pertanyaan yang sering tercampur: apakah benar kecoa, apakah sudah terjadi kontaminasi, dan metode apa yang sah digunakan. Pedoman pengendalian hama terpadu (IPM) menempatkan pengamatan, pencegahan, pemilihan intervensi, pemantauan, dan evaluasi sebagai satu siklus; penyemprotan hanyalah salah satu kemungkinan, bukan definisi pengendalian ([WHO: strategi pengendalian vektor](https://www.who.int/teams/control-of-neglected-tropical-diseases/interventions/strategies/vector-control); [CDC: pengendalian hama terpadu](https://www.cdc.gov/nceh/ehs/docs/factsheets/ipm-in-schools.pdf)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari keadaan yang bisa diamati tanpa menyentuh bagian berbahaya. Catat tanggal, jam, nama atau nomor aset, apakah mesin sedang hidup, siapa yang melihat, lokasi tanda, dan apakah ada bahan pangan terbuka. Bila aman, simpan foto dari luar dan spesimen tanpa mengejar serangga ke bagian dalam. Jangan menggeser mesin atau menghapus tanda sebelum tim yang berwenang menentukan cara dokumentasi.
+
+Langkah berikutnya adalah pengamanan sementara. Batasi akses ke peralatan, beri tahu operator, dan minta pemilik proses menetapkan apakah mesin harus berhenti. “Shutdown authority” berarti kewenangan formal untuk menghentikan atau mengisolasi mesin; orang yang melihat kecoa belum tentu memiliki kewenangan itu. Keputusan tersebut harus dicatat agar tidak ada operator lain menyalakan mesin karena mengira masalah sudah selesai.
+
+Setelah kondisi energi aman menurut teknisi, pemeriksaan dapat melihat jalur masuk, celah, bagian bawah, ruang servis, area penyimpanan, dan lingkungan sekitar. Pemeriksa perlu menghubungkan tanda dengan sumber makanan, air, tempat berlindung, kebocoran, celah bangunan, dan aktivitas pembersihan. Peta aset, titik temuan, tanggal, dan tren pemantauan lebih berguna daripada satu foto tanpa konteks. Prinsip IPM EPA juga menekankan identifikasi, ambang tindakan, pemantauan, pencegahan, dan pilihan risiko terendah ([EPA: prinsip IPM](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
+
+Kontaminasi ditangani sebagai pertanyaan proses, bukan sekadar noda yang terlihat. Tanyakan apakah kecoa atau kotorannya mungkin menyentuh permukaan kontak pangan, kemasan terbuka, alat ukur, atau tangan operator; produk mana yang terdampak; dan bagaimana statusnya ditahan serta ditelusuri. Pembersihan untuk mengangkat kotoran berbeda dari disinfeksi. Keduanya perlu cocok dengan target, permukaan, pra-pembersihan, kompatibilitas, ventilasi, kontak pangan, dan verifikasi yang berlaku; jangan mengisi sendiri konsentrasi atau waktu kontak ([WHO: panduan pembersihan dan disinfeksi](https://www.who.int/publications/i/item/WHO-2019-nCoV-Disinfection-2020.1)).
+
+Baru setelah bukti dan batas keselamatan jelas, tim pengendali organisme, teknisi, dan penanggung jawab higiene menyusun rencana. Rencana itu dapat mencakup pengurangan sumber, perbaikan akses, pemantauan, dan intervensi yang disetujui. Setiap produk harus cocok dengan label dan peruntukan yang berlaku di Indonesia. Bahan aktif yang sama dapat hadir dalam formulasi dan penggunaan yang berbeda; lembar data keselamatan atau materi pemasaran tidak menggantikan label yang disetujui ([Pedoman izin edar PKRT Kementerian Kesehatan](https://regalkes.kemkes.go.id/informasi_alkes/014.%20Pedoman%20Pelayanan%20Izin%20Edar%20PKRT%20Bilingual.pdf)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Keadaan mesin adalah pembeda pertama. Mesin yang sedang berenergi, memiliki kapasitor, elemen pemanas, motor, atau kipas tidak boleh diperlakukan seperti lantai kosong. Panas, uap, cairan, atau aerosol dapat mengubah risiko listrik, merusak komponen, memindahkan kontaminan, atau membuat sisa bahan sulit diverifikasi. Karena tidak ada data pabrikan dan penilaian lokasi di artikel ini, keputusan tentang panas, uap, pembongkaran, dan metode akses tetap **[NEEDS EG-03: memerlukan rencana kompeten berbasis survei]**.
+
+Kedekatan dengan pangan mengubah standar kehati-hatian. Mesin yang hanya berada di ruang utilitas tidak otomatis memiliki jalur kontaminasi yang sama dengan pengisi atau pemotong pangan. Periksa aliran bahan, kemasan, kondensasi, drainase, dan kebiasaan operator. Jika jenis fasilitas, proses, atau produk tidak jelas, jangan menganggap prosedur rumah tangga cukup **[NEEDS EG-05: persetujuan dan prosedur fasilitas pangan belum tersedia]**.
+
+Bukti juga mengubah skala eskalasi. Satu kecoa hidup di luar mesin, tanda berulang di beberapa aset, atau jejak yang muncul setelah pembersihan adalah situasi yang berbeda. Catatan tanggal, lokasi, kondisi lingkungan, kerusakan, dan data perangkat membantu membedakan kejadian tunggal dari pola. Pedoman EPA mengingatkan bahwa tanda kecoa perlu dipadukan dengan inspeksi dan pencegahan, bukan dibaca sebagai diagnosis menyeluruh dari satu pengamatan ([EPA: identifikasi dan pengendalian kecoa](https://www.epa.gov/ipm/identifying-and-controlling-cockroaches)).
+
+Riwayat tindakan sebelumnya ikut menentukan. Penyemprotan dapat mengubah perilaku dan keterlihatan hama, sehingga mesin yang tampak tenang pada satu kunjungan belum tentu bebas sumber. Catat produk atau metode yang pernah digunakan hanya jika ada bukti tertulis; jangan menebak bahan dari bau, warna, atau nama dagang. Paparan bahan kimia, penyimpanan, pembuangan, dan perlindungan pekerja memerlukan label, lembar data keselamatan, dan penilaian khusus **[NEEDS EG-02 dan EG-04: produk serta kontrol paparan belum diverifikasi]**.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan operator melihat kecoa keluar dari bawah mesin pengemas saat jalur produksi berjalan. Tindakan awalnya bukan menyemprot celah atau menarik mesin. Operator melapor, produk dan bahan terbuka ditahan sesuai prosedur fasilitas, area diberi batas, dan penanggung jawab shutdown memutuskan penghentian yang aman. Teknisi kemudian mengonfirmasi kondisi energi sebelum pemeriksaan akses; tim higiene menilai apakah ada permukaan kontak pangan yang mungkin terdampak.
+
+Jika tanda hanya berada di lantai jauh dari mesin dan tidak berulang, catatan lokasi serta pemantauan dapat menjadi dasar evaluasi awal. Jika tanda muncul di beberapa titik aset, ada kotoran di rongga servis, atau kecoa terlihat berulang pada waktu berbeda, eskalasi perlu mencakup sumber lingkungan, jalur masuk, dan rencana pemantauan lintas aset. Tidak satu pun skenario itu membuktikan spesies atau tingkat infestasi tanpa pemeriksaan **[NEEDS EG-01]**.
+
+Gunakan pertanyaan keputusan berikut dalam rapat singkat: apakah mesin aman untuk diakses, siapa yang berwenang menghentikannya, apakah pangan atau kemasan harus ditahan, bukti apa yang sudah dicatat, bagian mana yang boleh diperiksa, dan siapa yang menyetujui mesin kembali beroperasi? Jawaban “belum tahu” adalah alasan untuk menahan langkah berikutnya, bukan alasan untuk memilih bahan secara acak.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kecoa di Peralatan Elektronik dan Mesin Pangan: Risiko dan Eskalasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyemprot kisi-kisi, ventilasi, atau sambungan lalu menyalakan mesin kembali. Periksa catatan pekerjaan: apakah label produk mengizinkan permukaan dan metode tersebut, apakah akses listrik dinyatakan aman, dan bagaimana sisa bahan diverifikasi? Tanpa jawaban itu, tindakan tersebut dapat menambah risiko tanpa membuktikan sumber kecoa hilang.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap satu bangkai sebagai bukti keberhasilan. Tanyakan kapan ditemukan, di mana letaknya, apakah ada tanda lain, dan bagaimana tren setelah tindakan. IPM membutuhkan pemantauan dan evaluasi; bau bahan, serangga yang terlihat mati, atau satu kunjungan sepi bukan bukti pengendalian tahan lama ([EPA: prinsip IPM](https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menyamakan semua serangga atau semua permukaan. Tanda gigitan atau serangga lain tidak mengonfirmasi kecoa, dan permukaan kontak pangan tidak dapat diperlakukan seperti lantai hanya karena sama-sama tampak kotor. Minta identifikasi kompeten, pisahkan pembersihan dari disinfeksi, lalu cocokkan metode dengan bahan, peralatan, dan label.
 
-## Required conclusion
+Kesalahan keempat adalah menutup laporan dengan kata “aman” tanpa kriteria. Ganti kata itu dengan catatan yang bisa diperiksa: aset mana, area mana, bukti apa, tindakan apa, batas yang belum dinilai, dan siapa yang menyetujui pelepasan. Kawan Basmi.co.id, dokumen sederhana seperti foto luar, peta titik temuan, log penghentian, dan hasil pemeriksaan teknisi sering lebih berguna daripada klaim umum tanpa tanggal.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang tampak praktis, tetapi berisiko
 
-## Draft completion checklist
+Jalan pintas yang sering dipilih adalah meminta petugas umum menyemprot dari luar agar produksi tidak berhenti. Daya tariknya jelas: tidak perlu rapat dan hasil terlihat cepat. Namun semprotan dari luar tidak menjawab apakah kecoa berada di rongga, apakah listrik aman, apakah bahan masuk ke jalur pangan, atau apakah sumber di sekitar mesin masih tersedia.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Basmi.co.id!` and uses friendly `Basmi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah eskalasi singkat berbasis peran. Tahan akses dan produk seperlunya, panggil teknisi untuk status energi dan akses, libatkan penanggung jawab higiene untuk kontaminasi, lalu minta tenaga pengendali hama menyusun pilihan yang sesuai bukti dan label. Jangan meminta resep panas, uap, fumigasi, campuran, dosis, atau waktu masuk kembali dari artikel umum; semua itu memerlukan data produk, lokasi, dan profesional **[NEEDS EG-03, EG-04, dan EG-05]**.
+
+## Langkah berikutnya untuk Teman Basmi.co.id
+
+Buat satu lembar insiden sebelum memanggil bantuan: identitas aset, waktu dan lokasi temuan, status mesin saat ditemukan, bahan pangan yang mungkin berada di sekitar, foto dari luar, tindakan sementara, dan nama pemegang kewenangan shutdown. Sertakan pertanyaan apakah pemeriksaan memerlukan teknisi listrik, penanggung jawab higiene, dan pengendali organisme secara bersamaan. Untuk memahami konteks layanan kecoa, Anda dapat mulai dari [halaman informasi kecoa](/kecoa) dan, bila perlu, mengirim kebutuhan lapangan melalui [layanan pembasmi kecoa](/jasa-pembasmi-kecoa.html).
+
+Jawaban ringkasnya: kecoa di peralatan elektronik atau mesin pangan adalah pemicu isolasi dan pemeriksaan terkoordinasi, bukan izin untuk menyemprot atau membongkar sendiri. Sobat Basmi.co.id, lepaskan mesin hanya setelah kondisi energi, kontaminasi, bukti identitas, dan rencana tindak lanjut disetujui pihak yang berwenang. Selama bukti untuk **[NEEDS EG-01, EG-02, EG-03, EG-04, EG-05, dan EG-07]** belum lengkap, pertahankan batas operasi dan minta tinjauan teknis sebelum mesin dinyatakan boleh digunakan kembali.
